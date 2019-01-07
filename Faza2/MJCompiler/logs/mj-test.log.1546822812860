@@ -1,0 +1,109 @@
+INFO  01:59:12,053 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  01:59:12,082 - #2 program
+INFO  01:59:12,082 - #45 MJProgram
+INFO  01:59:12,082 - #45 int
+INFO  01:59:12,082 - #45 x
+INFO  01:59:12,082 - #18 ;
+INFO  01:59:12,082 - #12 {
+INFO  01:59:12,083 - #45 int
+INFO  01:59:12,083 - #45 main
+INFO  01:59:12,083 - #16 (
+INFO  01:59:12,083 - #17 )
+INFO  01:59:12,083 - #12 {
+INFO  01:59:12,084 - #45 x
+INFO  01:59:12,084 - #26 =
+INFO  01:59:12,084 - #45 y
+INFO  01:59:12,085 - #21 +
+INFO  01:59:12,085 - #44 5
+INFO  01:59:12,086 - #18 ;
+INFO  01:59:12,086 - #11 print
+INFO  01:59:12,086 - #16 (
+INFO  01:59:12,086 - #44 2
+INFO  01:59:12,086 - #17 )
+INFO  01:59:12,086 - #18 ;
+INFO  01:59:12,087 - #13 }
+INFO  01:59:12,087 - #13 }
+INFO  01:59:12,088 - Program(
+ MJProgram
+  Declarations(
+    VarDeclaration(
+      VarDeclNode(
+        Type(
+         int
+        ) [Type]
+        SingleVariable(
+          VariableNoBracket(
+           x
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoVoidType(
+        Type(
+         int
+        ) [Type]
+      ) [NoVoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               x
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              ExpressionNode(
+                SingleExpression(
+                  NoSingleMinus(
+                  ) [NoSingleMinus]
+                  TermFactor(
+                    DesignatorEmpty(
+                      DesignatorNode(
+                       y
+                        NoIdentExpr(
+                        ) [NoIdentExpr]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermFactor]
+                ) [SingleExpression]
+                AddopPlus(
+                ) [AddopPlus]
+                TermFactor(
+                  ConstantNumber(
+                   5
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [ExpressionNode]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        PrintStatement(
+          SingleExpression(
+            NoSingleMinus(
+            ) [NoSingleMinus]
+            TermFactor(
+              ConstantNumber(
+               2
+              ) [ConstantNumber]
+            ) [TermFactor]
+          ) [SingleExpression]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:59:12,088 - ===================================

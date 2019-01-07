@@ -1,0 +1,1542 @@
+INFO  04:05:23,394 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:05:23,424 - #2 program
+INFO  04:05:23,424 - #45 P
+INFO  04:05:23,424 - #8 const
+INFO  04:05:23,424 - #45 int
+INFO  04:05:23,424 - #45 size
+INFO  04:05:23,424 - #26 =
+INFO  04:05:23,424 - #44 10
+INFO  04:05:23,424 - #18 ;
+INFO  04:05:23,425 - #45 int
+INFO  04:05:23,425 - #45 a
+INFO  04:05:23,425 - #21 +
+ERROR 04:05:23,425 - 
+Sintaksna greska na liniji 3
+INFO  04:05:23,425 - #44 1
+INFO  04:05:23,425 - #19 ,
+INFO  04:05:23,425 - #45 b
+INFO  04:05:23,425 - #19 ,
+INFO  04:05:23,426 - #45 d
+INFO  04:05:23,426 - #18 ;
+INFO  04:05:23,426 - #6 enum
+INFO  04:05:23,426 - #45 Num
+INFO  04:05:23,426 - #12 {
+ERROR 04:05:23,427 - [Globalna prom] Izvrsen oporavak do sledece ,/; u liniji 3
+INFO  04:05:23,427 - #45 ZERO
+INFO  04:05:23,427 - #19 ,
+INFO  04:05:23,427 - #45 ONE
+INFO  04:05:23,427 - #19 ,
+INFO  04:05:23,427 - #45 TEN
+INFO  04:05:23,427 - #26 =
+INFO  04:05:23,427 - #44 10
+INFO  04:05:23,427 - #13 }
+INFO  04:05:23,427 - #5 interface
+INFO  04:05:23,427 - #45 I
+INFO  04:05:23,428 - #12 {
+INFO  04:05:23,428 - #45 int
+INFO  04:05:23,428 - #45 getp
+INFO  04:05:23,428 - #16 (
+INFO  04:05:23,428 - #45 int
+INFO  04:05:23,428 - #45 i
+INFO  04:05:23,428 - #17 )
+INFO  04:05:23,428 - #18 ;
+INFO  04:05:23,428 - #45 int
+INFO  04:05:23,429 - #45 getn
+INFO  04:05:23,429 - #16 (
+INFO  04:05:23,429 - #45 int
+INFO  04:05:23,429 - #45 i
+INFO  04:05:23,429 - #17 )
+INFO  04:05:23,429 - #18 ;
+INFO  04:05:23,429 - #13 }
+INFO  04:05:23,429 - #4 class
+INFO  04:05:23,429 - #45 Table
+INFO  04:05:23,429 - #42 implements
+INFO  04:05:23,429 - #45 I
+INFO  04:05:23,429 - #12 {
+INFO  04:05:23,430 - #45 int
+INFO  04:05:23,430 - #45 pos
+INFO  04:05:23,430 - #14 [
+INFO  04:05:23,430 - #15 ]
+INFO  04:05:23,430 - #19 ,
+INFO  04:05:23,430 - #45 neg
+INFO  04:05:23,430 - #14 [
+INFO  04:05:23,430 - #15 ]
+INFO  04:05:23,430 - #18 ;
+INFO  04:05:23,430 - #12 {
+INFO  04:05:23,431 - #39 void
+INFO  04:05:23,431 - #45 putp
+INFO  04:05:23,431 - #16 (
+INFO  04:05:23,431 - #45 int
+INFO  04:05:23,431 - #45 a
+INFO  04:05:23,431 - #19 ,
+INFO  04:05:23,431 - #45 int
+INFO  04:05:23,431 - #45 idx
+INFO  04:05:23,431 - #17 )
+INFO  04:05:23,431 - #12 {
+INFO  04:05:23,432 - #45 this
+INFO  04:05:23,432 - #20 .
+INFO  04:05:23,432 - #45 pos
+INFO  04:05:23,432 - #14 [
+INFO  04:05:23,432 - #45 idx
+INFO  04:05:23,433 - #15 ]
+INFO  04:05:23,433 - #26 =
+INFO  04:05:23,433 - #45 a
+INFO  04:05:23,433 - #18 ;
+INFO  04:05:23,434 - #13 }
+INFO  04:05:23,434 - #39 void
+INFO  04:05:23,434 - #45 putn
+INFO  04:05:23,434 - #16 (
+INFO  04:05:23,434 - #45 int
+INFO  04:05:23,434 - #45 a
+INFO  04:05:23,435 - #19 ,
+INFO  04:05:23,435 - #45 int
+INFO  04:05:23,435 - #45 idx
+INFO  04:05:23,435 - #17 )
+INFO  04:05:23,435 - #12 {
+INFO  04:05:23,435 - #45 this
+INFO  04:05:23,435 - #20 .
+INFO  04:05:23,435 - #45 neg
+INFO  04:05:23,435 - #14 [
+INFO  04:05:23,435 - #45 idx
+INFO  04:05:23,435 - #15 ]
+INFO  04:05:23,435 - #26 =
+INFO  04:05:23,435 - #45 a
+INFO  04:05:23,435 - #18 ;
+INFO  04:05:23,435 - #13 }
+INFO  04:05:23,435 - #45 int
+INFO  04:05:23,435 - #45 getp
+INFO  04:05:23,435 - #16 (
+INFO  04:05:23,435 - #45 int
+INFO  04:05:23,435 - #45 idx
+INFO  04:05:23,435 - #17 )
+INFO  04:05:23,435 - #12 {
+INFO  04:05:23,435 - #38 return
+INFO  04:05:23,435 - #45 pos
+INFO  04:05:23,435 - #14 [
+INFO  04:05:23,436 - #45 idx
+INFO  04:05:23,436 - #15 ]
+INFO  04:05:23,436 - #18 ;
+INFO  04:05:23,436 - #13 }
+INFO  04:05:23,436 - #45 int
+INFO  04:05:23,436 - #45 getn
+INFO  04:05:23,436 - #16 (
+INFO  04:05:23,436 - #45 int
+INFO  04:05:23,436 - #45 idx
+INFO  04:05:23,436 - #17 )
+INFO  04:05:23,436 - #12 {
+INFO  04:05:23,436 - #38 return
+INFO  04:05:23,436 - #45 neg
+INFO  04:05:23,436 - #14 [
+INFO  04:05:23,436 - #45 idx
+INFO  04:05:23,436 - #15 ]
+INFO  04:05:23,436 - #18 ;
+INFO  04:05:23,436 - #13 }
+INFO  04:05:23,436 - #13 }
+INFO  04:05:23,438 - #13 }
+INFO  04:05:23,438 - #45 Table
+INFO  04:05:23,438 - #45 val
+INFO  04:05:23,438 - #18 ;
+INFO  04:05:23,438 - #45 int
+INFO  04:05:23,438 - #45 a
+INFO  04:05:23,438 - #19 ,
+INFO  04:05:23,438 - #45 b
+INFO  04:05:23,438 - #19 ,
+INFO  04:05:23,438 - #45 c
+INFO  04:05:23,438 - #18 ;
+INFO  04:05:23,438 - #12 {
+INFO  04:05:23,438 - #39 void
+INFO  04:05:23,438 - #45 f
+INFO  04:05:23,438 - #16 (
+INFO  04:05:23,438 - #45 char
+INFO  04:05:23,438 - #45 ch
+INFO  04:05:23,438 - #19 ,
+INFO  04:05:23,439 - #45 int
+INFO  04:05:23,439 - #45 a
+INFO  04:05:23,439 - #19 ,
+INFO  04:05:23,439 - #45 int
+INFO  04:05:23,439 - #45 arg
+INFO  04:05:23,439 - #17 )
+INFO  04:05:23,439 - #45 int
+INFO  04:05:23,439 - #45 x
+INFO  04:05:23,439 - #18 ;
+INFO  04:05:23,439 - #12 {
+INFO  04:05:23,439 - #45 x
+INFO  04:05:23,439 - #26 =
+INFO  04:05:23,439 - #45 arg
+INFO  04:05:23,439 - #27 ++
+ERROR 04:05:23,439 - 
+Sintaksna greska na liniji 25
+INFO  04:05:23,439 - #44 1
+INFO  04:05:23,439 - #18 ;
+INFO  04:05:23,439 - #13 }
+INFO  04:05:23,439 - #39 void
+INFO  04:05:23,439 - #45 main
+ERROR 04:05:23,439 - [Dodela] Izvrsen oporavak do ; u liniji 25
+INFO  04:05:23,439 - #16 (
+INFO  04:05:23,440 - #17 )
+INFO  04:05:23,440 - #45 int
+INFO  04:05:23,440 - #45 x
+INFO  04:05:23,440 - #19 ,
+INFO  04:05:23,440 - #45 i
+INFO  04:05:23,440 - #18 ;
+INFO  04:05:23,440 - #45 char
+INFO  04:05:23,440 - #45 c
+INFO  04:05:23,440 - #18 ;
+INFO  04:05:23,440 - #12 {
+INFO  04:05:23,440 - #45 val
+INFO  04:05:23,440 - #26 =
+INFO  04:05:23,440 - #10 new
+INFO  04:05:23,440 - #45 Table
+INFO  04:05:23,440 - #18 ;
+INFO  04:05:23,441 - #45 val
+INFO  04:05:23,441 - #20 .
+INFO  04:05:23,441 - #45 pos
+INFO  04:05:23,441 - #26 =
+INFO  04:05:23,441 - #10 new
+INFO  04:05:23,441 - #45 int
+INFO  04:05:23,441 - #14 [
+INFO  04:05:23,441 - #45 size
+INFO  04:05:23,441 - #15 ]
+INFO  04:05:23,441 - #18 ;
+INFO  04:05:23,441 - #45 val
+INFO  04:05:23,441 - #20 .
+INFO  04:05:23,441 - #45 neg
+INFO  04:05:23,441 - #26 =
+INFO  04:05:23,441 - #10 new
+INFO  04:05:23,441 - #45 int
+INFO  04:05:23,441 - #14 [
+INFO  04:05:23,441 - #45 size
+INFO  04:05:23,441 - #15 ]
+INFO  04:05:23,441 - #18 ;
+INFO  04:05:23,441 - #40 for
+INFO  04:05:23,441 - #16 (
+INFO  04:05:23,441 - #45 i
+INFO  04:05:23,441 - #26 =
+INFO  04:05:23,441 - #44 0
+INFO  04:05:23,441 - #18 ;
+INFO  04:05:23,441 - #45 i
+INFO  04:05:23,441 - #33 <
+INFO  04:05:23,442 - #45 size
+INFO  04:05:23,442 - #18 ;
+INFO  04:05:23,442 - #45 i
+INFO  04:05:23,442 - #27 ++
+INFO  04:05:23,442 - #17 )
+INFO  04:05:23,443 - #12 {
+INFO  04:05:23,443 - #45 val
+INFO  04:05:23,443 - #20 .
+INFO  04:05:23,443 - #45 putp
+INFO  04:05:23,443 - #16 (
+INFO  04:05:23,443 - #44 0
+INFO  04:05:23,443 - #19 ,
+INFO  04:05:23,443 - #45 i
+INFO  04:05:23,443 - #17 )
+INFO  04:05:23,443 - #18 ;
+INFO  04:05:23,443 - #45 val
+INFO  04:05:23,443 - #20 .
+INFO  04:05:23,443 - #45 putn
+INFO  04:05:23,443 - #16 (
+INFO  04:05:23,443 - #44 0
+INFO  04:05:23,443 - #19 ,
+INFO  04:05:23,443 - #45 i
+INFO  04:05:23,443 - #17 )
+INFO  04:05:23,443 - #18 ;
+INFO  04:05:23,443 - #13 }
+INFO  04:05:23,443 - #45 f
+INFO  04:05:23,444 - #16 (
+INFO  04:05:23,444 - #45 c
+INFO  04:05:23,444 - #19 ,
+INFO  04:05:23,444 - #45 x
+INFO  04:05:23,444 - #19 ,
+INFO  04:05:23,444 - #45 i
+INFO  04:05:23,444 - #17 )
+INFO  04:05:23,444 - #18 ;
+INFO  04:05:23,444 - #37 read
+INFO  04:05:23,444 - #16 (
+INFO  04:05:23,444 - #45 x
+INFO  04:05:23,444 - #17 )
+INFO  04:05:23,444 - #18 ;
+INFO  04:05:23,446 - #40 for
+INFO  04:05:23,446 - #16 (
+INFO  04:05:23,446 - #18 ;
+INFO  04:05:23,446 - #45 x
+INFO  04:05:23,446 - #31 >
+INFO  04:05:23,446 - #44 0
+INFO  04:05:23,447 - #18 ;
+INFO  04:05:23,447 - #17 )
+INFO  04:05:23,447 - #12 {
+INFO  04:05:23,447 - #9 if
+INFO  04:05:23,447 - #16 (
+INFO  04:05:23,447 - #45 Num
+INFO  04:05:23,447 - #20 .
+INFO  04:05:23,447 - #45 ZERO
+INFO  04:05:23,447 - #34 <=
+INFO  04:05:23,447 - #45 x
+INFO  04:05:23,447 - #35 &&
+INFO  04:05:23,447 - #45 x
+INFO  04:05:23,447 - #33 <
+INFO  04:05:23,447 - #45 size
+INFO  04:05:23,447 - #17 )
+INFO  04:05:23,447 - #12 {
+INFO  04:05:23,447 - #45 val
+INFO  04:05:23,447 - #20 .
+INFO  04:05:23,447 - #45 putp
+INFO  04:05:23,447 - #16 (
+INFO  04:05:23,447 - #45 val
+INFO  04:05:23,447 - #20 .
+INFO  04:05:23,447 - #45 getp
+INFO  04:05:23,447 - #16 (
+INFO  04:05:23,447 - #45 x
+INFO  04:05:23,448 - #17 )
+INFO  04:05:23,448 - #21 +
+INFO  04:05:23,448 - #45 Num
+INFO  04:05:23,448 - #20 .
+INFO  04:05:23,448 - #45 ONE
+INFO  04:05:23,448 - #17 )
+INFO  04:05:23,448 - #18 ;
+INFO  04:05:23,448 - #13 }
+INFO  04:05:23,448 - #7 else
+INFO  04:05:23,448 - #9 if
+INFO  04:05:23,448 - #16 (
+INFO  04:05:23,448 - #22 -
+INFO  04:05:23,449 - #45 size
+INFO  04:05:23,449 - #33 <
+INFO  04:05:23,449 - #45 x
+INFO  04:05:23,449 - #35 &&
+INFO  04:05:23,449 - #45 x
+INFO  04:05:23,449 - #33 <
+INFO  04:05:23,449 - #44 0
+INFO  04:05:23,449 - #17 )
+INFO  04:05:23,449 - #12 {
+INFO  04:05:23,449 - #45 val
+INFO  04:05:23,449 - #20 .
+INFO  04:05:23,449 - #45 putn
+INFO  04:05:23,449 - #16 (
+INFO  04:05:23,449 - #45 val
+INFO  04:05:23,449 - #20 .
+INFO  04:05:23,449 - #45 getn
+INFO  04:05:23,449 - #16 (
+INFO  04:05:23,449 - #22 -
+INFO  04:05:23,449 - #45 x
+INFO  04:05:23,449 - #17 )
+INFO  04:05:23,449 - #21 +
+INFO  04:05:23,449 - #44 1
+INFO  04:05:23,450 - #17 )
+INFO  04:05:23,450 - #18 ;
+INFO  04:05:23,450 - #13 }
+INFO  04:05:23,450 - #37 read
+INFO  04:05:23,450 - #16 (
+INFO  04:05:23,450 - #45 x
+INFO  04:05:23,450 - #17 )
+INFO  04:05:23,450 - #18 ;
+INFO  04:05:23,450 - #13 }
+INFO  04:05:23,450 - #13 }
+INFO  04:05:23,450 - #13 }
+INFO  04:05:23,454 - Program(
+ P
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declarations(
+            Declarations(
+              Declarations(
+                NoDecl(
+                ) [NoDecl]
+                ConstDeclaration(
+                  ConstDeclNode(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                    SingleConstant(
+                     size
+                      NumberNode(
+                       10
+                      ) [NumberNode]
+                    ) [SingleConstant]
+                  ) [ConstDeclNode]
+                ) [ConstDeclaration]
+              ) [Declarations]
+              VarDeclaration(
+                ErrorGlob(
+                  null
+                ) [ErrorGlob]
+              ) [VarDeclaration]
+            ) [Declarations]
+            EnumDeclaration(
+              EnumDeclarationNode(
+               Num
+                Enumerations(
+                  Enumerations(
+                    SingleEnumeration(
+                      EnumerationNoVal(
+                       ZERO
+                      ) [EnumerationNoVal]
+                    ) [SingleEnumeration]
+                    EnumerationNoVal(
+                     ONE
+                    ) [EnumerationNoVal]
+                  ) [Enumerations]
+                  EnumerationVal(
+                   TEN
+                   10
+                  ) [EnumerationVal]
+                ) [Enumerations]
+              ) [EnumDeclarationNode]
+            ) [EnumDeclaration]
+          ) [Declarations]
+          InterfaceDeclaration(
+            InterfaceDeclarationNode(
+             I
+              InterfaceMethodDeclarations(
+                InterfaceMethodDeclarations(
+                  NoInterfaceMethodDeclaration(
+                  ) [NoInterfaceMethodDeclaration]
+                  InterfaceMethodDeclarationWithParams(
+                    NoVoidType(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                    ) [NoVoidType]
+                   getp
+                    FormalParams(
+                      SingleFormalParamDecl(
+                        FormalParamDeclarationNoBrackets(
+                          TypeNode(
+                           int
+                          ) [TypeNode]
+                         i
+                        ) [FormalParamDeclarationNoBrackets]
+                      ) [SingleFormalParamDecl]
+                    ) [FormalParams]
+                  ) [InterfaceMethodDeclarationWithParams]
+                ) [InterfaceMethodDeclarations]
+                InterfaceMethodDeclarationWithParams(
+                  NoVoidType(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                  ) [NoVoidType]
+                 getn
+                  FormalParams(
+                    SingleFormalParamDecl(
+                      FormalParamDeclarationNoBrackets(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                       i
+                      ) [FormalParamDeclarationNoBrackets]
+                    ) [SingleFormalParamDecl]
+                  ) [FormalParams]
+                ) [InterfaceMethodDeclarationWithParams]
+              ) [InterfaceMethodDeclarations]
+            ) [InterfaceDeclarationNode]
+          ) [InterfaceDeclaration]
+        ) [Declarations]
+        ClassDeclaration(
+          ClassDeclarationWithMethods(
+           Table
+            NoExtension(
+            ) [NoExtension]
+            Implementation(
+              SinglType(
+                TypeNode(
+                 I
+                ) [TypeNode]
+              ) [SinglType]
+            ) [Implementation]
+            VarDeclarationList(
+              NoVarDeclaration(
+              ) [NoVarDeclaration]
+              VarDeclNode(
+                TypeNode(
+                 int
+                ) [TypeNode]
+                Variables(
+                  SingleVariable(
+                    VariableBracket(
+                     pos
+                    ) [VariableBracket]
+                  ) [SingleVariable]
+                  VariableBracket(
+                   neg
+                  ) [VariableBracket]
+                ) [Variables]
+              ) [VarDeclNode]
+            ) [VarDeclarationList]
+            MethodDeclarations(
+              MethodDeclarations(
+                MethodDeclarations(
+                  MethodDeclarations(
+                    NoMethodDecl(
+                    ) [NoMethodDecl]
+                    MethodDecl(
+                      VoidType(
+                      ) [VoidType]
+                     putp
+                      FormalParams(
+                        FormalParamDecls(
+                          SingleFormalParamDecl(
+                            FormalParamDeclarationNoBrackets(
+                              TypeNode(
+                               int
+                              ) [TypeNode]
+                             a
+                            ) [FormalParamDeclarationNoBrackets]
+                          ) [SingleFormalParamDecl]
+                          FormalParamDeclarationNoBrackets(
+                            TypeNode(
+                             int
+                            ) [TypeNode]
+                           idx
+                          ) [FormalParamDeclarationNoBrackets]
+                        ) [FormalParamDecls]
+                      ) [FormalParams]
+                      NoVarDeclaration(
+                      ) [NoVarDeclaration]
+                      Statements(
+                        NoStatement(
+                        ) [NoStatement]
+                        DesignatorStatementOnly(
+                          DesignatorStatementAssignop(
+                            DesignatorNode(
+                             this
+                              Exprs(
+                                Idents(
+                                  NoIdentExpr(
+                                  ) [NoIdentExpr]
+                                 pos
+                                ) [Idents]
+                                SingleExpression(
+                                  NoSingleMinus(
+                                  ) [NoSingleMinus]
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                       idx
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [Exprs]
+                            ) [DesignatorNode]
+                            Assignop(
+                            ) [Assignop]
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   a
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [DesignatorStatementAssignop]
+                        ) [DesignatorStatementOnly]
+                      ) [Statements]
+                    ) [MethodDecl]
+                  ) [MethodDeclarations]
+                  MethodDecl(
+                    VoidType(
+                    ) [VoidType]
+                   putn
+                    FormalParams(
+                      FormalParamDecls(
+                        SingleFormalParamDecl(
+                          FormalParamDeclarationNoBrackets(
+                            TypeNode(
+                             int
+                            ) [TypeNode]
+                           a
+                          ) [FormalParamDeclarationNoBrackets]
+                        ) [SingleFormalParamDecl]
+                        FormalParamDeclarationNoBrackets(
+                          TypeNode(
+                           int
+                          ) [TypeNode]
+                         idx
+                        ) [FormalParamDeclarationNoBrackets]
+                      ) [FormalParamDecls]
+                    ) [FormalParams]
+                    NoVarDeclaration(
+                    ) [NoVarDeclaration]
+                    Statements(
+                      NoStatement(
+                      ) [NoStatement]
+                      DesignatorStatementOnly(
+                        DesignatorStatementAssignop(
+                          DesignatorNode(
+                           this
+                            Exprs(
+                              Idents(
+                                NoIdentExpr(
+                                ) [NoIdentExpr]
+                               neg
+                              ) [Idents]
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     idx
+                                      NoIdentExpr(
+                                      ) [NoIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [Exprs]
+                          ) [DesignatorNode]
+                          Assignop(
+                          ) [Assignop]
+                          SingleExpression(
+                            NoSingleMinus(
+                            ) [NoSingleMinus]
+                            TermFactor(
+                              DesignatorEmpty(
+                                DesignatorNode(
+                                 a
+                                  NoIdentExpr(
+                                  ) [NoIdentExpr]
+                                ) [DesignatorNode]
+                              ) [DesignatorEmpty]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [DesignatorStatementAssignop]
+                      ) [DesignatorStatementOnly]
+                    ) [Statements]
+                  ) [MethodDecl]
+                ) [MethodDeclarations]
+                MethodDecl(
+                  NoVoidType(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                  ) [NoVoidType]
+                 getp
+                  FormalParams(
+                    SingleFormalParamDecl(
+                      FormalParamDeclarationNoBrackets(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                       idx
+                      ) [FormalParamDeclarationNoBrackets]
+                    ) [SingleFormalParamDecl]
+                  ) [FormalParams]
+                  NoVarDeclaration(
+                  ) [NoVarDeclaration]
+                  Statements(
+                    NoStatement(
+                    ) [NoStatement]
+                    ReturnStatement(
+                      ExprNotNull(
+                        SingleExpression(
+                          NoSingleMinus(
+                          ) [NoSingleMinus]
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                               pos
+                                Exprs(
+                                  NoIdentExpr(
+                                  ) [NoIdentExpr]
+                                  SingleExpression(
+                                    NoSingleMinus(
+                                    ) [NoSingleMinus]
+                                    TermFactor(
+                                      DesignatorEmpty(
+                                        DesignatorNode(
+                                         idx
+                                          NoIdentExpr(
+                                          ) [NoIdentExpr]
+                                        ) [DesignatorNode]
+                                      ) [DesignatorEmpty]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [Exprs]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [ExprNotNull]
+                    ) [ReturnStatement]
+                  ) [Statements]
+                ) [MethodDecl]
+              ) [MethodDeclarations]
+              MethodDecl(
+                NoVoidType(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                ) [NoVoidType]
+               getn
+                FormalParams(
+                  SingleFormalParamDecl(
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     idx
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [SingleFormalParamDecl]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  ReturnStatement(
+                    ExprNotNull(
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             neg
+                              Exprs(
+                                NoIdentExpr(
+                                ) [NoIdentExpr]
+                                SingleExpression(
+                                  NoSingleMinus(
+                                  ) [NoSingleMinus]
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                       idx
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [Exprs]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [ExprNotNull]
+                  ) [ReturnStatement]
+                ) [Statements]
+              ) [MethodDecl]
+            ) [MethodDeclarations]
+          ) [ClassDeclarationWithMethods]
+        ) [ClassDeclaration]
+      ) [Declarations]
+      VarDeclaration(
+        VarDeclNode(
+          TypeNode(
+           Table
+          ) [TypeNode]
+          SingleVariable(
+            VariableNoBracket(
+             val
+            ) [VariableNoBracket]
+          ) [SingleVariable]
+        ) [VarDeclNode]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        Variables(
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               a
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             b
+            ) [VariableNoBracket]
+          ) [Variables]
+          VariableNoBracket(
+           c
+          ) [VariableNoBracket]
+        ) [Variables]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        VoidType(
+        ) [VoidType]
+       f
+        FormalParams(
+          FormalParamDecls(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   char
+                  ) [TypeNode]
+                 ch
+                ) [FormalParamDeclarationNoBrackets]
+              ) [SingleFormalParamDecl]
+              FormalParamDeclarationNoBrackets(
+                TypeNode(
+                 int
+                ) [TypeNode]
+               a
+              ) [FormalParamDeclarationNoBrackets]
+            ) [FormalParamDecls]
+            FormalParamDeclarationNoBrackets(
+              TypeNode(
+               int
+              ) [TypeNode]
+             arg
+            ) [FormalParamDeclarationNoBrackets]
+          ) [FormalParamDecls]
+        ) [FormalParams]
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               x
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          ErrorStmt(
+          ) [ErrorStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 x
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               i
+              ) [VariableNoBracket]
+            ) [Variables]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           char
+          ) [TypeNode]
+          SingleVariable(
+            VariableNoBracket(
+             c
+            ) [VariableNoBracket]
+          ) [SingleVariable]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStatement(
+                    ) [NoStatement]
+                    DesignatorStatementOnly(
+                      DesignatorStatementAssignop(
+                        DesignatorNode(
+                         val
+                          NoIdentExpr(
+                          ) [NoIdentExpr]
+                        ) [DesignatorNode]
+                        Assignop(
+                        ) [Assignop]
+                        SingleExpression(
+                          NoSingleMinus(
+                          ) [NoSingleMinus]
+                          TermFactor(
+                            NewEmpty(
+                              TypeNode(
+                               Table
+                              ) [TypeNode]
+                              NodeEmpty(
+                              ) [NodeEmpty]
+                            ) [NewEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [DesignatorStatementAssignop]
+                    ) [DesignatorStatementOnly]
+                  ) [Statements]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                       val
+                        Idents(
+                          NoIdentExpr(
+                          ) [NoIdentExpr]
+                         pos
+                        ) [Idents]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          NewEmpty(
+                            TypeNode(
+                             int
+                            ) [TypeNode]
+                            Node(
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     size
+                                      NoIdentExpr(
+                                      ) [NoIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [Node]
+                          ) [NewEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                     val
+                      Idents(
+                        NoIdentExpr(
+                        ) [NoIdentExpr]
+                       neg
+                      ) [Idents]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      NoSingleMinus(
+                      ) [NoSingleMinus]
+                      TermFactor(
+                        NewEmpty(
+                          TypeNode(
+                           int
+                          ) [TypeNode]
+                          Node(
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   size
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [Node]
+                        ) [NewEmpty]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [Statements]
+              ForStatement(
+                DesignatorStatementNotNull(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                     i
+                      NoIdentExpr(
+                      ) [NoIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      NoSingleMinus(
+                      ) [NoSingleMinus]
+                      TermFactor(
+                        ConstantNumber(
+                         0
+                        ) [ConstantNumber]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementNotNull]
+                ConditionNotNull(
+                  ConditionNode(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpressionRelopExpression(
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   i
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                            RelopLess(
+                            ) [RelopLess]
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   size
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpressionRelopExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                  ) [ConditionNode]
+                ) [ConditionNotNull]
+                DesignatorStatementNotNull(
+                  DesignatorStatementPlusPlus(
+                    DesignatorNode(
+                     i
+                      NoIdentExpr(
+                      ) [NoIdentExpr]
+                    ) [DesignatorNode]
+                  ) [DesignatorStatementPlusPlus]
+                ) [DesignatorStatementNotNull]
+                InBraceStatement(
+                  Statements(
+                    Statements(
+                      NoStatement(
+                      ) [NoStatement]
+                      DesignatorStatementOnly(
+                        DesignatorStatementActPars(
+                          DesignatorNode(
+                           val
+                            Idents(
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                             putp
+                            ) [Idents]
+                          ) [DesignatorNode]
+                          ActParsNode(
+                            ActualParametres(
+                              SingleActualParam(
+                                SingleExpression(
+                                  NoSingleMinus(
+                                  ) [NoSingleMinus]
+                                  TermFactor(
+                                    ConstantNumber(
+                                     0
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [SingleActualParam]
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     i
+                                      NoIdentExpr(
+                                      ) [NoIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [ActualParametres]
+                          ) [ActParsNode]
+                        ) [DesignatorStatementActPars]
+                      ) [DesignatorStatementOnly]
+                    ) [Statements]
+                    DesignatorStatementOnly(
+                      DesignatorStatementActPars(
+                        DesignatorNode(
+                         val
+                          Idents(
+                            NoIdentExpr(
+                            ) [NoIdentExpr]
+                           putn
+                          ) [Idents]
+                        ) [DesignatorNode]
+                        ActParsNode(
+                          ActualParametres(
+                            SingleActualParam(
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  ConstantNumber(
+                                   0
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [SingleActualParam]
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   i
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [ActualParametres]
+                        ) [ActParsNode]
+                      ) [DesignatorStatementActPars]
+                    ) [DesignatorStatementOnly]
+                  ) [Statements]
+                ) [InBraceStatement]
+              ) [ForStatement]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementActPars(
+                DesignatorNode(
+                 f
+                  NoIdentExpr(
+                  ) [NoIdentExpr]
+                ) [DesignatorNode]
+                ActParsNode(
+                  ActualParametres(
+                    ActualParametres(
+                      SingleActualParam(
+                        SingleExpression(
+                          NoSingleMinus(
+                          ) [NoSingleMinus]
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                               c
+                                NoIdentExpr(
+                                ) [NoIdentExpr]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [SingleActualParam]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             x
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [ActualParametres]
+                    SingleExpression(
+                      NoSingleMinus(
+                      ) [NoSingleMinus]
+                      TermFactor(
+                        DesignatorEmpty(
+                          DesignatorNode(
+                           i
+                            NoIdentExpr(
+                            ) [NoIdentExpr]
+                          ) [DesignatorNode]
+                        ) [DesignatorEmpty]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [ActualParametres]
+                ) [ActParsNode]
+              ) [DesignatorStatementActPars]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          ReadStatement(
+            DesignatorNode(
+             x
+              NoIdentExpr(
+              ) [NoIdentExpr]
+            ) [DesignatorNode]
+          ) [ReadStatement]
+        ) [Statements]
+        ForStatement(
+          DesignatorStatementNull(
+          ) [DesignatorStatementNull]
+          ConditionNotNull(
+            ConditionNode(
+              SingleConditionTerm(
+                ConditionTermNode(
+                  SingleConditionFact(
+                    CondFactExpressionRelopExpression(
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             x
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                      RelopGreater(
+                      ) [RelopGreater]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          ConstantNumber(
+                           0
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [CondFactExpressionRelopExpression]
+                  ) [SingleConditionFact]
+                ) [ConditionTermNode]
+              ) [SingleConditionTerm]
+            ) [ConditionNode]
+          ) [ConditionNotNull]
+          DesignatorStatementNull(
+          ) [DesignatorStatementNull]
+          InBraceStatement(
+            Statements(
+              Statements(
+                NoStatement(
+                ) [NoStatement]
+                IfElseStatement(
+                  ConditionNode(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        ConditionFacts(
+                          SingleConditionFact(
+                            CondFactExpressionRelopExpression(
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     Num
+                                      Idents(
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                       ZERO
+                                      ) [Idents]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                              RelopLessEqual(
+                              ) [RelopLessEqual]
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     x
+                                      NoIdentExpr(
+                                      ) [NoIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [SingleConditionFact]
+                          CondFactExpressionRelopExpression(
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   x
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                            RelopLess(
+                            ) [RelopLess]
+                            SingleExpression(
+                              NoSingleMinus(
+                              ) [NoSingleMinus]
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                   size
+                                    NoIdentExpr(
+                                    ) [NoIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpressionRelopExpression]
+                        ) [ConditionFacts]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                  ) [ConditionNode]
+                  InBraceStatement(
+                    Statements(
+                      NoStatement(
+                      ) [NoStatement]
+                      DesignatorStatementOnly(
+                        DesignatorStatementActPars(
+                          DesignatorNode(
+                           val
+                            Idents(
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                             putp
+                            ) [Idents]
+                          ) [DesignatorNode]
+                          ActParsNode(
+                            SingleActualParam(
+                              ExpressionNode(
+                                SingleExpression(
+                                  NoSingleMinus(
+                                  ) [NoSingleMinus]
+                                  TermFactor(
+                                    DesignatorBraceActPars(
+                                      DesignatorNode(
+                                       val
+                                        Idents(
+                                          NoIdentExpr(
+                                          ) [NoIdentExpr]
+                                         getp
+                                        ) [Idents]
+                                      ) [DesignatorNode]
+                                      ActParsNode(
+                                        SingleActualParam(
+                                          SingleExpression(
+                                            NoSingleMinus(
+                                            ) [NoSingleMinus]
+                                            TermFactor(
+                                              DesignatorEmpty(
+                                                DesignatorNode(
+                                                 x
+                                                  NoIdentExpr(
+                                                  ) [NoIdentExpr]
+                                                ) [DesignatorNode]
+                                              ) [DesignatorEmpty]
+                                            ) [TermFactor]
+                                          ) [SingleExpression]
+                                        ) [SingleActualParam]
+                                      ) [ActParsNode]
+                                    ) [DesignatorBraceActPars]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                AddopPlus(
+                                ) [AddopPlus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     Num
+                                      Idents(
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                       ONE
+                                      ) [Idents]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [ExpressionNode]
+                            ) [SingleActualParam]
+                          ) [ActParsNode]
+                        ) [DesignatorStatementActPars]
+                      ) [DesignatorStatementOnly]
+                    ) [Statements]
+                  ) [InBraceStatement]
+                  IfStatement(
+                    ConditionNode(
+                      SingleConditionTerm(
+                        ConditionTermNode(
+                          ConditionFacts(
+                            SingleConditionFact(
+                              CondFactExpressionRelopExpression(
+                                SingleExpression(
+                                  SingleMinus(
+                                  ) [SingleMinus]
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                       size
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                RelopLess(
+                                ) [RelopLess]
+                                SingleExpression(
+                                  NoSingleMinus(
+                                  ) [NoSingleMinus]
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                       x
+                                        NoIdentExpr(
+                                        ) [NoIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [CondFactExpressionRelopExpression]
+                            ) [SingleConditionFact]
+                            CondFactExpressionRelopExpression(
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                     x
+                                      NoIdentExpr(
+                                      ) [NoIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                              RelopLess(
+                              ) [RelopLess]
+                              SingleExpression(
+                                NoSingleMinus(
+                                ) [NoSingleMinus]
+                                TermFactor(
+                                  ConstantNumber(
+                                   0
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [ConditionFacts]
+                        ) [ConditionTermNode]
+                      ) [SingleConditionTerm]
+                    ) [ConditionNode]
+                    InBraceStatement(
+                      Statements(
+                        NoStatement(
+                        ) [NoStatement]
+                        DesignatorStatementOnly(
+                          DesignatorStatementActPars(
+                            DesignatorNode(
+                             val
+                              Idents(
+                                NoIdentExpr(
+                                ) [NoIdentExpr]
+                               putn
+                              ) [Idents]
+                            ) [DesignatorNode]
+                            ActParsNode(
+                              SingleActualParam(
+                                ExpressionNode(
+                                  SingleExpression(
+                                    NoSingleMinus(
+                                    ) [NoSingleMinus]
+                                    TermFactor(
+                                      DesignatorBraceActPars(
+                                        DesignatorNode(
+                                         val
+                                          Idents(
+                                            NoIdentExpr(
+                                            ) [NoIdentExpr]
+                                           getn
+                                          ) [Idents]
+                                        ) [DesignatorNode]
+                                        ActParsNode(
+                                          SingleActualParam(
+                                            SingleExpression(
+                                              SingleMinus(
+                                              ) [SingleMinus]
+                                              TermFactor(
+                                                DesignatorEmpty(
+                                                  DesignatorNode(
+                                                   x
+                                                    NoIdentExpr(
+                                                    ) [NoIdentExpr]
+                                                  ) [DesignatorNode]
+                                                ) [DesignatorEmpty]
+                                              ) [TermFactor]
+                                            ) [SingleExpression]
+                                          ) [SingleActualParam]
+                                        ) [ActParsNode]
+                                      ) [DesignatorBraceActPars]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                  AddopPlus(
+                                  ) [AddopPlus]
+                                  TermFactor(
+                                    ConstantNumber(
+                                     1
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [ExpressionNode]
+                              ) [SingleActualParam]
+                            ) [ActParsNode]
+                          ) [DesignatorStatementActPars]
+                        ) [DesignatorStatementOnly]
+                      ) [Statements]
+                    ) [InBraceStatement]
+                  ) [IfStatement]
+                ) [IfElseStatement]
+              ) [Statements]
+              ReadStatement(
+                DesignatorNode(
+                 x
+                  NoIdentExpr(
+                  ) [NoIdentExpr]
+                ) [DesignatorNode]
+              ) [ReadStatement]
+            ) [Statements]
+          ) [InBraceStatement]
+        ) [ForStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  04:05:23,456 - ===================================
