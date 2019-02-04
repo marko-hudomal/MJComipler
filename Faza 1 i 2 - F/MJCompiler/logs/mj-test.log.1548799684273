@@ -1,0 +1,140 @@
+INFO  23:07:37,315 - Putanja iz argumenta: test/program.mj
+INFO  23:07:37,315 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  23:07:37,347 - #2 program
+INFO  23:07:37,347 - #45 MojProgram
+INFO  23:07:37,347 - #8 const
+INFO  23:07:37,347 - #45 int
+INFO  23:07:37,347 - #45 g
+INFO  23:07:37,347 - #26 =
+INFO  23:07:37,348 - #44 1
+INFO  23:07:37,348 - #21 +
+ERROR 23:07:37,348 - 
+Sintaksna greska na liniji 4
+INFO  23:07:37,348 - #18 ;
+INFO  23:07:37,348 - #4 class
+INFO  23:07:37,348 - #45 Klasa1
+INFO  23:07:37,348 - #44 1
+ERROR 23:07:37,348 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 4
+ERROR 23:07:37,349 - 
+Sintaksna greska na liniji 7
+INFO  23:07:37,349 - #42 implements
+INFO  23:07:37,349 - #45 I
+INFO  23:07:37,349 - #12 {
+INFO  23:07:37,349 - #45 int
+ERROR 23:07:37,349 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 7
+INFO  23:07:37,350 - #45 x
+INFO  23:07:37,350 - #19 ,
+INFO  23:07:37,350 - #45 a
+INFO  23:07:37,350 - #18 ;
+INFO  23:07:37,350 - #45 int
+INFO  23:07:37,351 - #45 x1
+INFO  23:07:37,351 - #26 =
+ERROR 23:07:37,351 - 
+Sintaksna greska na liniji 10
+INFO  23:07:37,351 - #44 1
+INFO  23:07:37,351 - #18 ;
+INFO  23:07:37,351 - #12 {
+INFO  23:07:37,351 - #39 void
+INFO  23:07:37,351 - #45 putp
+INFO  23:07:37,351 - #16 (
+ERROR 23:07:37,351 - [Deklaracija prom. u klasi] Izvrsen oporavak do sledeceg ';'/'{' 
+INFO  23:07:37,352 - #45 int
+INFO  23:07:37,352 - #45 a
+INFO  23:07:37,352 - #19 ,
+INFO  23:07:37,352 - #45 int
+INFO  23:07:37,352 - #45 idx
+INFO  23:07:37,352 - #17 )
+INFO  23:07:37,352 - #12 {
+INFO  23:07:37,352 - #45 this
+INFO  23:07:37,353 - #20 .
+INFO  23:07:37,353 - #45 pos
+INFO  23:07:37,353 - #14 [
+INFO  23:07:37,353 - #45 idx
+INFO  23:07:37,354 - #15 ]
+INFO  23:07:37,354 - #26 =
+INFO  23:07:37,354 - #45 a
+INFO  23:07:37,355 - #18 ;
+INFO  23:07:37,355 - #13 }
+INFO  23:07:37,355 - #13 }
+INFO  23:07:37,355 - #13 }
+INFO  23:07:37,355 - #45 int
+INFO  23:07:37,356 - #45 p
+INFO  23:07:37,356 - #18 ;
+INFO  23:07:37,356 - #4 class
+INFO  23:07:37,356 - #45 Klasa2
+INFO  23:07:37,356 - #41 extends
+INFO  23:07:37,356 - #45 A
+INFO  23:07:37,356 - #23 *
+ERROR 23:07:37,356 - 
+Sintaksna greska na liniji 21
+INFO  23:07:37,356 - #45 B
+INFO  23:07:37,356 - #12 {
+INFO  23:07:37,356 - #45 int
+INFO  23:07:37,356 - #45 x
+INFO  23:07:37,356 - #18 ;
+ERROR 23:07:37,356 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 21
+INFO  23:07:37,357 - #12 {
+INFO  23:07:37,357 - #13 }
+INFO  23:07:37,357 - #13 }
+INFO  23:07:37,357 - #12 {
+INFO  23:07:37,357 - #45 int
+INFO  23:07:37,357 - #45 funkc
+INFO  23:07:37,357 - #16 (
+INFO  23:07:37,357 - #45 int
+INFO  23:07:37,357 - #45 x
+INFO  23:07:37,357 - #19 ,
+INFO  23:07:37,357 - #45 char
+INFO  23:07:37,357 - #45 c
+INFO  23:07:37,357 - #14 [
+INFO  23:07:37,357 - #19 ,
+ERROR 23:07:37,357 - 
+Sintaksna greska na liniji 32
+INFO  23:07:37,357 - #45 bool
+INFO  23:07:37,357 - #45 e
+INFO  23:07:37,357 - #17 )
+ERROR 23:07:37,357 - [Formalni parametar] Izvrsen oporavak do sledeceg ',')' u liniji 32
+INFO  23:07:37,358 - #45 bool
+INFO  23:07:37,358 - #45 f
+INFO  23:07:37,358 - #18 ;
+INFO  23:07:37,358 - #12 {
+INFO  23:07:37,358 - #45 A
+INFO  23:07:37,358 - #26 =
+INFO  23:07:37,358 - #45 a
+INFO  23:07:37,358 - #27 ++
+ERROR 23:07:37,358 - 
+Sintaksna greska na liniji 36
+INFO  23:07:37,358 - #44 1
+INFO  23:07:37,358 - #18 ;
+INFO  23:07:37,358 - #13 }
+INFO  23:07:37,358 - #39 void
+INFO  23:07:37,358 - #45 main
+ERROR 23:07:37,358 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 36
+INFO  23:07:37,359 - #16 (
+INFO  23:07:37,359 - #17 )
+INFO  23:07:37,359 - #12 {
+INFO  23:07:37,359 - #45 x
+INFO  23:07:37,359 - #26 =
+INFO  23:07:37,359 - #44 1
+INFO  23:07:37,359 - #21 +
+INFO  23:07:37,359 - #44 1
+INFO  23:07:37,360 - #18 ;
+INFO  23:07:37,360 - #9 if
+INFO  23:07:37,360 - #16 (
+INFO  23:07:37,360 - #45 a
+INFO  23:07:37,360 - #23 *
+INFO  23:07:37,360 - #44 2
+INFO  23:07:37,361 - #33 <
+INFO  23:07:37,361 - #17 )
+ERROR 23:07:37,361 - 
+Sintaksna greska na liniji 44
+INFO  23:07:37,361 - #45 x
+INFO  23:07:37,361 - #26 =
+INFO  23:07:37,361 - #44 0
+ERROR 23:07:37,361 - [IfElse Condition] Izvrsen oporavak do sledeceg ')' u liniji 44
+INFO  23:07:37,361 - #18 ;
+INFO  23:07:37,361 - #7 else
+INFO  23:07:37,362 - #13 }
+ERROR 23:07:37,362 - 
+Sintaksna greska na liniji 47
+INFO  23:07:37,362 - #13 }
+ERROR 23:07:37,362 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 50

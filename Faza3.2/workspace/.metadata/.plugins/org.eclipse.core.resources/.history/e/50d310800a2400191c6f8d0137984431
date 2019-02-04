@@ -1,0 +1,111 @@
+INFO  16:04:07,851 - Putanja iz argumenta: test/program.mj
+INFO  16:04:07,852 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  16:04:07,882 - #2 program
+INFO  16:04:07,882 - #45 MojProgram
+INFO  16:04:07,882 - #12 {
+INFO  16:04:07,882 - #39 void
+INFO  16:04:07,882 - #45 main
+INFO  16:04:07,883 - #16 (
+INFO  16:04:07,883 - #17 )
+INFO  16:04:07,883 - #45 char
+INFO  16:04:07,883 - #45 message
+INFO  16:04:07,883 - #18 ;
+INFO  16:04:07,884 - #45 int
+INFO  16:04:07,884 - #45 c
+INFO  16:04:07,884 - #19 ,
+INFO  16:04:07,884 - #45 v
+INFO  16:04:07,884 - #18 ;
+INFO  16:04:07,884 - #12 {
+INFO  16:04:07,884 - #45 c
+INFO  16:04:07,884 - #26 =
+INFO  16:04:07,885 - #44 10
+INFO  16:04:07,886 - #18 ;
+INFO  16:04:07,886 - #45 c
+INFO  16:04:07,886 - #26 =
+INFO  16:04:07,886 - #44 5
+INFO  16:04:07,886 - #18 ;
+INFO  16:04:07,886 - #44 5
+ERROR 16:04:07,887 - 
+Sintaksna greska na liniji 10
+INFO  16:04:07,887 - #26 =
+INFO  16:04:07,887 - #44 6
+INFO  16:04:07,887 - #18 ;
+INFO  16:04:07,887 - #13 }
+INFO  16:04:07,887 - #13 }
+ERROR 16:04:07,887 - [Statement los] Izvrsen oporavak do sledeceg ';' u liniji 9
+INFO  16:04:07,888 - Program(
+ MojProgram
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               c
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              SingleExpression(
+                NoSingleMinus(
+                ) [NoSingleMinus]
+                TermFactor(
+                  ConstantNumber(
+                   10
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [SingleExpression]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        ErrorStatement(
+        ) [ErrorStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:04:07,889 - ===================================

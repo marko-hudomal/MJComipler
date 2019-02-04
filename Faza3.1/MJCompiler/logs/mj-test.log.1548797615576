@@ -1,0 +1,195 @@
+INFO  22:32:21,382 - Putanja procitana iz argumenta: test/program.mj
+INFO  22:32:21,382 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  22:32:21,414 - #2 program
+INFO  22:32:21,414 - #45 MojProgram
+INFO  22:32:21,414 - #8 const
+INFO  22:32:21,415 - #45 int
+INFO  22:32:21,415 - #45 g
+INFO  22:32:21,415 - #26 =
+INFO  22:32:21,415 - #44 1
+INFO  22:32:21,415 - #18 ;
+INFO  22:32:21,415 - #4 class
+INFO  22:32:21,415 - #45 Table
+INFO  22:32:21,415 - #44 1
+ERROR 22:32:21,415 - 
+Sintaksna greska na liniji 4
+INFO  22:32:21,416 - #42 implements
+INFO  22:32:21,416 - #45 I
+INFO  22:32:21,416 - #12 {
+INFO  22:32:21,416 - #45 int
+ERROR 22:32:21,416 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 4
+INFO  22:32:21,417 - #45 x
+INFO  22:32:21,417 - #19 ,
+INFO  22:32:21,417 - #45 a
+INFO  22:32:21,417 - #18 ;
+INFO  22:32:21,418 - #45 int
+INFO  22:32:21,418 - #45 ab
+INFO  22:32:21,418 - #14 [
+INFO  22:32:21,418 - #18 ;
+ERROR 22:32:21,418 - 
+Sintaksna greska na liniji 6
+INFO  22:32:21,418 - #12 {
+INFO  22:32:21,418 - #39 void
+INFO  22:32:21,418 - #45 putp
+INFO  22:32:21,418 - #16 (
+ERROR 22:32:21,418 - [Deklaracija prom. u klasi] Izvrsen oporavak do sledeceg ';'/'{' u liniji 26
+INFO  22:32:21,419 - #45 int
+INFO  22:32:21,419 - #45 a
+INFO  22:32:21,419 - #19 ,
+INFO  22:32:21,419 - #45 int
+INFO  22:32:21,419 - #45 idx
+INFO  22:32:21,419 - #17 )
+INFO  22:32:21,419 - #12 {
+INFO  22:32:21,420 - #45 this
+INFO  22:32:21,420 - #20 .
+INFO  22:32:21,420 - #45 pos
+INFO  22:32:21,420 - #14 [
+INFO  22:32:21,420 - #45 idx
+INFO  22:32:21,421 - #15 ]
+INFO  22:32:21,421 - #26 =
+INFO  22:32:21,421 - #45 a
+INFO  22:32:21,422 - #18 ;
+INFO  22:32:21,422 - #13 }
+INFO  22:32:21,422 - #13 }
+INFO  22:32:21,422 - #13 }
+INFO  22:32:21,422 - #12 {
+INFO  22:32:21,423 - #13 }
+INFO  22:32:21,424 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          SingleConstant(
+            EqualConstantNode(
+             g
+              NumberNode(
+               1
+              ) [NumberNode]
+            ) [EqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ClassDeclaration(
+      ClassDeclarationWithMethods(
+       Table
+        ErrorExtension(
+        ) [ErrorExtension]
+        Implementation(
+          SinglType(
+            TypeNode(
+             I
+            ) [TypeNode]
+          ) [SinglType]
+        ) [Implementation]
+        ClassVarDeclarationList(
+          ClassVarDeclarationList(
+            NoClassVarDeclaration(
+            ) [NoClassVarDeclaration]
+            ClassVarDeclNode(
+              TypeNode(
+               int
+              ) [TypeNode]
+              Variables(
+                SingleVariable(
+                  VariableNoBracket(
+                   x
+                  ) [VariableNoBracket]
+                ) [SingleVariable]
+                VariableNoBracket(
+                 a
+                ) [VariableNoBracket]
+              ) [Variables]
+            ) [ClassVarDeclNode]
+          ) [ClassVarDeclarationList]
+          ErrorClassVarDecl(
+          ) [ErrorClassVarDecl]
+        ) [ClassVarDeclarationList]
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDecl(
+            VoidType(
+            ) [VoidType]
+           putp
+            FormalParams(
+              FormalParamDecls(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationNoBrackets(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                   a
+                  ) [FormalParamDeclarationNoBrackets]
+                ) [SingleFormalParamDecl]
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                 idx
+                ) [FormalParamDeclarationNoBrackets]
+              ) [FormalParamDecls]
+            ) [FormalParams]
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                   this
+                    Exprs(
+                      Idents(
+                        NoIdentExpr(
+                        ) [NoIdentExpr]
+                       pos
+                      ) [Idents]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             idx
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [Exprs]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    NoSingleMinus(
+                    ) [NoSingleMinus]
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                         a
+                          NoIdentExpr(
+                          ) [NoIdentExpr]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [MethodDeclarations]
+      ) [ClassDeclarationWithMethods]
+    ) [ClassDeclaration]
+  ) [Declarations]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  22:32:21,424 - ===================================

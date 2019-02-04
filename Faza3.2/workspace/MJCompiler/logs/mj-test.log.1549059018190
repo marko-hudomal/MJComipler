@@ -1,0 +1,115 @@
+INFO  23:07:36,620 - Putanja iz argumenta: test/program.mj
+INFO  23:07:36,620 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  23:07:36,653 - #2 program
+INFO  23:07:36,654 - #45 Program
+INFO  23:07:36,654 - #8 const
+INFO  23:07:36,654 - #45 bool
+INFO  23:07:36,654 - #45 const_bool1
+INFO  23:07:36,655 - #26 =
+INFO  23:07:36,655 - #47 1
+INFO  23:07:36,655 - #19 ,
+INFO  23:07:36,655 - #45 const_bool2
+INFO  23:07:36,655 - #26 =
+INFO  23:07:36,655 - #47 1
+INFO  23:07:36,655 - #19 ,
+INFO  23:07:36,655 - #45 const_bool3
+INFO  23:07:36,656 - #26 =
+INFO  23:07:36,656 - #47 0
+INFO  23:07:36,656 - #18 ;
+INFO  23:07:36,656 - #8 const
+INFO  23:07:36,656 - #45 int
+INFO  23:07:36,656 - #45 const_int1
+INFO  23:07:36,656 - #18 ;
+ERROR 23:07:36,656 - 
+Sintaksna greska na liniji 4
+INFO  23:07:36,656 - #12 {
+INFO  23:07:36,656 - #39 void
+INFO  23:07:36,656 - #45 main
+ERROR 23:07:36,657 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 4
+INFO  23:07:36,658 - #16 (
+INFO  23:07:36,658 - #17 )
+INFO  23:07:36,658 - #12 {
+INFO  23:07:36,658 - #13 }
+INFO  23:07:36,659 - #13 }
+INFO  23:07:36,663 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          ConstDeclType(
+            TypeNode(
+             bool
+            ) [TypeNode]
+          ) [ConstDeclType]
+          Constants(
+            Constants(
+              SingleConstant(
+                IdentEqualConstantNode(
+                 const_bool1
+                  BooleanNode(
+                   1
+                  ) [BooleanNode]
+                ) [IdentEqualConstantNode]
+              ) [SingleConstant]
+              IdentEqualConstantNode(
+               const_bool2
+                BooleanNode(
+                 1
+                ) [BooleanNode]
+              ) [IdentEqualConstantNode]
+            ) [Constants]
+            IdentEqualConstantNode(
+             const_bool3
+              BooleanNode(
+               0
+              ) [BooleanNode]
+            ) [IdentEqualConstantNode]
+          ) [Constants]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        ConstDeclType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [ConstDeclType]
+        SingleConstant(
+          ErrorConstant(
+          ) [ErrorConstant]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:07:36,663 - ===================================
+INFO  23:07:36,666 - Definisana konstanta (1)const_bool1 na liniji 3
+INFO  23:07:36,666 - Definisana konstanta (1)const_bool2 na liniji 3
+INFO  23:07:36,666 - Definisana konstanta (0)const_bool3 na liniji 3
+INFO  23:07:36,666 - Definisana funkcija main na liniji 6
+INFO  23:07:36,666 - main funkcija je korektna.  na liniji 6
+INFO  23:07:36,666 - ===================================
+ERROR 23:07:36,667 - Parsiranje NIJE uspesno zavrseno!

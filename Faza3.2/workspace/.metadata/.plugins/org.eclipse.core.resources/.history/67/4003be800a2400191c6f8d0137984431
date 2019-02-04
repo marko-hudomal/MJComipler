@@ -1,0 +1,73 @@
+INFO  04:23:12,393 - Putanja iz argumenta: test/program.mj
+INFO  04:23:12,393 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:23:12,423 - #2 program
+INFO  04:23:12,423 - #45 MojProgram
+INFO  04:23:12,423 - #8 const
+INFO  04:23:12,424 - #45 int
+INFO  04:23:12,424 - #45 con1
+INFO  04:23:12,424 - #26 =
+INFO  04:23:12,424 - #44 1
+INFO  04:23:12,424 - #19 ,
+INFO  04:23:12,424 - #45 con2
+INFO  04:23:12,424 - #21 +
+ERROR 04:23:12,424 - 
+Sintaksna greska na liniji 2
+INFO  04:23:12,424 - #44 2
+INFO  04:23:12,425 - #19 ,
+INFO  04:23:12,425 - #45 con3
+INFO  04:23:12,425 - #21 +
+INFO  04:23:12,425 - #44 3
+INFO  04:23:12,425 - #19 ,
+INFO  04:23:12,425 - #45 con4
+INFO  04:23:12,425 - #26 =
+INFO  04:23:12,426 - #44 4
+ERROR 04:23:12,426 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 2
+INFO  04:23:12,426 - #18 ;
+INFO  04:23:12,426 - #8 const
+INFO  04:23:12,426 - #45 int
+INFO  04:23:12,427 - #45 con
+INFO  04:23:12,427 - #27 ++
+ERROR 04:23:12,427 - 
+Sintaksna greska na liniji 3
+INFO  04:23:12,427 - #18 ;
+INFO  04:23:12,427 - #45 consdast
+INFO  04:23:12,427 - #18 ;
+INFO  04:23:12,427 - #8 const
+INFO  04:23:12,427 - #45 char
+INFO  04:23:12,427 - #45 x
+ERROR 04:23:12,427 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 3
+INFO  04:23:12,427 - #26 =
+INFO  04:23:12,427 - #46 a
+INFO  04:23:12,427 - #18 ;
+INFO  04:23:12,427 - #8 const
+INFO  04:23:12,427 - #45 int
+INFO  04:23:12,427 - #45 i
+INFO  04:23:12,427 - #29 ==
+ERROR 04:23:12,428 - 
+Sintaksna greska na liniji 5
+INFO  04:23:12,428 - #44 1
+INFO  04:23:12,428 - #18 ;
+INFO  04:23:12,428 - #12 {
+INFO  04:23:12,428 - #39 void
+INFO  04:23:12,428 - #45 main
+ERROR 04:23:12,428 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 5
+INFO  04:23:12,428 - #16 (
+INFO  04:23:12,428 - #17 )
+INFO  04:23:12,429 - #45 char
+INFO  04:23:12,429 - #45 message
+INFO  04:23:12,429 - #18 ;
+INFO  04:23:12,429 - #45 int
+INFO  04:23:12,429 - #45 c
+INFO  04:23:12,429 - #19 ,
+INFO  04:23:12,430 - #45 v
+INFO  04:23:12,430 - #18 ;
+INFO  04:23:12,430 - #12 {
+INFO  04:23:12,430 - #45 c
+INFO  04:23:12,430 - #26 =
+INFO  04:23:12,430 - #44 1
+INFO  04:23:12,431 - #45 a
+ERROR 04:23:12,431 - 
+Sintaksna greska na liniji 12
+INFO  04:23:12,431 - #18 ;
+INFO  04:23:12,431 - #13 }
+INFO  04:23:12,431 - #13 }

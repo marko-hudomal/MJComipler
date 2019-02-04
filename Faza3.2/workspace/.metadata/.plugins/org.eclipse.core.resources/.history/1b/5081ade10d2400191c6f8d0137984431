@@ -1,0 +1,197 @@
+INFO  04:38:16,672 - Putanja iz argumenta: test/program.mj
+INFO  04:38:16,672 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:38:16,703 - #2 program
+INFO  04:38:16,703 - #45 MojProgram
+INFO  04:38:16,703 - #8 const
+INFO  04:38:16,703 - #45 int
+INFO  04:38:16,703 - #45 con1
+INFO  04:38:16,703 - #26 =
+INFO  04:38:16,703 - #44 1
+INFO  04:38:16,703 - #19 ,
+INFO  04:38:16,704 - #45 con2
+INFO  04:38:16,704 - #21 +
+ERROR 04:38:16,704 - 
+Sintaksna greska na liniji 2
+INFO  04:38:16,704 - #44 2
+INFO  04:38:16,704 - #19 ,
+INFO  04:38:16,704 - #45 con3
+INFO  04:38:16,704 - #21 +
+INFO  04:38:16,704 - #44 3
+INFO  04:38:16,704 - #19 ,
+INFO  04:38:16,704 - #45 con4
+INFO  04:38:16,705 - #26 =
+INFO  04:38:16,705 - #44 4
+ERROR 04:38:16,705 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 2
+INFO  04:38:16,705 - #18 ;
+INFO  04:38:16,705 - #8 const
+INFO  04:38:16,706 - #45 int
+INFO  04:38:16,706 - #45 con
+INFO  04:38:16,706 - #27 ++
+ERROR 04:38:16,706 - 
+Sintaksna greska na liniji 3
+INFO  04:38:16,706 - #18 ;
+INFO  04:38:16,706 - #45 consdast
+INFO  04:38:16,706 - #18 ;
+INFO  04:38:16,706 - #8 const
+INFO  04:38:16,706 - #45 char
+INFO  04:38:16,706 - #45 x
+ERROR 04:38:16,706 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 3
+INFO  04:38:16,706 - #26 =
+INFO  04:38:16,706 - #46 a
+INFO  04:38:16,706 - #18 ;
+INFO  04:38:16,706 - #8 const
+INFO  04:38:16,707 - #45 int
+INFO  04:38:16,707 - #45 i
+INFO  04:38:16,707 - #29 ==
+ERROR 04:38:16,707 - 
+Sintaksna greska na liniji 5
+INFO  04:38:16,707 - #44 1
+INFO  04:38:16,707 - #18 ;
+INFO  04:38:16,707 - #12 {
+INFO  04:38:16,707 - #39 void
+INFO  04:38:16,707 - #45 main
+ERROR 04:38:16,707 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 5
+INFO  04:38:16,707 - #16 (
+INFO  04:38:16,708 - #17 )
+INFO  04:38:16,708 - #45 char
+INFO  04:38:16,708 - #45 message
+INFO  04:38:16,708 - #18 ;
+INFO  04:38:16,708 - #45 int
+INFO  04:38:16,709 - #45 c
+INFO  04:38:16,709 - #19 ,
+INFO  04:38:16,709 - #45 v
+INFO  04:38:16,709 - #18 ;
+INFO  04:38:16,709 - #12 {
+INFO  04:38:16,709 - #45 a
+INFO  04:38:16,709 - #18 ;
+ERROR 04:38:16,710 - 
+Sintaksna greska na liniji 12
+INFO  04:38:16,710 - #13 }
+INFO  04:38:16,710 - #13 }
+ERROR 04:38:16,710 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 12
+INFO  04:38:16,711 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          NoDecl(
+          ) [NoDecl]
+          ConstDeclaration(
+            ConstDeclNode(
+              TypeNode(
+               int
+              ) [TypeNode]
+              Constants(
+                Constants(
+                  SingleConstant(
+                    EqualConstantNode(
+                     con1
+                      NumberNode(
+                       1
+                      ) [NumberNode]
+                    ) [EqualConstantNode]
+                  ) [SingleConstant]
+                  ErrorConstant(
+                  ) [ErrorConstant]
+                ) [Constants]
+                EqualConstantNode(
+                 con4
+                  NumberNode(
+                   4
+                  ) [NumberNode]
+                ) [EqualConstantNode]
+              ) [Constants]
+            ) [ConstDeclNode]
+          ) [ConstDeclaration]
+        ) [Declarations]
+        ConstDeclaration(
+          ConstDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleConstant(
+              ErrorConstant(
+              ) [ErrorConstant]
+            ) [SingleConstant]
+          ) [ConstDeclNode]
+        ) [ConstDeclaration]
+      ) [Declarations]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           char
+          ) [TypeNode]
+          SingleConstant(
+            EqualConstantNode(
+             x
+              CharNode(
+               a
+              ) [CharNode]
+            ) [EqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        SingleConstant(
+          ErrorConstant(
+          ) [ErrorConstant]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        NoStatement(
+        ) [NoStatement]
+        ErrorAssign(
+        ) [ErrorAssign]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  04:38:16,711 - ===================================

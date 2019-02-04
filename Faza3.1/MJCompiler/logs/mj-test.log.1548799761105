@@ -1,0 +1,434 @@
+INFO  23:08:04,275 - Putanja iz argumenta: test/program.mj
+INFO  23:08:04,275 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  23:08:04,306 - #2 program
+INFO  23:08:04,306 - #45 MojProgram
+INFO  23:08:04,306 - #8 const
+INFO  23:08:04,306 - #45 int
+INFO  23:08:04,307 - #45 g
+INFO  23:08:04,307 - #26 =
+INFO  23:08:04,307 - #44 1
+INFO  23:08:04,307 - #21 +
+ERROR 23:08:04,307 - 
+Sintaksna greska na liniji 4
+INFO  23:08:04,307 - #18 ;
+INFO  23:08:04,307 - #4 class
+INFO  23:08:04,307 - #45 Klasa1
+INFO  23:08:04,307 - #44 1
+ERROR 23:08:04,307 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 4
+ERROR 23:08:04,308 - 
+Sintaksna greska na liniji 7
+INFO  23:08:04,308 - #42 implements
+INFO  23:08:04,308 - #45 I
+INFO  23:08:04,308 - #12 {
+INFO  23:08:04,308 - #45 int
+ERROR 23:08:04,309 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 7
+INFO  23:08:04,309 - #45 x
+INFO  23:08:04,309 - #19 ,
+INFO  23:08:04,309 - #45 a
+INFO  23:08:04,309 - #18 ;
+INFO  23:08:04,310 - #45 int
+INFO  23:08:04,310 - #45 x1
+INFO  23:08:04,310 - #26 =
+ERROR 23:08:04,310 - 
+Sintaksna greska na liniji 10
+INFO  23:08:04,310 - #44 1
+INFO  23:08:04,310 - #18 ;
+INFO  23:08:04,310 - #12 {
+INFO  23:08:04,310 - #39 void
+INFO  23:08:04,310 - #45 putp
+INFO  23:08:04,310 - #16 (
+ERROR 23:08:04,310 - [Deklaracija prom. u klasi] Izvrsen oporavak do sledeceg ';'/'{' 
+INFO  23:08:04,311 - #45 int
+INFO  23:08:04,311 - #45 a
+INFO  23:08:04,311 - #19 ,
+INFO  23:08:04,311 - #45 int
+INFO  23:08:04,311 - #45 idx
+INFO  23:08:04,311 - #17 )
+INFO  23:08:04,311 - #12 {
+INFO  23:08:04,312 - #45 this
+INFO  23:08:04,312 - #20 .
+INFO  23:08:04,312 - #45 pos
+INFO  23:08:04,312 - #14 [
+INFO  23:08:04,312 - #45 idx
+INFO  23:08:04,313 - #15 ]
+INFO  23:08:04,313 - #26 =
+INFO  23:08:04,313 - #45 a
+INFO  23:08:04,314 - #18 ;
+INFO  23:08:04,314 - #13 }
+INFO  23:08:04,314 - #13 }
+INFO  23:08:04,314 - #13 }
+INFO  23:08:04,315 - #45 int
+INFO  23:08:04,315 - #45 p
+INFO  23:08:04,315 - #18 ;
+INFO  23:08:04,315 - #4 class
+INFO  23:08:04,315 - #45 Klasa2
+INFO  23:08:04,315 - #41 extends
+INFO  23:08:04,315 - #45 A
+INFO  23:08:04,315 - #23 *
+ERROR 23:08:04,315 - 
+Sintaksna greska na liniji 21
+INFO  23:08:04,315 - #45 B
+INFO  23:08:04,315 - #12 {
+INFO  23:08:04,315 - #45 int
+INFO  23:08:04,316 - #45 x
+INFO  23:08:04,316 - #18 ;
+ERROR 23:08:04,316 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 21
+INFO  23:08:04,316 - #12 {
+INFO  23:08:04,316 - #13 }
+INFO  23:08:04,316 - #13 }
+INFO  23:08:04,316 - #12 {
+INFO  23:08:04,316 - #45 int
+INFO  23:08:04,316 - #45 funkc
+INFO  23:08:04,316 - #16 (
+INFO  23:08:04,316 - #45 int
+INFO  23:08:04,316 - #45 x
+INFO  23:08:04,316 - #19 ,
+INFO  23:08:04,316 - #45 char
+INFO  23:08:04,316 - #45 c
+INFO  23:08:04,317 - #14 [
+INFO  23:08:04,317 - #19 ,
+ERROR 23:08:04,317 - 
+Sintaksna greska na liniji 32
+INFO  23:08:04,317 - #45 bool
+INFO  23:08:04,317 - #45 e
+INFO  23:08:04,317 - #17 )
+ERROR 23:08:04,317 - [Formalni parametar] Izvrsen oporavak do sledeceg ',')' u liniji 32
+INFO  23:08:04,317 - #45 bool
+INFO  23:08:04,317 - #45 f
+INFO  23:08:04,317 - #18 ;
+INFO  23:08:04,317 - #12 {
+INFO  23:08:04,317 - #45 A
+INFO  23:08:04,317 - #26 =
+INFO  23:08:04,317 - #45 a
+INFO  23:08:04,317 - #27 ++
+ERROR 23:08:04,317 - 
+Sintaksna greska na liniji 36
+INFO  23:08:04,317 - #44 1
+INFO  23:08:04,317 - #18 ;
+INFO  23:08:04,317 - #13 }
+INFO  23:08:04,317 - #39 void
+INFO  23:08:04,318 - #45 main
+ERROR 23:08:04,318 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 36
+INFO  23:08:04,318 - #16 (
+INFO  23:08:04,318 - #17 )
+INFO  23:08:04,318 - #12 {
+INFO  23:08:04,318 - #45 x
+INFO  23:08:04,318 - #26 =
+INFO  23:08:04,318 - #44 1
+INFO  23:08:04,318 - #21 +
+INFO  23:08:04,318 - #44 1
+INFO  23:08:04,319 - #18 ;
+INFO  23:08:04,319 - #9 if
+INFO  23:08:04,319 - #16 (
+INFO  23:08:04,319 - #45 a
+INFO  23:08:04,319 - #23 *
+INFO  23:08:04,319 - #44 2
+INFO  23:08:04,320 - #33 <
+INFO  23:08:04,320 - #17 )
+ERROR 23:08:04,320 - 
+Sintaksna greska na liniji 44
+INFO  23:08:04,320 - #45 x
+INFO  23:08:04,320 - #26 =
+INFO  23:08:04,320 - #44 0
+ERROR 23:08:04,320 - [IfElse Condition] Izvrsen oporavak do sledeceg ')' u liniji 44
+INFO  23:08:04,320 - #18 ;
+INFO  23:08:04,320 - #13 }
+INFO  23:08:04,321 - #13 }
+INFO  23:08:04,322 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          NoDecl(
+          ) [NoDecl]
+          ConstDeclaration(
+            ConstDeclNode(
+              TypeNode(
+               int
+              ) [TypeNode]
+              SingleConstant(
+                ErrorConstant(
+                ) [ErrorConstant]
+              ) [SingleConstant]
+            ) [ConstDeclNode]
+          ) [ConstDeclaration]
+        ) [Declarations]
+        ClassDeclaration(
+          ClassDeclarationWithMethods(
+           Klasa1
+            ErrorExtension(
+            ) [ErrorExtension]
+            Implementation(
+              SinglType(
+                TypeNode(
+                 I
+                ) [TypeNode]
+              ) [SinglType]
+            ) [Implementation]
+            ClassVarDeclarationList(
+              ClassVarDeclarationList(
+                NoClassVarDeclaration(
+                ) [NoClassVarDeclaration]
+                ClassVarDeclNode(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                  Variables(
+                    SingleVariable(
+                      VariableNoBracket(
+                       x
+                      ) [VariableNoBracket]
+                    ) [SingleVariable]
+                    VariableNoBracket(
+                     a
+                    ) [VariableNoBracket]
+                  ) [Variables]
+                ) [ClassVarDeclNode]
+              ) [ClassVarDeclarationList]
+              ErrorClassVarDecl(
+              ) [ErrorClassVarDecl]
+            ) [ClassVarDeclarationList]
+            MethodDeclarations(
+              NoMethodDecl(
+              ) [NoMethodDecl]
+              MethodDecl(
+                VoidType(
+                ) [VoidType]
+               putp
+                FormalParams(
+                  FormalParamDecls(
+                    SingleFormalParamDecl(
+                      FormalParamDeclarationNoBrackets(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                       a
+                      ) [FormalParamDeclarationNoBrackets]
+                    ) [SingleFormalParamDecl]
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     idx
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [FormalParamDecls]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                       this
+                        Exprs(
+                          Idents(
+                            NoIdentExpr(
+                            ) [NoIdentExpr]
+                           pos
+                          ) [Idents]
+                          SingleExpression(
+                            NoSingleMinus(
+                            ) [NoSingleMinus]
+                            TermFactor(
+                              DesignatorEmpty(
+                                DesignatorNode(
+                                 idx
+                                  NoIdentExpr(
+                                  ) [NoIdentExpr]
+                                ) [DesignatorNode]
+                              ) [DesignatorEmpty]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [Exprs]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             a
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+              ) [MethodDecl]
+            ) [MethodDeclarations]
+          ) [ClassDeclarationWithMethods]
+        ) [ClassDeclaration]
+      ) [Declarations]
+      VarDeclaration(
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          SingleVariable(
+            VariableNoBracket(
+             p
+            ) [VariableNoBracket]
+          ) [SingleVariable]
+        ) [VarDeclNode]
+      ) [VarDeclaration]
+    ) [Declarations]
+    ClassDeclaration(
+      ClassDeclarationWithMethods(
+       Klasa2
+        ErrorExtension(
+        ) [ErrorExtension]
+        NoImplementation(
+        ) [NoImplementation]
+        ClassVarDeclarationList(
+          NoClassVarDeclaration(
+          ) [NoClassVarDeclaration]
+          ClassVarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               x
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [ClassVarDeclNode]
+        ) [ClassVarDeclarationList]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+      ) [ClassDeclarationWithMethods]
+    ) [ClassDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        NoVoidType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [NoVoidType]
+       funkc
+        FormalParams(
+          FormalParamDecls(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                 x
+                ) [FormalParamDeclarationNoBrackets]
+              ) [SingleFormalParamDecl]
+              ErrorFormParam(
+              ) [ErrorFormParam]
+            ) [FormalParamDecls]
+            FormalParamDeclarationNoBrackets(
+              TypeNode(
+               bool
+              ) [TypeNode]
+             e
+            ) [FormalParamDeclarationNoBrackets]
+          ) [FormalParamDecls]
+        ) [FormalParams]
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             bool
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               f
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          ErrorAssign(
+          ) [ErrorAssign]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               x
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              ExpressionNode(
+                SingleExpression(
+                  NoSingleMinus(
+                  ) [NoSingleMinus]
+                  TermFactor(
+                    ConstantNumber(
+                     1
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+                AddopPlus(
+                ) [AddopPlus]
+                TermFactor(
+                  ConstantNumber(
+                   1
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [ExpressionNode]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        IfStatement(
+          ErrorIfElseStatement(
+          ) [ErrorIfElseStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               x
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              SingleExpression(
+                NoSingleMinus(
+                ) [NoSingleMinus]
+                TermFactor(
+                  ConstantNumber(
+                   0
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [SingleExpression]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [IfStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:08:04,322 - ===================================

@@ -1,0 +1,127 @@
+INFO  03:42:51,601 - Putanja iz argumenta: test/program.mj
+INFO  03:42:51,601 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:42:51,630 - #2 program
+INFO  03:42:51,630 - #45 MojProgram
+INFO  03:42:51,630 - #8 const
+INFO  03:42:51,631 - #45 int
+INFO  03:42:51,631 - #45 con
+INFO  03:42:51,631 - #29 ==
+ERROR 03:42:51,631 - 
+Sintaksna greska na liniji 2
+INFO  03:42:51,631 - #44 1
+INFO  03:42:51,631 - #19 ,
+INFO  03:42:51,631 - #45 con2
+INFO  03:42:51,631 - #26 =
+INFO  03:42:51,632 - #44 2
+ERROR 03:42:51,632 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 2
+INFO  03:42:51,632 - #18 ;
+INFO  03:42:51,632 - #8 const
+INFO  03:42:51,633 - #45 int
+INFO  03:42:51,633 - #45 con
+INFO  03:42:51,633 - #27 ++
+ERROR 03:42:51,633 - 
+Sintaksna greska na liniji 3
+INFO  03:42:51,633 - #18 ;
+INFO  03:42:51,633 - #45 consdast
+INFO  03:42:51,633 - #18 ;
+INFO  03:42:51,633 - #12 {
+INFO  03:42:51,633 - #39 void
+INFO  03:42:51,633 - #45 main
+ERROR 03:42:51,633 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 3
+INFO  03:42:51,634 - #16 (
+INFO  03:42:51,634 - #17 )
+INFO  03:42:51,634 - #45 char
+INFO  03:42:51,635 - #45 message
+INFO  03:42:51,635 - #18 ;
+INFO  03:42:51,635 - #45 int
+INFO  03:42:51,635 - #45 c
+INFO  03:42:51,635 - #19 ,
+INFO  03:42:51,635 - #45 v
+INFO  03:42:51,635 - #18 ;
+INFO  03:42:51,635 - #12 {
+INFO  03:42:51,635 - #13 }
+INFO  03:42:51,636 - #13 }
+INFO  03:42:51,637 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Constants(
+            SingleConstant(
+              ErrorConstant(
+              ) [ErrorConstant]
+            ) [SingleConstant]
+            EqualConstantNode(
+             con2
+              NumberNode(
+               2
+              ) [NumberNode]
+            ) [EqualConstantNode]
+          ) [Constants]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        SingleConstant(
+          ErrorConstant(
+          ) [ErrorConstant]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:42:51,637 - ===================================

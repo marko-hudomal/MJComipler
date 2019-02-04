@@ -1,0 +1,91 @@
+INFO  03:04:02,094 - Putanja iz argumenta: test/program.mj
+INFO  03:04:02,095 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:04:02,125 - #2 program
+INFO  03:04:02,125 - #45 MojProgram
+INFO  03:04:02,125 - #8 const
+INFO  03:04:02,126 - #45 int
+INFO  03:04:02,126 - #45 con
+INFO  03:04:02,126 - #29 ==
+ERROR 03:04:02,126 - 
+Sintaksna greska na liniji 2
+INFO  03:04:02,126 - #44 1
+INFO  03:04:02,126 - #18 ;
+INFO  03:04:02,126 - #18 ;
+INFO  03:04:02,127 - #12 {
+INFO  03:04:02,127 - #39 void
+ERROR 03:04:02,127 - [Globalna prom.] Izvrsen oporavak do ; u liniji 2
+INFO  03:04:02,128 - #45 main
+INFO  03:04:02,128 - #16 (
+INFO  03:04:02,128 - #17 )
+INFO  03:04:02,128 - #45 char
+INFO  03:04:02,129 - #45 message
+INFO  03:04:02,129 - #18 ;
+INFO  03:04:02,129 - #45 int
+INFO  03:04:02,129 - #45 c
+INFO  03:04:02,129 - #19 ,
+INFO  03:04:02,129 - #45 v
+INFO  03:04:02,129 - #18 ;
+INFO  03:04:02,129 - #12 {
+INFO  03:04:02,129 - #13 }
+INFO  03:04:02,130 - #13 }
+INFO  03:04:02,131 - Program(
+ MojProgram
+  Declarations(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        ErrorConstant(
+        ) [ErrorConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:04:02,131 - ===================================

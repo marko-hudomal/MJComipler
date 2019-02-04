@@ -1,0 +1,240 @@
+INFO  04:56:12,149 - Putanja iz argumenta: test/program.mj
+INFO  04:56:12,149 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:56:12,178 - #2 program
+INFO  04:56:12,178 - #45 MojProgram
+INFO  04:56:12,178 - #8 const
+INFO  04:56:12,178 - #45 int
+INFO  04:56:12,178 - #45 con1
+INFO  04:56:12,179 - #26 =
+INFO  04:56:12,179 - #44 1
+INFO  04:56:12,179 - #19 ,
+INFO  04:56:12,179 - #45 con2
+INFO  04:56:12,179 - #21 +
+ERROR 04:56:12,179 - 
+Sintaksna greska na liniji 2
+INFO  04:56:12,179 - #44 2
+INFO  04:56:12,179 - #19 ,
+INFO  04:56:12,179 - #45 con3
+INFO  04:56:12,179 - #21 +
+INFO  04:56:12,180 - #44 3
+INFO  04:56:12,180 - #19 ,
+INFO  04:56:12,180 - #45 con4
+INFO  04:56:12,180 - #26 =
+INFO  04:56:12,180 - #44 4
+ERROR 04:56:12,180 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 2
+INFO  04:56:12,180 - #18 ;
+INFO  04:56:12,180 - #8 const
+INFO  04:56:12,181 - #45 int
+INFO  04:56:12,181 - #45 con
+INFO  04:56:12,181 - #27 ++
+ERROR 04:56:12,181 - 
+Sintaksna greska na liniji 3
+INFO  04:56:12,181 - #18 ;
+INFO  04:56:12,181 - #45 consdast
+INFO  04:56:12,181 - #18 ;
+INFO  04:56:12,181 - #8 const
+INFO  04:56:12,181 - #45 char
+INFO  04:56:12,181 - #45 x
+ERROR 04:56:12,181 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 3
+INFO  04:56:12,181 - #26 =
+INFO  04:56:12,181 - #46 a
+INFO  04:56:12,181 - #18 ;
+INFO  04:56:12,182 - #8 const
+INFO  04:56:12,182 - #45 int
+INFO  04:56:12,182 - #45 i
+INFO  04:56:12,182 - #29 ==
+ERROR 04:56:12,182 - 
+Sintaksna greska na liniji 5
+INFO  04:56:12,182 - #44 1
+INFO  04:56:12,182 - #18 ;
+INFO  04:56:12,182 - #12 {
+INFO  04:56:12,182 - #39 void
+INFO  04:56:12,182 - #45 main
+ERROR 04:56:12,182 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 5
+INFO  04:56:12,183 - #16 (
+INFO  04:56:12,183 - #17 )
+INFO  04:56:12,183 - #45 char
+INFO  04:56:12,183 - #45 message
+INFO  04:56:12,183 - #18 ;
+INFO  04:56:12,183 - #45 int
+INFO  04:56:12,184 - #45 c
+INFO  04:56:12,184 - #19 ,
+INFO  04:56:12,184 - #45 v
+INFO  04:56:12,184 - #18 ;
+INFO  04:56:12,184 - #12 {
+INFO  04:56:12,184 - #45 b
+INFO  04:56:12,184 - #26 =
+INFO  04:56:12,185 - #44 5
+INFO  04:56:12,185 - #18 ;
+INFO  04:56:12,186 - #45 a
+INFO  04:56:12,186 - #26 =
+INFO  04:56:12,186 - #44 10
+INFO  04:56:12,186 - #18 ;
+INFO  04:56:12,187 - #13 }
+INFO  04:56:12,187 - #13 }
+INFO  04:56:12,188 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          NoDecl(
+          ) [NoDecl]
+          ConstDeclaration(
+            ConstDeclNode(
+              TypeNode(
+               int
+              ) [TypeNode]
+              Constants(
+                Constants(
+                  SingleConstant(
+                    EqualConstantNode(
+                     con1
+                      NumberNode(
+                       1
+                      ) [NumberNode]
+                    ) [EqualConstantNode]
+                  ) [SingleConstant]
+                  ErrorConstant(
+                  ) [ErrorConstant]
+                ) [Constants]
+                EqualConstantNode(
+                 con4
+                  NumberNode(
+                   4
+                  ) [NumberNode]
+                ) [EqualConstantNode]
+              ) [Constants]
+            ) [ConstDeclNode]
+          ) [ConstDeclaration]
+        ) [Declarations]
+        ConstDeclaration(
+          ConstDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleConstant(
+              ErrorConstant(
+              ) [ErrorConstant]
+            ) [SingleConstant]
+          ) [ConstDeclNode]
+        ) [ConstDeclaration]
+      ) [Declarations]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           char
+          ) [TypeNode]
+          SingleConstant(
+            EqualConstantNode(
+             x
+              CharNode(
+               a
+              ) [CharNode]
+            ) [EqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        SingleConstant(
+          ErrorConstant(
+          ) [ErrorConstant]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               b
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              SingleExpression(
+                NoSingleMinus(
+                ) [NoSingleMinus]
+                TermFactor(
+                  ConstantNumber(
+                   5
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [SingleExpression]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementAssignop(
+            DesignatorNode(
+             a
+              NoIdentExpr(
+              ) [NoIdentExpr]
+            ) [DesignatorNode]
+            Assignop(
+            ) [Assignop]
+            SingleExpression(
+              NoSingleMinus(
+              ) [NoSingleMinus]
+              TermFactor(
+                ConstantNumber(
+                 10
+                ) [ConstantNumber]
+              ) [TermFactor]
+            ) [SingleExpression]
+          ) [DesignatorStatementAssignop]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  04:56:12,189 - ===================================

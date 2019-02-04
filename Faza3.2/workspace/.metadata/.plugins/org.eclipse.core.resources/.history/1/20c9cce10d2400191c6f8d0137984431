@@ -1,0 +1,214 @@
+INFO  04:16:04,680 - Putanja iz argumenta: test/program.mj
+INFO  04:16:04,680 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:16:04,711 - #2 program
+INFO  04:16:04,711 - #45 MojProgram
+INFO  04:16:04,711 - #8 const
+INFO  04:16:04,712 - #45 int
+INFO  04:16:04,712 - #45 con1
+INFO  04:16:04,712 - #26 =
+INFO  04:16:04,712 - #44 1
+INFO  04:16:04,712 - #19 ,
+INFO  04:16:04,712 - #45 con2
+INFO  04:16:04,712 - #21 +
+ERROR 04:16:04,712 - 
+Sintaksna greska na liniji 2
+INFO  04:16:04,712 - #44 2
+INFO  04:16:04,712 - #19 ,
+INFO  04:16:04,712 - #45 con3
+INFO  04:16:04,713 - #21 +
+INFO  04:16:04,713 - #44 3
+INFO  04:16:04,713 - #19 ,
+INFO  04:16:04,713 - #45 con4
+INFO  04:16:04,713 - #26 =
+INFO  04:16:04,713 - #44 4
+ERROR 04:16:04,713 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 2
+INFO  04:16:04,714 - #18 ;
+INFO  04:16:04,714 - #8 const
+INFO  04:16:04,714 - #45 int
+INFO  04:16:04,714 - #45 con
+INFO  04:16:04,714 - #27 ++
+ERROR 04:16:04,714 - 
+Sintaksna greska na liniji 3
+INFO  04:16:04,714 - #18 ;
+INFO  04:16:04,714 - #45 consdast
+INFO  04:16:04,714 - #18 ;
+INFO  04:16:04,714 - #8 const
+INFO  04:16:04,714 - #45 char
+INFO  04:16:04,715 - #45 x
+ERROR 04:16:04,715 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 3
+INFO  04:16:04,715 - #26 =
+INFO  04:16:04,715 - #46 a
+INFO  04:16:04,715 - #18 ;
+INFO  04:16:04,715 - #8 const
+INFO  04:16:04,715 - #45 int
+INFO  04:16:04,715 - #45 i
+INFO  04:16:04,715 - #29 ==
+ERROR 04:16:04,715 - 
+Sintaksna greska na liniji 5
+INFO  04:16:04,716 - #44 1
+INFO  04:16:04,716 - #18 ;
+INFO  04:16:04,716 - #12 {
+INFO  04:16:04,716 - #39 void
+INFO  04:16:04,716 - #45 main
+ERROR 04:16:04,716 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 5
+INFO  04:16:04,717 - #16 (
+INFO  04:16:04,717 - #17 )
+INFO  04:16:04,717 - #45 char
+INFO  04:16:04,717 - #45 message
+INFO  04:16:04,717 - #18 ;
+INFO  04:16:04,718 - #45 int
+INFO  04:16:04,718 - #45 c
+INFO  04:16:04,718 - #19 ,
+INFO  04:16:04,718 - #45 v
+INFO  04:16:04,718 - #18 ;
+INFO  04:16:04,718 - #12 {
+INFO  04:16:04,718 - #45 c
+INFO  04:16:04,718 - #26 =
+INFO  04:16:04,719 - #44 1
+INFO  04:16:04,719 - #18 ;
+INFO  04:16:04,720 - #13 }
+INFO  04:16:04,720 - #13 }
+INFO  04:16:04,721 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          NoDecl(
+          ) [NoDecl]
+          ConstDeclaration(
+            ConstDeclNode(
+              TypeNode(
+               int
+              ) [TypeNode]
+              Constants(
+                Constants(
+                  SingleConstant(
+                    EqualConstantNode(
+                     con1
+                      NumberNode(
+                       1
+                      ) [NumberNode]
+                    ) [EqualConstantNode]
+                  ) [SingleConstant]
+                  ErrorConstant(
+                  ) [ErrorConstant]
+                ) [Constants]
+                EqualConstantNode(
+                 con4
+                  NumberNode(
+                   4
+                  ) [NumberNode]
+                ) [EqualConstantNode]
+              ) [Constants]
+            ) [ConstDeclNode]
+          ) [ConstDeclaration]
+        ) [Declarations]
+        ConstDeclaration(
+          ConstDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleConstant(
+              ErrorConstant(
+              ) [ErrorConstant]
+            ) [SingleConstant]
+          ) [ConstDeclNode]
+        ) [ConstDeclaration]
+      ) [Declarations]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           char
+          ) [TypeNode]
+          SingleConstant(
+            EqualConstantNode(
+             x
+              CharNode(
+               a
+              ) [CharNode]
+            ) [EqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        SingleConstant(
+          ErrorConstant(
+          ) [ErrorConstant]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        NoStatement(
+        ) [NoStatement]
+        DesignatorStatementOnly(
+          DesignatorStatementAssignop(
+            DesignatorNode(
+             c
+              NoIdentExpr(
+              ) [NoIdentExpr]
+            ) [DesignatorNode]
+            Assignop(
+            ) [Assignop]
+            SingleExpression(
+              NoSingleMinus(
+              ) [NoSingleMinus]
+              TermFactor(
+                ConstantNumber(
+                 1
+                ) [ConstantNumber]
+              ) [TermFactor]
+            ) [SingleExpression]
+          ) [DesignatorStatementAssignop]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  04:16:04,721 - ===================================

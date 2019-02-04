@@ -1,0 +1,56 @@
+program Program
+
+//Constant definitions--------------------------------------------------
+	const bool const_bool1=true,const_bool2=true,const_bool3=false;
+	const int const_int1=1;
+	const char const_char1='a',const_char2='b',const_char3='c';
+
+
+
+//Enum declarations-----------------------------------------------------
+	enum type_enum1 {
+						ZERO, ONE, THREE=3, FIVE=5, SIX, SEVEN, TEN=10
+					}
+	enum type_enum2 {
+						X
+					}
+	
+	
+				
+//Var declarations------------------------------------------------------
+	int var_int1,var_int2,var_ints1[],var_ints2[];
+	char var_char1,var_chars1[];
+	bool var_bool1,var_bool2,var_bools1[];
+	type_enum1 var_enum1, var_enum2, var_enums1[];
+
+
+
+
+{
+	//Method declarations---------------------------------------------------
+	int funkc1(int arg1)
+		
+		int local_int1,local_int2;
+		char local_char1,local_char2;
+		
+		//hide
+		bool var_bool1;
+		
+		{
+			var_bool1 = false;
+			if ( (const_bool1 || var_bool1)  && 'A'=='A' || true && false || -2<(3*20/(type_enum1.ONE)*2 + local_int1))
+				local_int1=1;
+				
+			return 1+2*local_int1;	
+		}
+	void funkc1(int args1[],char arg, bool args2[])
+			int x;
+		{
+			
+		}	
+		
+	void main(){
+	
+	
+	}
+}

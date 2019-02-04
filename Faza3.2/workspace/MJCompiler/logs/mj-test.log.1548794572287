@@ -1,0 +1,173 @@
+INFO  21:42:37,619 - Putanja iz argumenta: test/program.mj
+INFO  21:42:37,619 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  21:42:37,650 - #2 program
+INFO  21:42:37,651 - #45 MojProgram
+INFO  21:42:37,651 - #8 const
+INFO  21:42:37,651 - #45 int
+INFO  21:42:37,651 - #45 g
+INFO  21:42:37,651 - #26 =
+INFO  21:42:37,651 - #44 1
+INFO  21:42:37,651 - #18 ;
+INFO  21:42:37,651 - #4 class
+INFO  21:42:37,652 - #45 Table
+INFO  21:42:37,652 - #42 implements
+INFO  21:42:37,652 - #45 I
+INFO  21:42:37,652 - #12 {
+INFO  21:42:37,652 - #45 int
+INFO  21:42:37,653 - #45 ab
+INFO  21:42:37,653 - #18 ;
+INFO  21:42:37,653 - #12 {
+INFO  21:42:37,653 - #39 void
+INFO  21:42:37,654 - #45 putp
+INFO  21:42:37,654 - #16 (
+INFO  21:42:37,654 - #45 int
+INFO  21:42:37,654 - #45 a
+INFO  21:42:37,654 - #19 ,
+INFO  21:42:37,655 - #45 int
+INFO  21:42:37,655 - #45 idx
+INFO  21:42:37,655 - #17 )
+INFO  21:42:37,655 - #12 {
+INFO  21:42:37,655 - #45 this
+INFO  21:42:37,656 - #20 .
+INFO  21:42:37,656 - #45 pos
+INFO  21:42:37,656 - #14 [
+INFO  21:42:37,656 - #45 idx
+INFO  21:42:37,657 - #15 ]
+INFO  21:42:37,657 - #26 =
+INFO  21:42:37,657 - #45 a
+INFO  21:42:37,657 - #18 ;
+INFO  21:42:37,657 - #13 }
+INFO  21:42:37,658 - #13 }
+INFO  21:42:37,658 - #13 }
+INFO  21:42:37,658 - #12 {
+INFO  21:42:37,658 - #13 }
+INFO  21:42:37,659 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          SingleConstant(
+            EqualConstantNode(
+             g
+              NumberNode(
+               1
+              ) [NumberNode]
+            ) [EqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ClassDeclaration(
+      ClassDeclarationWithMethods(
+       Table
+        NoExtension(
+        ) [NoExtension]
+        Implementation(
+          SinglType(
+            TypeNode(
+             I
+            ) [TypeNode]
+          ) [SinglType]
+        ) [Implementation]
+        ClassVarDeclarationList(
+          NoClassVarDeclaration(
+          ) [NoClassVarDeclaration]
+          ClassVarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               ab
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [ClassVarDeclNode]
+        ) [ClassVarDeclarationList]
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDecl(
+            VoidType(
+            ) [VoidType]
+           putp
+            FormalParams(
+              FormalParamDecls(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationNoBrackets(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                   a
+                  ) [FormalParamDeclarationNoBrackets]
+                ) [SingleFormalParamDecl]
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                 idx
+                ) [FormalParamDeclarationNoBrackets]
+              ) [FormalParamDecls]
+            ) [FormalParams]
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                   this
+                    Exprs(
+                      Idents(
+                        NoIdentExpr(
+                        ) [NoIdentExpr]
+                       pos
+                      ) [Idents]
+                      SingleExpression(
+                        NoSingleMinus(
+                        ) [NoSingleMinus]
+                        TermFactor(
+                          DesignatorEmpty(
+                            DesignatorNode(
+                             idx
+                              NoIdentExpr(
+                              ) [NoIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorEmpty]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [Exprs]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    NoSingleMinus(
+                    ) [NoSingleMinus]
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                         a
+                          NoIdentExpr(
+                          ) [NoIdentExpr]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [MethodDeclarations]
+      ) [ClassDeclarationWithMethods]
+    ) [ClassDeclaration]
+  ) [Declarations]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  21:42:37,660 - ===================================

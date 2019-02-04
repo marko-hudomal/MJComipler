@@ -1,0 +1,150 @@
+INFO  03:45:06,466 - Putanja iz argumenta: test/program.mj
+INFO  03:45:06,466 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:45:06,497 - #2 program
+INFO  03:45:06,497 - #45 MojProgram
+INFO  03:45:06,497 - #8 const
+INFO  03:45:06,498 - #45 int
+INFO  03:45:06,498 - #45 con
+INFO  03:45:06,498 - #29 ==
+ERROR 03:45:06,498 - 
+Sintaksna greska na liniji 2
+INFO  03:45:06,498 - #44 1
+INFO  03:45:06,498 - #19 ,
+INFO  03:45:06,498 - #45 con2
+INFO  03:45:06,499 - #26 =
+INFO  03:45:06,499 - #44 2
+ERROR 03:45:06,499 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 2
+INFO  03:45:06,499 - #18 ;
+INFO  03:45:06,499 - #8 const
+INFO  03:45:06,500 - #45 int
+INFO  03:45:06,500 - #45 con
+INFO  03:45:06,532 - #27 ++
+ERROR 03:45:06,532 - 
+Sintaksna greska na liniji 3
+INFO  03:45:06,532 - #18 ;
+INFO  03:45:06,532 - #45 consdast
+INFO  03:45:06,532 - #18 ;
+INFO  03:45:06,532 - #8 const
+INFO  03:45:06,533 - #45 char
+INFO  03:45:06,533 - #45 x
+ERROR 03:45:06,533 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 3
+INFO  03:45:06,533 - #26 =
+INFO  03:45:06,535 - #46 a
+INFO  03:45:06,535 - #18 ;
+INFO  03:45:06,535 - #12 {
+INFO  03:45:06,535 - #39 void
+INFO  03:45:06,537 - #45 main
+INFO  03:45:06,538 - #16 (
+INFO  03:45:06,539 - #17 )
+INFO  03:45:06,540 - #45 char
+INFO  03:45:06,541 - #45 message
+INFO  03:45:06,541 - #18 ;
+INFO  03:45:06,542 - #45 int
+INFO  03:45:06,543 - #45 c
+INFO  03:45:06,543 - #19 ,
+INFO  03:45:06,544 - #45 v
+INFO  03:45:06,544 - #18 ;
+INFO  03:45:06,544 - #12 {
+INFO  03:45:06,545 - #13 }
+INFO  03:45:06,546 - #13 }
+INFO  03:45:06,551 - Program(
+ MojProgram
+  Declarations(
+    Declarations(
+      Declarations(
+        NoDecl(
+        ) [NoDecl]
+        ConstDeclaration(
+          ConstDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            Constants(
+              SingleConstant(
+                ErrorConstant(
+                ) [ErrorConstant]
+              ) [SingleConstant]
+              EqualConstantNode(
+               con2
+                NumberNode(
+                 2
+                ) [NumberNode]
+              ) [EqualConstantNode]
+            ) [Constants]
+          ) [ConstDeclNode]
+        ) [ConstDeclaration]
+      ) [Declarations]
+      ConstDeclaration(
+        ConstDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          SingleConstant(
+            ErrorConstant(
+            ) [ErrorConstant]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         char
+        ) [TypeNode]
+        SingleConstant(
+          EqualConstantNode(
+           x
+            CharNode(
+             a
+            ) [CharNode]
+          ) [EqualConstantNode]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     main
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            TypeNode(
+             char
+            ) [TypeNode]
+            SingleVariable(
+              VariableNoBracket(
+               message
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          TypeNode(
+           int
+          ) [TypeNode]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:45:06,553 - ===================================

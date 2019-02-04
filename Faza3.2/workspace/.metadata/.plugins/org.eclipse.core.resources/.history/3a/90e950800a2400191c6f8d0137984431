@@ -1,0 +1,70 @@
+INFO  04:31:09,028 - Putanja iz argumenta: test/program.mj
+INFO  04:31:09,029 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:31:09,058 - #2 program
+INFO  04:31:09,058 - #45 MojProgram
+INFO  04:31:09,059 - #8 const
+INFO  04:31:09,059 - #45 int
+INFO  04:31:09,059 - #45 con1
+INFO  04:31:09,059 - #26 =
+INFO  04:31:09,059 - #44 1
+INFO  04:31:09,059 - #19 ,
+INFO  04:31:09,059 - #45 con2
+INFO  04:31:09,059 - #21 +
+ERROR 04:31:09,060 - 
+Sintaksna greska na liniji 2
+INFO  04:31:09,060 - #44 2
+INFO  04:31:09,060 - #19 ,
+INFO  04:31:09,060 - #45 con3
+INFO  04:31:09,060 - #21 +
+INFO  04:31:09,060 - #44 3
+INFO  04:31:09,060 - #19 ,
+INFO  04:31:09,060 - #45 con4
+INFO  04:31:09,060 - #26 =
+INFO  04:31:09,060 - #44 4
+ERROR 04:31:09,061 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 2
+INFO  04:31:09,061 - #18 ;
+INFO  04:31:09,061 - #8 const
+INFO  04:31:09,061 - #45 int
+INFO  04:31:09,061 - #45 con
+INFO  04:31:09,061 - #27 ++
+ERROR 04:31:09,061 - 
+Sintaksna greska na liniji 3
+INFO  04:31:09,062 - #18 ;
+INFO  04:31:09,062 - #45 consdast
+INFO  04:31:09,062 - #18 ;
+INFO  04:31:09,062 - #8 const
+INFO  04:31:09,062 - #45 char
+INFO  04:31:09,062 - #45 x
+ERROR 04:31:09,062 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 3
+INFO  04:31:09,062 - #26 =
+INFO  04:31:09,062 - #46 a
+INFO  04:31:09,062 - #18 ;
+INFO  04:31:09,062 - #8 const
+INFO  04:31:09,062 - #45 int
+INFO  04:31:09,062 - #45 i
+INFO  04:31:09,062 - #29 ==
+ERROR 04:31:09,062 - 
+Sintaksna greska na liniji 5
+INFO  04:31:09,062 - #44 1
+INFO  04:31:09,062 - #18 ;
+INFO  04:31:09,063 - #12 {
+INFO  04:31:09,063 - #39 void
+INFO  04:31:09,063 - #45 main
+ERROR 04:31:09,063 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 5
+INFO  04:31:09,063 - #16 (
+INFO  04:31:09,063 - #17 )
+INFO  04:31:09,064 - #45 char
+INFO  04:31:09,064 - #45 message
+INFO  04:31:09,064 - #18 ;
+INFO  04:31:09,064 - #45 int
+INFO  04:31:09,064 - #45 c
+INFO  04:31:09,064 - #19 ,
+INFO  04:31:09,064 - #45 v
+INFO  04:31:09,064 - #18 ;
+INFO  04:31:09,064 - #12 {
+INFO  04:31:09,064 - #45 c
+INFO  04:31:09,065 - #26 =
+INFO  04:31:09,065 - #23 *
+ERROR 04:31:09,065 - 
+Sintaksna greska na liniji 12
+ERROR 04:31:09,065 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12

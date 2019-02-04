@@ -1,0 +1,255 @@
+INFO  17:02:15,900 - Putanja iz argumenta: test/program.mj
+INFO  17:02:15,900 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  17:02:15,931 - #2 program
+INFO  17:02:15,931 - #45 MojProgram
+INFO  17:02:15,931 - #8 const
+INFO  17:02:15,931 - #45 int
+INFO  17:02:15,931 - #45 g
+INFO  17:02:15,931 - #26 =
+INFO  17:02:15,932 - #44 1
+INFO  17:02:15,932 - #18 ;
+INFO  17:02:15,932 - #12 {
+INFO  17:02:15,932 - #39 void
+INFO  17:02:15,932 - #45 main
+INFO  17:02:15,933 - #16 (
+INFO  17:02:15,933 - #17 )
+INFO  17:02:15,933 - #45 char
+INFO  17:02:15,933 - #45 message
+INFO  17:02:15,933 - #18 ;
+INFO  17:02:15,933 - #45 int
+INFO  17:02:15,934 - #45 c
+INFO  17:02:15,934 - #19 ,
+INFO  17:02:15,934 - #45 v
+INFO  17:02:15,934 - #18 ;
+INFO  17:02:15,934 - #12 {
+INFO  17:02:15,934 - #45 c
+INFO  17:02:15,935 - #26 =
+INFO  17:02:15,935 - #44 10
+INFO  17:02:15,936 - #18 ;
+INFO  17:02:15,936 - #45 c
+INFO  17:02:15,936 - #26 =
+INFO  17:02:15,936 - #44 5
+INFO  17:02:15,936 - #18 ;
+INFO  17:02:15,936 - #45 a
+INFO  17:02:15,936 - #26 =
+INFO  17:02:15,936 - #45 a
+INFO  17:02:15,936 - #27 ++
+ERROR 17:02:15,936 - 
+Sintaksna greska na liniji 10
+INFO  17:02:15,936 - #18 ;
+INFO  17:02:15,937 - #13 }
+INFO  17:02:15,937 - #39 void
+INFO  17:02:15,937 - #45 funkcija
+ERROR 17:02:15,937 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 10
+INFO  17:02:15,938 - #16 (
+INFO  17:02:15,938 - #45 char
+INFO  17:02:15,938 - #45 x
+INFO  17:02:15,938 - #14 [
+INFO  17:02:15,938 - #15 ]
+INFO  17:02:15,938 - #19 ,
+INFO  17:02:15,938 - #45 int
+INFO  17:02:15,938 - #44 1
+ERROR 17:02:15,938 - 
+Sintaksna greska na liniji 12
+INFO  17:02:15,938 - #19 ,
+INFO  17:02:15,938 - #45 int
+INFO  17:02:15,938 - #45 m
+INFO  17:02:15,938 - #17 )
+ERROR 17:02:15,938 - [Formalni parametar] Izvrsen oporavak do sledeceg ',')' u liniji 12
+INFO  17:02:15,939 - #12 {
+INFO  17:02:15,939 - #45 g
+INFO  17:02:15,939 - #26 =
+INFO  17:02:15,939 - #44 10
+INFO  17:02:15,939 - #18 ;
+INFO  17:02:15,939 - #9 if
+INFO  17:02:15,939 - #16 (
+INFO  17:02:15,939 - #45 a
+INFO  17:02:15,939 - #23 *
+INFO  17:02:15,939 - #44 10
+INFO  17:02:15,940 - #31 >
+INFO  17:02:15,940 - #17 )
+ERROR 17:02:15,940 - 
+Sintaksna greska na liniji 15
+INFO  17:02:15,940 - #3 break
+INFO  17:02:15,940 - #18 ;
+INFO  17:02:15,940 - #13 }
+ERROR 17:02:15,940 - [IfElse Condition] Izvrsen oporavak do sledeceg ')' u liniji 15
+INFO  17:02:15,941 - #13 }
+INFO  17:02:15,942 - Program(
+ MojProgram
+  Declarations(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclNode(
+        TypeNode(
+         int
+        ) [TypeNode]
+        SingleConstant(
+          EqualConstantNode(
+           g
+            NumberNode(
+             1
+            ) [NumberNode]
+          ) [EqualConstantNode]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        VoidType(
+        ) [VoidType]
+       main
+        NoFormalParam(
+        ) [NoFormalParam]
+        VarDeclarationList(
+          VarDeclarationList(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclNode(
+              TypeNode(
+               char
+              ) [TypeNode]
+              SingleVariable(
+                VariableNoBracket(
+                 message
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+            ) [VarDeclNode]
+          ) [VarDeclarationList]
+          VarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 c
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               v
+              ) [VariableNoBracket]
+            ) [Variables]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        Statements(
+          Statements(
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                   c
+                    NoIdentExpr(
+                    ) [NoIdentExpr]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    NoSingleMinus(
+                    ) [NoSingleMinus]
+                    TermFactor(
+                      ConstantNumber(
+                       10
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                 c
+                  NoIdentExpr(
+                  ) [NoIdentExpr]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  NoSingleMinus(
+                  ) [NoSingleMinus]
+                  TermFactor(
+                    ConstantNumber(
+                     5
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          ErrorAssign(
+          ) [ErrorAssign]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     funkcija
+      FormalParams(
+        FormalParamDecls(
+          FormalParamDecls(
+            SingleFormalParamDecl(
+              FormalParamDeclarationBrackets(
+                TypeNode(
+                 char
+                ) [TypeNode]
+               x
+              ) [FormalParamDeclarationBrackets]
+            ) [SingleFormalParamDecl]
+            ErrorFormParam(
+            ) [ErrorFormParam]
+          ) [FormalParamDecls]
+          FormalParamDeclarationNoBrackets(
+            TypeNode(
+             int
+            ) [TypeNode]
+           m
+          ) [FormalParamDeclarationNoBrackets]
+        ) [FormalParamDecls]
+      ) [FormalParams]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+               g
+                NoIdentExpr(
+                ) [NoIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              SingleExpression(
+                NoSingleMinus(
+                ) [NoSingleMinus]
+                TermFactor(
+                  ConstantNumber(
+                   10
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [SingleExpression]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        IfStatement(
+          ErrorIfElseStatement(
+          ) [ErrorIfElseStatement]
+          BreakStatement(
+          ) [BreakStatement]
+        ) [IfStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:02:15,942 - ===================================

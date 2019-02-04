@@ -1,0 +1,162 @@
+INFO  16:47:59,885 - Putanja iz argumenta: test/program.mj
+INFO  16:47:59,885 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  16:47:59,914 - #2 program
+INFO  16:47:59,914 - #45 MojProgram
+INFO  16:47:59,915 - #12 {
+INFO  16:47:59,915 - #39 void
+INFO  16:47:59,915 - #45 main
+INFO  16:47:59,915 - #16 (
+INFO  16:47:59,916 - #17 )
+INFO  16:47:59,916 - #45 char
+INFO  16:47:59,916 - #45 message
+INFO  16:47:59,916 - #18 ;
+INFO  16:47:59,916 - #45 int
+INFO  16:47:59,917 - #45 c
+INFO  16:47:59,917 - #19 ,
+INFO  16:47:59,917 - #45 v
+INFO  16:47:59,917 - #18 ;
+INFO  16:47:59,917 - #12 {
+INFO  16:47:59,917 - #45 c
+INFO  16:47:59,917 - #26 =
+INFO  16:47:59,918 - #44 10
+INFO  16:47:59,919 - #18 ;
+INFO  16:47:59,919 - #45 c
+INFO  16:47:59,920 - #26 =
+INFO  16:47:59,920 - #44 5
+INFO  16:47:59,920 - #18 ;
+INFO  16:47:59,920 - #45 a
+INFO  16:47:59,920 - #26 =
+INFO  16:47:59,920 - #45 a
+INFO  16:47:59,920 - #27 ++
+ERROR 16:47:59,920 - 
+Sintaksna greska na liniji 10
+INFO  16:47:59,920 - #18 ;
+INFO  16:47:59,920 - #13 }
+INFO  16:47:59,920 - #39 void
+INFO  16:47:59,920 - #45 funkcija
+ERROR 16:47:59,920 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 10
+INFO  16:47:59,921 - #16 (
+INFO  16:47:59,921 - #45 int
+INFO  16:47:59,921 - #44 1
+ERROR 16:47:59,921 - 
+Sintaksna greska na liniji 12
+INFO  16:47:59,921 - #17 )
+INFO  16:47:59,921 - #12 {
+INFO  16:47:59,921 - #13 }
+INFO  16:47:59,921 - #13 }
+ERROR 16:47:59,921 - [Formalni parametar] Izvrsen oporavak do sledeceg ','/')' u liniji 12
+INFO  16:47:59,923 - Program(
+ MojProgram
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        VoidType(
+        ) [VoidType]
+       main
+        NoFormalParam(
+        ) [NoFormalParam]
+        VarDeclarationList(
+          VarDeclarationList(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclNode(
+              TypeNode(
+               char
+              ) [TypeNode]
+              SingleVariable(
+                VariableNoBracket(
+                 message
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+            ) [VarDeclNode]
+          ) [VarDeclarationList]
+          VarDeclNode(
+            TypeNode(
+             int
+            ) [TypeNode]
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 c
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               v
+              ) [VariableNoBracket]
+            ) [Variables]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        Statements(
+          Statements(
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                   c
+                    NoIdentExpr(
+                    ) [NoIdentExpr]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    NoSingleMinus(
+                    ) [NoSingleMinus]
+                    TermFactor(
+                      ConstantNumber(
+                       10
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                 c
+                  NoIdentExpr(
+                  ) [NoIdentExpr]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  NoSingleMinus(
+                  ) [NoSingleMinus]
+                  TermFactor(
+                    ConstantNumber(
+                     5
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          ErrorAssign(
+          ) [ErrorAssign]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      VoidType(
+      ) [VoidType]
+     funkcija
+      FormalParams(
+        SingleFormalParamDecl(
+          ErrorFormParam(
+          ) [ErrorFormParam]
+        ) [SingleFormalParamDecl]
+      ) [FormalParams]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:47:59,923 - ===================================

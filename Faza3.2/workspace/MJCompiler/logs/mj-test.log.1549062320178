@@ -1,0 +1,1787 @@
+INFO  00:05:07,091 - Putanja iz argumenta: test/program.mj
+INFO  00:05:07,091 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  00:05:07,123 - #2 program
+INFO  00:05:07,124 - #45 Program
+INFO  00:05:07,124 - #8 const
+INFO  00:05:07,124 - #45 bool
+INFO  00:05:07,124 - #45 const_bool1
+INFO  00:05:07,125 - #26 =
+INFO  00:05:07,125 - #47 1
+INFO  00:05:07,125 - #19 ,
+INFO  00:05:07,125 - #45 const_bool2
+INFO  00:05:07,125 - #26 =
+INFO  00:05:07,125 - #47 1
+INFO  00:05:07,125 - #19 ,
+INFO  00:05:07,125 - #45 const_bool3
+INFO  00:05:07,125 - #26 =
+INFO  00:05:07,125 - #47 0
+INFO  00:05:07,125 - #18 ;
+INFO  00:05:07,126 - #8 const
+INFO  00:05:07,126 - #45 int
+INFO  00:05:07,126 - #45 const_int1
+INFO  00:05:07,126 - #26 =
+INFO  00:05:07,126 - #44 1
+INFO  00:05:07,126 - #18 ;
+INFO  00:05:07,127 - #8 const
+INFO  00:05:07,127 - #45 char
+INFO  00:05:07,127 - #45 const_char1
+INFO  00:05:07,127 - #26 =
+INFO  00:05:07,127 - #46 a
+INFO  00:05:07,127 - #19 ,
+INFO  00:05:07,127 - #45 const_char2
+INFO  00:05:07,127 - #26 =
+INFO  00:05:07,127 - #46 b
+INFO  00:05:07,127 - #19 ,
+INFO  00:05:07,127 - #45 const_char3
+INFO  00:05:07,127 - #26 =
+INFO  00:05:07,127 - #46 c
+INFO  00:05:07,127 - #18 ;
+INFO  00:05:07,127 - #6 enum
+INFO  00:05:07,127 - #45 type_enum1
+INFO  00:05:07,127 - #12 {
+INFO  00:05:07,128 - #45 ZERO
+INFO  00:05:07,128 - #19 ,
+INFO  00:05:07,128 - #45 ONE
+INFO  00:05:07,128 - #19 ,
+INFO  00:05:07,128 - #45 THREE
+INFO  00:05:07,128 - #26 =
+INFO  00:05:07,128 - #44 3
+INFO  00:05:07,128 - #19 ,
+INFO  00:05:07,128 - #45 FIVE
+INFO  00:05:07,128 - #26 =
+INFO  00:05:07,128 - #44 5
+INFO  00:05:07,129 - #19 ,
+INFO  00:05:07,129 - #45 SIX
+INFO  00:05:07,129 - #19 ,
+INFO  00:05:07,129 - #45 SEVEN
+INFO  00:05:07,129 - #19 ,
+INFO  00:05:07,129 - #45 TEN
+INFO  00:05:07,129 - #26 =
+INFO  00:05:07,129 - #44 10
+INFO  00:05:07,129 - #13 }
+INFO  00:05:07,129 - #6 enum
+INFO  00:05:07,129 - #45 type_enum2
+INFO  00:05:07,129 - #12 {
+INFO  00:05:07,129 - #45 X
+INFO  00:05:07,129 - #13 }
+INFO  00:05:07,129 - #45 int
+INFO  00:05:07,129 - #45 var_int1
+INFO  00:05:07,130 - #19 ,
+INFO  00:05:07,130 - #45 var_int2
+INFO  00:05:07,130 - #19 ,
+INFO  00:05:07,130 - #45 var_ints1
+INFO  00:05:07,130 - #14 [
+INFO  00:05:07,130 - #15 ]
+INFO  00:05:07,130 - #19 ,
+INFO  00:05:07,130 - #45 var_ints2
+INFO  00:05:07,130 - #14 [
+INFO  00:05:07,130 - #15 ]
+INFO  00:05:07,130 - #18 ;
+INFO  00:05:07,130 - #45 char
+INFO  00:05:07,130 - #45 var_char1
+INFO  00:05:07,131 - #19 ,
+INFO  00:05:07,131 - #45 var_chars1
+INFO  00:05:07,131 - #14 [
+INFO  00:05:07,131 - #15 ]
+INFO  00:05:07,131 - #18 ;
+INFO  00:05:07,131 - #45 bool
+INFO  00:05:07,131 - #45 var_bool1
+INFO  00:05:07,131 - #19 ,
+INFO  00:05:07,131 - #45 var_bool2
+INFO  00:05:07,131 - #19 ,
+INFO  00:05:07,131 - #45 var_bools1
+INFO  00:05:07,131 - #14 [
+INFO  00:05:07,131 - #15 ]
+INFO  00:05:07,131 - #18 ;
+INFO  00:05:07,131 - #45 type_enum1
+INFO  00:05:07,131 - #45 var_enum1
+INFO  00:05:07,131 - #19 ,
+INFO  00:05:07,131 - #45 var_enum2
+INFO  00:05:07,131 - #19 ,
+INFO  00:05:07,131 - #45 var_enums1
+INFO  00:05:07,131 - #14 [
+INFO  00:05:07,131 - #15 ]
+INFO  00:05:07,131 - #18 ;
+INFO  00:05:07,131 - #12 {
+INFO  00:05:07,131 - #45 int
+INFO  00:05:07,132 - #45 funkc1
+INFO  00:05:07,132 - #16 (
+INFO  00:05:07,132 - #45 int
+INFO  00:05:07,132 - #45 arg1
+INFO  00:05:07,132 - #17 )
+INFO  00:05:07,132 - #45 int
+INFO  00:05:07,133 - #45 local_int1
+INFO  00:05:07,133 - #19 ,
+INFO  00:05:07,133 - #45 local_int2
+INFO  00:05:07,133 - #18 ;
+INFO  00:05:07,133 - #45 char
+INFO  00:05:07,133 - #45 local_char1
+INFO  00:05:07,133 - #19 ,
+INFO  00:05:07,133 - #45 local_char2
+INFO  00:05:07,133 - #18 ;
+INFO  00:05:07,133 - #45 bool
+INFO  00:05:07,133 - #45 var_bool1
+INFO  00:05:07,133 - #18 ;
+INFO  00:05:07,133 - #12 {
+INFO  00:05:07,133 - #45 var_bool1
+INFO  00:05:07,134 - #26 =
+INFO  00:05:07,134 - #47 0
+INFO  00:05:07,134 - #18 ;
+INFO  00:05:07,134 - #9 if
+INFO  00:05:07,135 - #16 (
+INFO  00:05:07,135 - #45 const_bool1
+INFO  00:05:07,135 - #36 ||
+INFO  00:05:07,136 - #45 var_bool1
+INFO  00:05:07,136 - #35 &&
+INFO  00:05:07,136 - #46 A
+INFO  00:05:07,136 - #29 ==
+INFO  00:05:07,136 - #46 A
+INFO  00:05:07,137 - #36 ||
+INFO  00:05:07,137 - #47 1
+INFO  00:05:07,137 - #35 &&
+INFO  00:05:07,137 - #47 0
+INFO  00:05:07,137 - #36 ||
+INFO  00:05:07,137 - #22 -
+INFO  00:05:07,137 - #44 2
+INFO  00:05:07,137 - #33 <
+INFO  00:05:07,138 - #16 (
+INFO  00:05:07,138 - #44 3
+INFO  00:05:07,138 - #23 *
+INFO  00:05:07,138 - #44 20
+INFO  00:05:07,139 - #24 /
+INFO  00:05:07,139 - #16 (
+INFO  00:05:07,139 - #45 type_enum1
+INFO  00:05:07,139 - #20 .
+INFO  00:05:07,139 - #45 ONE
+INFO  00:05:07,139 - #17 )
+INFO  00:05:07,139 - #23 *
+INFO  00:05:07,139 - #44 2
+INFO  00:05:07,139 - #21 +
+INFO  00:05:07,139 - #45 local_int1
+INFO  00:05:07,140 - #17 )
+INFO  00:05:07,140 - #17 )
+INFO  00:05:07,140 - #45 arg1
+INFO  00:05:07,140 - #26 =
+INFO  00:05:07,140 - #45 arg1
+INFO  00:05:07,140 - #21 +
+INFO  00:05:07,140 - #44 1
+INFO  00:05:07,140 - #18 ;
+INFO  00:05:07,140 - #38 return
+INFO  00:05:07,140 - #44 1
+INFO  00:05:07,141 - #21 +
+INFO  00:05:07,141 - #44 2
+INFO  00:05:07,141 - #23 *
+INFO  00:05:07,141 - #45 local_int1
+INFO  00:05:07,141 - #18 ;
+INFO  00:05:07,141 - #13 }
+INFO  00:05:07,141 - #39 void
+INFO  00:05:07,142 - #45 funkc2
+INFO  00:05:07,142 - #16 (
+INFO  00:05:07,142 - #45 bool
+INFO  00:05:07,142 - #45 args
+INFO  00:05:07,142 - #14 [
+INFO  00:05:07,142 - #15 ]
+INFO  00:05:07,142 - #19 ,
+INFO  00:05:07,142 - #45 char
+INFO  00:05:07,142 - #45 arg
+INFO  00:05:07,142 - #19 ,
+INFO  00:05:07,142 - #45 char
+INFO  00:05:07,142 - #45 args2
+INFO  00:05:07,142 - #14 [
+INFO  00:05:07,143 - #15 ]
+INFO  00:05:07,143 - #17 )
+INFO  00:05:07,143 - #45 int
+INFO  00:05:07,143 - #45 i
+INFO  00:05:07,143 - #18 ;
+INFO  00:05:07,143 - #12 {
+INFO  00:05:07,143 - #9 if
+INFO  00:05:07,143 - #16 (
+INFO  00:05:07,143 - #45 args
+INFO  00:05:07,143 - #14 [
+INFO  00:05:07,143 - #44 0
+INFO  00:05:07,143 - #21 +
+INFO  00:05:07,143 - #44 1
+INFO  00:05:07,143 - #15 ]
+INFO  00:05:07,143 - #36 ||
+INFO  00:05:07,143 - #45 arg
+INFO  00:05:07,143 - #29 ==
+INFO  00:05:07,143 - #46 A
+INFO  00:05:07,143 - #17 )
+INFO  00:05:07,143 - #12 {
+INFO  00:05:07,143 - #45 args
+INFO  00:05:07,143 - #14 [
+INFO  00:05:07,143 - #44 0
+INFO  00:05:07,143 - #15 ]
+INFO  00:05:07,143 - #26 =
+INFO  00:05:07,143 - #47 0
+INFO  00:05:07,143 - #18 ;
+INFO  00:05:07,143 - #13 }
+INFO  00:05:07,143 - #7 else
+INFO  00:05:07,143 - #9 if
+INFO  00:05:07,143 - #16 (
+INFO  00:05:07,143 - #45 type_enum2
+INFO  00:05:07,143 - #20 .
+INFO  00:05:07,144 - #45 X
+INFO  00:05:07,144 - #30 !=
+INFO  00:05:07,144 - #44 5
+INFO  00:05:07,144 - #35 &&
+INFO  00:05:07,144 - #45 const_int1
+INFO  00:05:07,144 - #34 <=
+INFO  00:05:07,144 - #44 2
+INFO  00:05:07,144 - #17 )
+INFO  00:05:07,144 - #45 arg
+INFO  00:05:07,144 - #26 =
+INFO  00:05:07,144 - #46 B
+INFO  00:05:07,144 - #18 ;
+INFO  00:05:07,144 - #7 else
+INFO  00:05:07,145 - #12 {
+INFO  00:05:07,145 - #45 args2
+INFO  00:05:07,145 - #14 [
+INFO  00:05:07,145 - #44 0
+INFO  00:05:07,145 - #15 ]
+INFO  00:05:07,145 - #26 =
+INFO  00:05:07,145 - #46 h
+INFO  00:05:07,145 - #18 ;
+INFO  00:05:07,145 - #45 args2
+INFO  00:05:07,145 - #14 [
+INFO  00:05:07,145 - #44 1
+INFO  00:05:07,145 - #15 ]
+INFO  00:05:07,145 - #26 =
+INFO  00:05:07,145 - #46 u
+INFO  00:05:07,145 - #18 ;
+INFO  00:05:07,145 - #45 args2
+INFO  00:05:07,145 - #14 [
+INFO  00:05:07,145 - #44 2
+INFO  00:05:07,145 - #15 ]
+INFO  00:05:07,145 - #26 =
+INFO  00:05:07,145 - #46 d
+INFO  00:05:07,145 - #18 ;
+INFO  00:05:07,145 - #45 args2
+INFO  00:05:07,145 - #14 [
+INFO  00:05:07,145 - #44 3
+INFO  00:05:07,145 - #15 ]
+INFO  00:05:07,145 - #26 =
+INFO  00:05:07,145 - #46 i
+INFO  00:05:07,145 - #18 ;
+INFO  00:05:07,145 - #40 for
+INFO  00:05:07,145 - #16 (
+INFO  00:05:07,145 - #45 i
+INFO  00:05:07,146 - #26 =
+INFO  00:05:07,146 - #44 0
+INFO  00:05:07,146 - #18 ;
+INFO  00:05:07,146 - #45 i
+INFO  00:05:07,146 - #33 <
+INFO  00:05:07,146 - #45 type_enum1
+INFO  00:05:07,146 - #20 .
+INFO  00:05:07,146 - #45 TEN
+INFO  00:05:07,146 - #18 ;
+INFO  00:05:07,146 - #45 i
+INFO  00:05:07,146 - #27 ++
+INFO  00:05:07,146 - #17 )
+INFO  00:05:07,146 - #12 {
+INFO  00:05:07,147 - #45 args2
+INFO  00:05:07,147 - #14 [
+INFO  00:05:07,147 - #45 i
+INFO  00:05:07,147 - #21 +
+INFO  00:05:07,147 - #44 1
+INFO  00:05:07,147 - #15 ]
+INFO  00:05:07,147 - #26 =
+INFO  00:05:07,147 - #46  
+INFO  00:05:07,147 - #18 ;
+INFO  00:05:07,147 - #3 break
+INFO  00:05:07,147 - #18 ;
+INFO  00:05:07,147 - #13 }
+INFO  00:05:07,147 - #13 }
+INFO  00:05:07,148 - #13 }
+INFO  00:05:07,148 - #39 void
+INFO  00:05:07,148 - #45 funkc3
+INFO  00:05:07,148 - #16 (
+INFO  00:05:07,148 - #45 int
+INFO  00:05:07,148 - #45 arr
+INFO  00:05:07,148 - #14 [
+INFO  00:05:07,148 - #15 ]
+INFO  00:05:07,148 - #17 )
+INFO  00:05:07,148 - #45 int
+INFO  00:05:07,148 - #45 i
+INFO  00:05:07,148 - #18 ;
+INFO  00:05:07,148 - #12 {
+INFO  00:05:07,148 - #9 if
+INFO  00:05:07,148 - #16 (
+INFO  00:05:07,148 - #47 1
+INFO  00:05:07,148 - #17 )
+INFO  00:05:07,148 - #9 if
+INFO  00:05:07,148 - #16 (
+INFO  00:05:07,148 - #47 1
+INFO  00:05:07,148 - #17 )
+INFO  00:05:07,148 - #9 if
+INFO  00:05:07,148 - #16 (
+INFO  00:05:07,148 - #47 1
+INFO  00:05:07,148 - #17 )
+INFO  00:05:07,148 - #40 for
+INFO  00:05:07,149 - #16 (
+INFO  00:05:07,149 - #45 i
+INFO  00:05:07,149 - #26 =
+INFO  00:05:07,149 - #44 1
+INFO  00:05:07,149 - #18 ;
+INFO  00:05:07,149 - #46 a
+INFO  00:05:07,149 - #30 !=
+INFO  00:05:07,149 - #46 b
+INFO  00:05:07,149 - #18 ;
+INFO  00:05:07,149 - #17 )
+INFO  00:05:07,149 - #45 arr
+INFO  00:05:07,149 - #14 [
+INFO  00:05:07,149 - #45 arr
+INFO  00:05:07,149 - #14 [
+INFO  00:05:07,149 - #45 arr
+INFO  00:05:07,149 - #14 [
+INFO  00:05:07,149 - #45 arr
+INFO  00:05:07,149 - #14 [
+INFO  00:05:07,149 - #45 i
+INFO  00:05:07,149 - #15 ]
+INFO  00:05:07,149 - #15 ]
+INFO  00:05:07,149 - #15 ]
+INFO  00:05:07,149 - #15 ]
+INFO  00:05:07,150 - #26 =
+INFO  00:05:07,150 - #45 arr
+INFO  00:05:07,150 - #14 [
+INFO  00:05:07,150 - #45 i
+INFO  00:05:07,150 - #21 +
+INFO  00:05:07,150 - #44 2
+INFO  00:05:07,150 - #15 ]
+INFO  00:05:07,150 - #18 ;
+INFO  00:05:07,150 - #38 return
+INFO  00:05:07,150 - #18 ;
+INFO  00:05:07,150 - #13 }
+INFO  00:05:07,150 - #39 void
+INFO  00:05:07,150 - #45 main
+INFO  00:05:07,150 - #16 (
+INFO  00:05:07,150 - #17 )
+INFO  00:05:07,150 - #12 {
+INFO  00:05:07,150 - #13 }
+INFO  00:05:07,150 - #13 }
+INFO  00:05:07,158 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declarations(
+            Declarations(
+              Declarations(
+                Declarations(
+                  Declarations(
+                    NoDecl(
+                    ) [NoDecl]
+                    ConstDeclaration(
+                      ConstDeclNode(
+                        ConstDeclType(
+                          TypeNode(
+                           bool
+                          ) [TypeNode]
+                        ) [ConstDeclType]
+                        Constants(
+                          Constants(
+                            SingleConstant(
+                              IdentEqualConstantNode(
+                               const_bool1
+                                BooleanNode(
+                                 1
+                                ) [BooleanNode]
+                              ) [IdentEqualConstantNode]
+                            ) [SingleConstant]
+                            IdentEqualConstantNode(
+                             const_bool2
+                              BooleanNode(
+                               1
+                              ) [BooleanNode]
+                            ) [IdentEqualConstantNode]
+                          ) [Constants]
+                          IdentEqualConstantNode(
+                           const_bool3
+                            BooleanNode(
+                             0
+                            ) [BooleanNode]
+                          ) [IdentEqualConstantNode]
+                        ) [Constants]
+                      ) [ConstDeclNode]
+                    ) [ConstDeclaration]
+                  ) [Declarations]
+                  ConstDeclaration(
+                    ConstDeclNode(
+                      ConstDeclType(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                      ) [ConstDeclType]
+                      SingleConstant(
+                        IdentEqualConstantNode(
+                         const_int1
+                          NumberNode(
+                           1
+                          ) [NumberNode]
+                        ) [IdentEqualConstantNode]
+                      ) [SingleConstant]
+                    ) [ConstDeclNode]
+                  ) [ConstDeclaration]
+                ) [Declarations]
+                ConstDeclaration(
+                  ConstDeclNode(
+                    ConstDeclType(
+                      TypeNode(
+                       char
+                      ) [TypeNode]
+                    ) [ConstDeclType]
+                    Constants(
+                      Constants(
+                        SingleConstant(
+                          IdentEqualConstantNode(
+                           const_char1
+                            CharNode(
+                             a
+                            ) [CharNode]
+                          ) [IdentEqualConstantNode]
+                        ) [SingleConstant]
+                        IdentEqualConstantNode(
+                         const_char2
+                          CharNode(
+                           b
+                          ) [CharNode]
+                        ) [IdentEqualConstantNode]
+                      ) [Constants]
+                      IdentEqualConstantNode(
+                       const_char3
+                        CharNode(
+                         c
+                        ) [CharNode]
+                      ) [IdentEqualConstantNode]
+                    ) [Constants]
+                  ) [ConstDeclNode]
+                ) [ConstDeclaration]
+              ) [Declarations]
+              EnumDeclaration(
+                EnumDeclarationNode(
+                  EnumIdent(
+                   type_enum1
+                  ) [EnumIdent]
+                  Enumerations(
+                    Enumerations(
+                      Enumerations(
+                        Enumerations(
+                          Enumerations(
+                            Enumerations(
+                              SingleEnumeration(
+                                EnumerationNoVal(
+                                 ZERO
+                                ) [EnumerationNoVal]
+                              ) [SingleEnumeration]
+                              EnumerationNoVal(
+                               ONE
+                              ) [EnumerationNoVal]
+                            ) [Enumerations]
+                            EnumerationVal(
+                             THREE
+                             3
+                            ) [EnumerationVal]
+                          ) [Enumerations]
+                          EnumerationVal(
+                           FIVE
+                           5
+                          ) [EnumerationVal]
+                        ) [Enumerations]
+                        EnumerationNoVal(
+                         SIX
+                        ) [EnumerationNoVal]
+                      ) [Enumerations]
+                      EnumerationNoVal(
+                       SEVEN
+                      ) [EnumerationNoVal]
+                    ) [Enumerations]
+                    EnumerationVal(
+                     TEN
+                     10
+                    ) [EnumerationVal]
+                  ) [Enumerations]
+                ) [EnumDeclarationNode]
+              ) [EnumDeclaration]
+            ) [Declarations]
+            EnumDeclaration(
+              EnumDeclarationNode(
+                EnumIdent(
+                 type_enum2
+                ) [EnumIdent]
+                SingleEnumeration(
+                  EnumerationNoVal(
+                   X
+                  ) [EnumerationNoVal]
+                ) [SingleEnumeration]
+              ) [EnumDeclarationNode]
+            ) [EnumDeclaration]
+          ) [Declarations]
+          VarDeclaration(
+            VarDeclNode(
+              VarDeclType(
+                TypeNode(
+                 int
+                ) [TypeNode]
+              ) [VarDeclType]
+              Variables(
+                Variables(
+                  Variables(
+                    SingleVariable(
+                      VariableNoBracket(
+                       var_int1
+                      ) [VariableNoBracket]
+                    ) [SingleVariable]
+                    VariableNoBracket(
+                     var_int2
+                    ) [VariableNoBracket]
+                  ) [Variables]
+                  VariableBracket(
+                   var_ints1
+                  ) [VariableBracket]
+                ) [Variables]
+                VariableBracket(
+                 var_ints2
+                ) [VariableBracket]
+              ) [Variables]
+            ) [VarDeclNode]
+          ) [VarDeclaration]
+        ) [Declarations]
+        VarDeclaration(
+          VarDeclNode(
+            VarDeclType(
+              TypeNode(
+               char
+              ) [TypeNode]
+            ) [VarDeclType]
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 var_char1
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableBracket(
+               var_chars1
+              ) [VariableBracket]
+            ) [Variables]
+          ) [VarDeclNode]
+        ) [VarDeclaration]
+      ) [Declarations]
+      VarDeclaration(
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             bool
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 var_bool1
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               var_bool2
+              ) [VariableNoBracket]
+            ) [Variables]
+            VariableBracket(
+             var_bools1
+            ) [VariableBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclNode(
+        VarDeclType(
+          TypeNode(
+           type_enum1
+          ) [TypeNode]
+        ) [VarDeclType]
+        Variables(
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               var_enum1
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             var_enum2
+            ) [VariableNoBracket]
+          ) [Variables]
+          VariableBracket(
+           var_enums1
+          ) [VariableBracket]
+        ) [Variables]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDecl(
+            MethodTypeName(
+              NoVoidType(
+                TypeNode(
+                 int
+                ) [TypeNode]
+              ) [NoVoidType]
+             funkc1
+            ) [MethodTypeName]
+            FormalParams(
+              SingleFormalParamDecl(
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                 arg1
+                ) [FormalParamDeclarationNoBrackets]
+              ) [SingleFormalParamDecl]
+            ) [FormalParams]
+            VarDeclarationList(
+              VarDeclarationList(
+                VarDeclarationList(
+                  NoVarDeclaration(
+                  ) [NoVarDeclaration]
+                  VarDeclNode(
+                    VarDeclType(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                    ) [VarDeclType]
+                    Variables(
+                      SingleVariable(
+                        VariableNoBracket(
+                         local_int1
+                        ) [VariableNoBracket]
+                      ) [SingleVariable]
+                      VariableNoBracket(
+                       local_int2
+                      ) [VariableNoBracket]
+                    ) [Variables]
+                  ) [VarDeclNode]
+                ) [VarDeclarationList]
+                VarDeclNode(
+                  VarDeclType(
+                    TypeNode(
+                     char
+                    ) [TypeNode]
+                  ) [VarDeclType]
+                  Variables(
+                    SingleVariable(
+                      VariableNoBracket(
+                       local_char1
+                      ) [VariableNoBracket]
+                    ) [SingleVariable]
+                    VariableNoBracket(
+                     local_char2
+                    ) [VariableNoBracket]
+                  ) [Variables]
+                ) [VarDeclNode]
+              ) [VarDeclarationList]
+              VarDeclNode(
+                VarDeclType(
+                  TypeNode(
+                   bool
+                  ) [TypeNode]
+                ) [VarDeclType]
+                SingleVariable(
+                  VariableNoBracket(
+                   var_bool1
+                  ) [VariableNoBracket]
+                ) [SingleVariable]
+              ) [VarDeclNode]
+            ) [VarDeclarationList]
+            Statements(
+              Statements(
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                        SingleIdentExpr(
+                         var_bool1
+                        ) [SingleIdentExpr]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantBoolean(
+                           0
+                          ) [ConstantBoolean]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+                IfStatement(
+                  IfConditionNode(
+                    ConditionNode(
+                      ConditionTerms(
+                        ConditionTerms(
+                          ConditionTerms(
+                            SingleConditionTerm(
+                              ConditionTermNode(
+                                SingleConditionFact(
+                                  CondFactExpression(
+                                    SingleExpression(
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            SingleIdentExpr(
+                                             const_bool1
+                                            ) [SingleIdentExpr]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [CondFactExpression]
+                                ) [SingleConditionFact]
+                              ) [ConditionTermNode]
+                            ) [SingleConditionTerm]
+                            ConditionTermNode(
+                              ConditionFacts(
+                                SingleConditionFact(
+                                  CondFactExpression(
+                                    SingleExpression(
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            SingleIdentExpr(
+                                             var_bool1
+                                            ) [SingleIdentExpr]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [CondFactExpression]
+                                ) [SingleConditionFact]
+                                CondFactExpressionRelopExpression(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantCharacter(
+                                       A
+                                      ) [ConstantCharacter]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                  RelopEqualEqual(
+                                  ) [RelopEqualEqual]
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantCharacter(
+                                       A
+                                      ) [ConstantCharacter]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [CondFactExpressionRelopExpression]
+                              ) [ConditionFacts]
+                            ) [ConditionTermNode]
+                          ) [ConditionTerms]
+                          ConditionTermNode(
+                            ConditionFacts(
+                              SingleConditionFact(
+                                CondFactExpression(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantBoolean(
+                                       1
+                                      ) [ConstantBoolean]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [CondFactExpression]
+                              ) [SingleConditionFact]
+                              CondFactExpression(
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantBoolean(
+                                     0
+                                    ) [ConstantBoolean]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [CondFactExpression]
+                            ) [ConditionFacts]
+                          ) [ConditionTermNode]
+                        ) [ConditionTerms]
+                        ConditionTermNode(
+                          SingleConditionFact(
+                            CondFactExpressionRelopExpression(
+                              SingleExpressionMinus(
+                                TermFactor(
+                                  ConstantNumber(
+                                   2
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpressionMinus]
+                              RelopLess(
+                              ) [RelopLess]
+                              SingleExpression(
+                                TermFactor(
+                                  ExprParenNode(
+                                    ExpressionNode(
+                                      SingleExpression(
+                                        TermNode(
+                                          TermNode(
+                                            TermNode(
+                                              TermFactor(
+                                                ConstantNumber(
+                                                 3
+                                                ) [ConstantNumber]
+                                              ) [TermFactor]
+                                              AddopMul(
+                                              ) [AddopMul]
+                                              ConstantNumber(
+                                               20
+                                              ) [ConstantNumber]
+                                            ) [TermNode]
+                                            AddopDiv(
+                                            ) [AddopDiv]
+                                            ExprParenNode(
+                                              SingleExpression(
+                                                TermFactor(
+                                                  DesignatorEmpty(
+                                                    DesignatorNode(
+                                                      Idents(
+                                                        SingleIdentExpr(
+                                                         type_enum1
+                                                        ) [SingleIdentExpr]
+                                                       ONE
+                                                      ) [Idents]
+                                                    ) [DesignatorNode]
+                                                  ) [DesignatorEmpty]
+                                                ) [TermFactor]
+                                              ) [SingleExpression]
+                                            ) [ExprParenNode]
+                                          ) [TermNode]
+                                          AddopMul(
+                                          ) [AddopMul]
+                                          ConstantNumber(
+                                           2
+                                          ) [ConstantNumber]
+                                        ) [TermNode]
+                                      ) [SingleExpression]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            SingleIdentExpr(
+                                             local_int1
+                                            ) [SingleIdentExpr]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [ExpressionNode]
+                                  ) [ExprParenNode]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [SingleConditionFact]
+                        ) [ConditionTermNode]
+                      ) [ConditionTerms]
+                    ) [ConditionNode]
+                  ) [IfConditionNode]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                        SingleIdentExpr(
+                         arg1
+                        ) [SingleIdentExpr]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      ExpressionNode(
+                        SingleExpression(
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                                SingleIdentExpr(
+                                 arg1
+                                ) [SingleIdentExpr]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                        AddopPlus(
+                        ) [AddopPlus]
+                        TermFactor(
+                          ConstantNumber(
+                           1
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [ExpressionNode]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [IfStatement]
+              ) [Statements]
+              ReturnStatementExpr(
+                ExpressionNode(
+                  SingleExpression(
+                    TermFactor(
+                      ConstantNumber(
+                       1
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  TermNode(
+                    TermFactor(
+                      ConstantNumber(
+                       2
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                    AddopMul(
+                    ) [AddopMul]
+                    DesignatorEmpty(
+                      DesignatorNode(
+                        SingleIdentExpr(
+                         local_int1
+                        ) [SingleIdentExpr]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermNode]
+                ) [ExpressionNode]
+              ) [ReturnStatementExpr]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [MethodDeclarations]
+        MethodDecl(
+          MethodTypeName(
+            VoidType(
+            ) [VoidType]
+           funkc2
+          ) [MethodTypeName]
+          FormalParams(
+            FormalParamDecls(
+              FormalParamDecls(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationBrackets(
+                    TypeNode(
+                     bool
+                    ) [TypeNode]
+                   args
+                  ) [FormalParamDeclarationBrackets]
+                ) [SingleFormalParamDecl]
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   char
+                  ) [TypeNode]
+                 arg
+                ) [FormalParamDeclarationNoBrackets]
+              ) [FormalParamDecls]
+              FormalParamDeclarationBrackets(
+                TypeNode(
+                 char
+                ) [TypeNode]
+               args2
+              ) [FormalParamDeclarationBrackets]
+            ) [FormalParamDecls]
+          ) [FormalParams]
+          VarDeclarationList(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclNode(
+              VarDeclType(
+                TypeNode(
+                 int
+                ) [TypeNode]
+              ) [VarDeclType]
+              SingleVariable(
+                VariableNoBracket(
+                 i
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+            ) [VarDeclNode]
+          ) [VarDeclarationList]
+          Statements(
+            NoStatement(
+            ) [NoStatement]
+            IfElseStatement(
+              IfConditionNode(
+                ConditionNode(
+                  ConditionTerms(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpression(
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    Exprs(
+                                      SingleIdentExpr(
+                                       args
+                                      ) [SingleIdentExpr]
+                                      ExpressionNode(
+                                        SingleExpression(
+                                          TermFactor(
+                                            ConstantNumber(
+                                             0
+                                            ) [ConstantNumber]
+                                          ) [TermFactor]
+                                        ) [SingleExpression]
+                                        AddopPlus(
+                                        ) [AddopPlus]
+                                        TermFactor(
+                                          ConstantNumber(
+                                           1
+                                          ) [ConstantNumber]
+                                        ) [TermFactor]
+                                      ) [ExpressionNode]
+                                    ) [Exprs]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                    ConditionTermNode(
+                      SingleConditionFact(
+                        CondFactExpressionRelopExpression(
+                          SingleExpression(
+                            TermFactor(
+                              DesignatorEmpty(
+                                DesignatorNode(
+                                  SingleIdentExpr(
+                                   arg
+                                  ) [SingleIdentExpr]
+                                ) [DesignatorNode]
+                              ) [DesignatorEmpty]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                          RelopEqualEqual(
+                          ) [RelopEqualEqual]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantCharacter(
+                               A
+                              ) [ConstantCharacter]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [CondFactExpressionRelopExpression]
+                      ) [SingleConditionFact]
+                    ) [ConditionTermNode]
+                  ) [ConditionTerms]
+                ) [ConditionNode]
+              ) [IfConditionNode]
+              InBraceStatement(
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                        Exprs(
+                          SingleIdentExpr(
+                           args
+                          ) [SingleIdentExpr]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantNumber(
+                               0
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [Exprs]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantBoolean(
+                           0
+                          ) [ConstantBoolean]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+              ) [InBraceStatement]
+              IfElseStatement(
+                IfConditionNode(
+                  ConditionNode(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        ConditionFacts(
+                          SingleConditionFact(
+                            CondFactExpressionRelopExpression(
+                              SingleExpression(
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                      Idents(
+                                        SingleIdentExpr(
+                                         type_enum2
+                                        ) [SingleIdentExpr]
+                                       X
+                                      ) [Idents]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                              RelopNotEqual(
+                              ) [RelopNotEqual]
+                              SingleExpression(
+                                TermFactor(
+                                  ConstantNumber(
+                                   5
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [SingleConditionFact]
+                          CondFactExpressionRelopExpression(
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    SingleIdentExpr(
+                                     const_int1
+                                    ) [SingleIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                            RelopLessEqual(
+                            ) [RelopLessEqual]
+                            SingleExpression(
+                              TermFactor(
+                                ConstantNumber(
+                                 2
+                                ) [ConstantNumber]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpressionRelopExpression]
+                        ) [ConditionFacts]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                  ) [ConditionNode]
+                ) [IfConditionNode]
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      SingleIdentExpr(
+                       arg
+                      ) [SingleIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantCharacter(
+                         B
+                        ) [ConstantCharacter]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+                InBraceStatement(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            NoStatement(
+                            ) [NoStatement]
+                            DesignatorStatementOnly(
+                              DesignatorStatementAssignop(
+                                DesignatorNode(
+                                  Exprs(
+                                    SingleIdentExpr(
+                                     args2
+                                    ) [SingleIdentExpr]
+                                    SingleExpression(
+                                      TermFactor(
+                                        ConstantNumber(
+                                         0
+                                        ) [ConstantNumber]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [Exprs]
+                                ) [DesignatorNode]
+                                Assignop(
+                                ) [Assignop]
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantCharacter(
+                                     h
+                                    ) [ConstantCharacter]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [DesignatorStatementAssignop]
+                            ) [DesignatorStatementOnly]
+                          ) [Statements]
+                          DesignatorStatementOnly(
+                            DesignatorStatementAssignop(
+                              DesignatorNode(
+                                Exprs(
+                                  SingleIdentExpr(
+                                   args2
+                                  ) [SingleIdentExpr]
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantNumber(
+                                       1
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [Exprs]
+                              ) [DesignatorNode]
+                              Assignop(
+                              ) [Assignop]
+                              SingleExpression(
+                                TermFactor(
+                                  ConstantCharacter(
+                                   u
+                                  ) [ConstantCharacter]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [DesignatorStatementAssignop]
+                          ) [DesignatorStatementOnly]
+                        ) [Statements]
+                        DesignatorStatementOnly(
+                          DesignatorStatementAssignop(
+                            DesignatorNode(
+                              Exprs(
+                                SingleIdentExpr(
+                                 args2
+                                ) [SingleIdentExpr]
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     2
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [Exprs]
+                            ) [DesignatorNode]
+                            Assignop(
+                            ) [Assignop]
+                            SingleExpression(
+                              TermFactor(
+                                ConstantCharacter(
+                                 d
+                                ) [ConstantCharacter]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [DesignatorStatementAssignop]
+                        ) [DesignatorStatementOnly]
+                      ) [Statements]
+                      DesignatorStatementOnly(
+                        DesignatorStatementAssignop(
+                          DesignatorNode(
+                            Exprs(
+                              SingleIdentExpr(
+                               args2
+                              ) [SingleIdentExpr]
+                              SingleExpression(
+                                TermFactor(
+                                  ConstantNumber(
+                                   3
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [Exprs]
+                          ) [DesignatorNode]
+                          Assignop(
+                          ) [Assignop]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantCharacter(
+                               i
+                              ) [ConstantCharacter]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [DesignatorStatementAssignop]
+                      ) [DesignatorStatementOnly]
+                    ) [Statements]
+                    ForStatement(
+                      ForHeader(
+                        DesignatorStatementNotNull(
+                          DesignatorStatementAssignop(
+                            DesignatorNode(
+                              SingleIdentExpr(
+                               i
+                              ) [SingleIdentExpr]
+                            ) [DesignatorNode]
+                            Assignop(
+                            ) [Assignop]
+                            SingleExpression(
+                              TermFactor(
+                                ConstantNumber(
+                                 0
+                                ) [ConstantNumber]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [DesignatorStatementAssignop]
+                        ) [DesignatorStatementNotNull]
+                        ConditionNotNull(
+                          ConditionNode(
+                            SingleConditionTerm(
+                              ConditionTermNode(
+                                SingleConditionFact(
+                                  CondFactExpressionRelopExpression(
+                                    SingleExpression(
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            SingleIdentExpr(
+                                             i
+                                            ) [SingleIdentExpr]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                    RelopLess(
+                                    ) [RelopLess]
+                                    SingleExpression(
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            Idents(
+                                              SingleIdentExpr(
+                                               type_enum1
+                                              ) [SingleIdentExpr]
+                                             TEN
+                                            ) [Idents]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [CondFactExpressionRelopExpression]
+                                ) [SingleConditionFact]
+                              ) [ConditionTermNode]
+                            ) [SingleConditionTerm]
+                          ) [ConditionNode]
+                        ) [ConditionNotNull]
+                        DesignatorStatementNotNull(
+                          DesignatorStatementPlusPlus(
+                            DesignatorNode(
+                              SingleIdentExpr(
+                               i
+                              ) [SingleIdentExpr]
+                            ) [DesignatorNode]
+                          ) [DesignatorStatementPlusPlus]
+                        ) [DesignatorStatementNotNull]
+                      ) [ForHeader]
+                      InBraceStatement(
+                        Statements(
+                          Statements(
+                            NoStatement(
+                            ) [NoStatement]
+                            DesignatorStatementOnly(
+                              DesignatorStatementAssignop(
+                                DesignatorNode(
+                                  Exprs(
+                                    SingleIdentExpr(
+                                     args2
+                                    ) [SingleIdentExpr]
+                                    ExpressionNode(
+                                      SingleExpression(
+                                        TermFactor(
+                                          DesignatorEmpty(
+                                            DesignatorNode(
+                                              SingleIdentExpr(
+                                               i
+                                              ) [SingleIdentExpr]
+                                            ) [DesignatorNode]
+                                          ) [DesignatorEmpty]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      TermFactor(
+                                        ConstantNumber(
+                                         1
+                                        ) [ConstantNumber]
+                                      ) [TermFactor]
+                                    ) [ExpressionNode]
+                                  ) [Exprs]
+                                ) [DesignatorNode]
+                                Assignop(
+                                ) [Assignop]
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantCharacter(
+                                      
+                                    ) [ConstantCharacter]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [DesignatorStatementAssignop]
+                            ) [DesignatorStatementOnly]
+                          ) [Statements]
+                          BreakStatement(
+                            SemiDerived1(
+                            ) [SemiDerived1]
+                          ) [BreakStatement]
+                        ) [Statements]
+                      ) [InBraceStatement]
+                    ) [ForStatement]
+                  ) [Statements]
+                ) [InBraceStatement]
+              ) [IfElseStatement]
+            ) [IfElseStatement]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+      MethodDecl(
+        MethodTypeName(
+          VoidType(
+          ) [VoidType]
+         funkc3
+        ) [MethodTypeName]
+        FormalParams(
+          SingleFormalParamDecl(
+            FormalParamDeclarationBrackets(
+              TypeNode(
+               int
+              ) [TypeNode]
+             arr
+            ) [FormalParamDeclarationBrackets]
+          ) [SingleFormalParamDecl]
+        ) [FormalParams]
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            VarDeclType(
+              TypeNode(
+               int
+              ) [TypeNode]
+            ) [VarDeclType]
+            SingleVariable(
+              VariableNoBracket(
+               i
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        Statements(
+          Statements(
+            NoStatement(
+            ) [NoStatement]
+            IfStatement(
+              IfConditionNode(
+                ConditionNode(
+                  SingleConditionTerm(
+                    ConditionTermNode(
+                      SingleConditionFact(
+                        CondFactExpression(
+                          SingleExpression(
+                            TermFactor(
+                              ConstantBoolean(
+                               1
+                              ) [ConstantBoolean]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [CondFactExpression]
+                      ) [SingleConditionFact]
+                    ) [ConditionTermNode]
+                  ) [SingleConditionTerm]
+                ) [ConditionNode]
+              ) [IfConditionNode]
+              IfStatement(
+                IfConditionNode(
+                  ConditionNode(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpression(
+                            SingleExpression(
+                              TermFactor(
+                                ConstantBoolean(
+                                 1
+                                ) [ConstantBoolean]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                  ) [ConditionNode]
+                ) [IfConditionNode]
+                IfStatement(
+                  IfConditionNode(
+                    ConditionNode(
+                      SingleConditionTerm(
+                        ConditionTermNode(
+                          SingleConditionFact(
+                            CondFactExpression(
+                              SingleExpression(
+                                TermFactor(
+                                  ConstantBoolean(
+                                   1
+                                  ) [ConstantBoolean]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [CondFactExpression]
+                          ) [SingleConditionFact]
+                        ) [ConditionTermNode]
+                      ) [SingleConditionTerm]
+                    ) [ConditionNode]
+                  ) [IfConditionNode]
+                  ForStatement(
+                    ForHeader(
+                      DesignatorStatementNotNull(
+                        DesignatorStatementAssignop(
+                          DesignatorNode(
+                            SingleIdentExpr(
+                             i
+                            ) [SingleIdentExpr]
+                          ) [DesignatorNode]
+                          Assignop(
+                          ) [Assignop]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantNumber(
+                               1
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [DesignatorStatementAssignop]
+                      ) [DesignatorStatementNotNull]
+                      ConditionNotNull(
+                        ConditionNode(
+                          SingleConditionTerm(
+                            ConditionTermNode(
+                              SingleConditionFact(
+                                CondFactExpressionRelopExpression(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantCharacter(
+                                       a
+                                      ) [ConstantCharacter]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                  RelopNotEqual(
+                                  ) [RelopNotEqual]
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantCharacter(
+                                       b
+                                      ) [ConstantCharacter]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [CondFactExpressionRelopExpression]
+                              ) [SingleConditionFact]
+                            ) [ConditionTermNode]
+                          ) [SingleConditionTerm]
+                        ) [ConditionNode]
+                      ) [ConditionNotNull]
+                      DesignatorStatementNull(
+                      ) [DesignatorStatementNull]
+                    ) [ForHeader]
+                    DesignatorStatementOnly(
+                      DesignatorStatementAssignop(
+                        DesignatorNode(
+                          Exprs(
+                            SingleIdentExpr(
+                             arr
+                            ) [SingleIdentExpr]
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    Exprs(
+                                      SingleIdentExpr(
+                                       arr
+                                      ) [SingleIdentExpr]
+                                      SingleExpression(
+                                        TermFactor(
+                                          DesignatorEmpty(
+                                            DesignatorNode(
+                                              Exprs(
+                                                SingleIdentExpr(
+                                                 arr
+                                                ) [SingleIdentExpr]
+                                                SingleExpression(
+                                                  TermFactor(
+                                                    DesignatorEmpty(
+                                                      DesignatorNode(
+                                                        Exprs(
+                                                          SingleIdentExpr(
+                                                           arr
+                                                          ) [SingleIdentExpr]
+                                                          SingleExpression(
+                                                            TermFactor(
+                                                              DesignatorEmpty(
+                                                                DesignatorNode(
+                                                                  SingleIdentExpr(
+                                                                   i
+                                                                  ) [SingleIdentExpr]
+                                                                ) [DesignatorNode]
+                                                              ) [DesignatorEmpty]
+                                                            ) [TermFactor]
+                                                          ) [SingleExpression]
+                                                        ) [Exprs]
+                                                      ) [DesignatorNode]
+                                                    ) [DesignatorEmpty]
+                                                  ) [TermFactor]
+                                                ) [SingleExpression]
+                                              ) [Exprs]
+                                            ) [DesignatorNode]
+                                          ) [DesignatorEmpty]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                    ) [Exprs]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [Exprs]
+                        ) [DesignatorNode]
+                        Assignop(
+                        ) [Assignop]
+                        SingleExpression(
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                                Exprs(
+                                  SingleIdentExpr(
+                                   arr
+                                  ) [SingleIdentExpr]
+                                  ExpressionNode(
+                                    SingleExpression(
+                                      TermFactor(
+                                        DesignatorEmpty(
+                                          DesignatorNode(
+                                            SingleIdentExpr(
+                                             i
+                                            ) [SingleIdentExpr]
+                                          ) [DesignatorNode]
+                                        ) [DesignatorEmpty]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                    AddopPlus(
+                                    ) [AddopPlus]
+                                    TermFactor(
+                                      ConstantNumber(
+                                       2
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [ExpressionNode]
+                                ) [Exprs]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [DesignatorStatementAssignop]
+                    ) [DesignatorStatementOnly]
+                  ) [ForStatement]
+                ) [IfStatement]
+              ) [IfStatement]
+            ) [IfStatement]
+          ) [Statements]
+          ReturnStatementVoid(
+          ) [ReturnStatementVoid]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:05:07,160 - ===================================
+INFO  00:05:07,162 - Definisana konstanta (1)const_bool1 na liniji 4
+INFO  00:05:07,162 - Definisana konstanta (1)const_bool2 na liniji 4
+INFO  00:05:07,162 - Definisana konstanta (0)const_bool3 na liniji 4
+INFO  00:05:07,162 - Definisana konstanta (1)const_int1 na liniji 5
+INFO  00:05:07,162 - Definisana konstanta (97)const_char1 na liniji 6
+INFO  00:05:07,162 - Definisana konstanta (98)const_char2 na liniji 6
+INFO  00:05:07,162 - Definisana konstanta (99)const_char3 na liniji 6
+INFO  00:05:07,162 - Deklarisan novi enum tip: type_enum1 na liniji 11
+INFO  00:05:07,162 - Definisana enum konstanta ZERO sa vrednoscu 0 na liniji 12
+INFO  00:05:07,162 - Definisana enum konstanta ONE sa vrednoscu 1 na liniji 12
+INFO  00:05:07,162 - Definisana enum konstanta THREE sa vrednoscu 3 na liniji 12
+INFO  00:05:07,163 - Definisana enum konstanta FIVE sa vrednoscu 5 na liniji 12
+INFO  00:05:07,163 - Definisana enum konstanta SIX sa vrednoscu 6 na liniji 12
+INFO  00:05:07,163 - Definisana enum konstanta SEVEN sa vrednoscu 7 na liniji 12
+INFO  00:05:07,163 - Definisana enum konstanta TEN sa vrednoscu 10 na liniji 12
+INFO  00:05:07,163 - Deklarisan novi enum tip: type_enum2 na liniji 14
+INFO  00:05:07,163 - Definisana enum konstanta X sa vrednoscu 0 na liniji 15
+INFO  00:05:07,163 - Deklarisana single promenljiva var_int1 na liniji 21
+INFO  00:05:07,163 - Deklarisana single promenljiva var_int2 na liniji 21
+INFO  00:05:07,163 - Deklarisana array promenljiva var_ints1 na liniji 21
+INFO  00:05:07,163 - Deklarisana array promenljiva var_ints2 na liniji 21
+INFO  00:05:07,163 - Deklarisana single promenljiva var_char1 na liniji 22
+INFO  00:05:07,163 - Deklarisana array promenljiva var_chars1 na liniji 22
+INFO  00:05:07,163 - Deklarisana single promenljiva var_bool1 na liniji 23
+INFO  00:05:07,163 - Deklarisana single promenljiva var_bool2 na liniji 23
+INFO  00:05:07,163 - Deklarisana array promenljiva var_bools1 na liniji 23
+INFO  00:05:07,163 - Deklarisana single promenljiva var_enum1 na liniji 24
+INFO  00:05:07,163 - Deklarisana single promenljiva var_enum2 na liniji 24
+INFO  00:05:07,163 - Deklarisana array promenljiva var_enums1 na liniji 24
+INFO  00:05:07,163 - Definisana funkcija funkc1 na liniji 31
+INFO  00:05:07,163 - Deklarisan single argument arg1 na liniji 31
+INFO  00:05:07,163 - Deklarisana single promenljiva local_int1 na liniji 33
+INFO  00:05:07,163 - Deklarisana single promenljiva local_int2 na liniji 33
+INFO  00:05:07,163 - Deklarisana single promenljiva local_char1 na liniji 34
+INFO  00:05:07,163 - Deklarisana single promenljiva local_char2 na liniji 34
+INFO  00:05:07,163 - Deklarisana single promenljiva var_bool1 na liniji 37
+INFO  00:05:07,163 - Dodela vrednosti za var_bool1 na liniji 40
+INFO  00:05:07,163 - Pronadjen poziv promenljive const_bool1 na liniji 41
+INFO  00:05:07,163 - Pronadjen poziv promenljive var_bool1 na liniji 41
+INFO  00:05:07,164 - Izabrano polje : .ONE
+INFO  00:05:07,164 - Pronadjen poziv promenljive ONE na liniji 41
+INFO  00:05:07,164 - Pronadjen poziv promenljive local_int1 na liniji 41
+INFO  00:05:07,164 - Pronadjen poziv promenljive arg1 na liniji 42
+INFO  00:05:07,164 - Dodela vrednosti za arg1 na liniji 42
+INFO  00:05:07,164 - Pronadjen poziv promenljive local_int1 na liniji 44
+INFO  00:05:07,164 - Definisana funkcija funkc2 na liniji 47
+INFO  00:05:07,164 - Deklarisan array argument args na liniji 47
+INFO  00:05:07,164 - Deklarisan single argument arg na liniji 47
+INFO  00:05:07,164 - Deklarisan array argument args2 na liniji 47
+INFO  00:05:07,164 - Deklarisana single promenljiva i na liniji 48
+INFO  00:05:07,164 - Pronadjen poziv promenljive elem na liniji 50
+INFO  00:05:07,164 - Pronadjen poziv promenljive arg na liniji 50
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 51
+INFO  00:05:07,164 - Izabrano polje : .X
+INFO  00:05:07,164 - Pronadjen poziv promenljive X na liniji 53
+INFO  00:05:07,164 - Pronadjen poziv promenljive const_int1 na liniji 53
+INFO  00:05:07,164 - Dodela vrednosti za arg na liniji 54
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 56
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 57
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 58
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 59
+INFO  00:05:07,164 - Dodela vrednosti za i na liniji 61
+INFO  00:05:07,164 - Pronadjen poziv promenljive i na liniji 61
+INFO  00:05:07,164 - Izabrano polje : .TEN
+INFO  00:05:07,164 - Pronadjen poziv promenljive TEN na liniji 61
+INFO  00:05:07,164 - Pronadjen poziv promenljive i na liniji 62
+INFO  00:05:07,164 - Dodela vrednosti za elem na liniji 62
+INFO  00:05:07,164 - Definisana funkcija funkc3 na liniji 68
+INFO  00:05:07,164 - Deklarisan array argument arr na liniji 68
+INFO  00:05:07,165 - Deklarisana single promenljiva i na liniji 69
+INFO  00:05:07,165 - Dodela vrednosti za i na liniji 74
+INFO  00:05:07,165 - Pronadjen poziv promenljive i na liniji 75
+INFO  00:05:07,165 - Pronadjen poziv promenljive elem na liniji 75
+INFO  00:05:07,165 - Pronadjen poziv promenljive elem na liniji 75
+INFO  00:05:07,165 - Pronadjen poziv promenljive elem na liniji 75
+INFO  00:05:07,165 - Pronadjen poziv promenljive i na liniji 75
+INFO  00:05:07,165 - Pronadjen poziv promenljive elem na liniji 75
+INFO  00:05:07,165 - Dodela vrednosti za elem na liniji 75
+INFO  00:05:07,165 - Definisana funkcija main na liniji 79
+INFO  00:05:07,165 - main funkcija je korektna.  na liniji 79
+INFO  00:05:07,165 - ===================================
+INFO  00:05:07,165 - Parsiranje uspesno zavrseno!

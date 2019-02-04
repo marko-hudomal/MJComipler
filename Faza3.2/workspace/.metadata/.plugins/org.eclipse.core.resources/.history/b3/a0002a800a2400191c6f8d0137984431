@@ -1,0 +1,33 @@
+INFO  03:43:21,099 - Putanja iz argumenta: test/program.mj
+INFO  03:43:21,099 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:43:21,128 - #2 program
+INFO  03:43:21,128 - #45 MojProgram
+INFO  03:43:21,128 - #8 const
+INFO  03:43:21,128 - #45 int
+INFO  03:43:21,129 - #45 con
+INFO  03:43:21,129 - #29 ==
+ERROR 03:43:21,129 - 
+Sintaksna greska na liniji 2
+INFO  03:43:21,129 - #44 1
+INFO  03:43:21,129 - #19 ,
+INFO  03:43:21,129 - #45 con2
+INFO  03:43:21,129 - #26 =
+INFO  03:43:21,129 - #44 2
+ERROR 03:43:21,129 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 2
+INFO  03:43:21,130 - #18 ;
+INFO  03:43:21,130 - #8 const
+INFO  03:43:21,130 - #45 int
+INFO  03:43:21,130 - #45 con
+INFO  03:43:21,131 - #27 ++
+ERROR 03:43:21,131 - 
+Sintaksna greska na liniji 3
+INFO  03:43:21,131 - #18 ;
+INFO  03:43:21,131 - #45 consdast
+INFO  03:43:21,131 - #18 ;
+INFO  03:43:21,131 - #12 {
+INFO  03:43:21,131 - #45 as
+INFO  03:43:21,131 - #39 void
+ERROR 03:43:21,131 - [Globalna prom.] Izvrsen oporavak do sledeceg , ili ; u liniji 3
+ERROR 03:43:21,131 - 
+Sintaksna greska na liniji 6
+ERROR 03:43:21,131 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6
