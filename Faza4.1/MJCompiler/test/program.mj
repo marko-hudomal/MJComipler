@@ -1,0 +1,28 @@
+//uneti prvo Q 6
+//pa onda 65 66 67 68 69 70 71
+//pise u kodu sta ce da ispisuje
+program MJProgram
+	int x; int y, z;
+	int arr[];
+	const int X = 2, Y = 4;
+	const char C = '_';
+	const bool B = false;
+ 
+	enum ThingA { FirstThing, SecondThing = 4, ThirdThing, FourthThing = 7 }
+	enum ThingB { OneThing = 2, SecondThing, ThreeThing, FourThing }
+	
+	class Klasa{
+		int k1,k2,k3;
+		bool b1,b2;
+	{
+	
+	}
+	}
+	Klasa a;
+{
+	void main(){
+		//a.k1=5;
+		
+		//print(a.k1);
+	}
+}

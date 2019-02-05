@@ -1,0 +1,49 @@
+a=3;
+		b=3;
+		brr=new int[20];
+ 		arr=brr;
+ 	 
+ 		if (a==b){		
+ 		
+ 		  if (a==2){
+ 		  	print(1);
+ 		  
+ 		  }else{
+ 		  	print(2);
+ 		  
+ 		  }
+ 			print(3);	
+ 		}else{
+ 			print(4);
+ 		
+ 		} 
+ 		if (b+1!=4)
+ 			print(5);
+ 		else
+ 			if (b+2==6-1*1)
+ 				print(6);
+ 			else
+ 				{
+ 					if (2==0+2)
+ 						if (2+1==4-1)
+ 							print(7);
+ 				
+ 				}
+ 				
+ 	 	
+ 		if (true || false || true)
+ 		{
+ 			print('A');
+ 			if (false || false || false || 3>2-1 || 1==2)
+ 				print('Y');
+ 		}else
+ 			if (false || false || false || a<2-1 || a*2-2==b+2)
+ 				print('U');	
+ 			
+ 		if (true&&true&& a==(a*a/3) && arr==brr)
+ 		{
+ 			print('R');
+ 		}else
+		{
+			print('N');
+ 		}	
