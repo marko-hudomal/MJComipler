@@ -1,0 +1,123 @@
+INFO  17:26:28,542 - Putanja iz argumenta: test/program.mj
+INFO  17:26:28,542 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  17:26:28,573 - #2 program
+INFO  17:26:28,573 - #45 Program
+INFO  17:26:28,573 - #12 {
+INFO  17:26:28,574 - #39 void
+INFO  17:26:28,574 - #45 main
+INFO  17:26:28,574 - #16 (
+INFO  17:26:28,575 - #17 )
+INFO  17:26:28,575 - #45 int
+INFO  17:26:28,575 - #45 local
+INFO  17:26:28,576 - #18 ;
+INFO  17:26:28,576 - #12 {
+INFO  17:26:28,576 - #11 print
+INFO  17:26:28,576 - #16 (
+INFO  17:26:28,576 - #44 5
+INFO  17:26:28,576 - #17 )
+INFO  17:26:28,577 - #18 ;
+INFO  17:26:28,577 - #11 print
+INFO  17:26:28,577 - #16 (
+INFO  17:26:28,577 - #44 10
+INFO  17:26:28,577 - #17 )
+INFO  17:26:28,577 - #18 ;
+INFO  17:26:28,577 - #11 print
+INFO  17:26:28,577 - #16 (
+INFO  17:26:28,577 - #44 20
+INFO  17:26:28,578 - #17 )
+INFO  17:26:28,578 - #18 ;
+INFO  17:26:28,578 - #11 print
+INFO  17:26:28,578 - #16 (
+INFO  17:26:28,578 - #44 25
+INFO  17:26:28,578 - #17 )
+INFO  17:26:28,578 - #18 ;
+INFO  17:26:28,578 - #13 }
+INFO  17:26:28,578 - #13 }
+INFO  17:26:28,582 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          SingleVariable(
+            VariableNoBracket(
+             local
+            ) [VariableNoBracket]
+          ) [SingleVariable]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              PrintStatement(
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     5
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [PrintStatement]
+            ) [Statements]
+            PrintStatement(
+              SingleExpression(
+                TermFactor(
+                  ConstantNumber(
+                   10
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [SingleExpression]
+            ) [PrintStatement]
+          ) [Statements]
+          PrintStatement(
+            SingleExpression(
+              TermFactor(
+                ConstantNumber(
+                 20
+                ) [ConstantNumber]
+              ) [TermFactor]
+            ) [SingleExpression]
+          ) [PrintStatement]
+        ) [Statements]
+        PrintStatement(
+          SingleExpression(
+            TermFactor(
+              ConstantNumber(
+               25
+              ) [ConstantNumber]
+            ) [TermFactor]
+          ) [SingleExpression]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:26:28,582 - ===================================
+INFO  17:26:28,585 - Definisana funkcija main na liniji 5
+INFO  17:26:28,585 - Deklarisana single promenljiva local na liniji 6
+INFO  17:26:28,585 - main funkcija je korektna.  na liniji 5
+INFO  17:26:28,585 - ===================================
+INFO  17:26:28,594 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,88 @@
+INFO  03:22:14,821 - Putanja iz argumenta: test/program.mj
+INFO  03:22:14,821 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:22:14,856 - #2 program
+INFO  03:22:14,856 - #45 Programcic123
+INFO  03:22:14,856 - #12 {
+INFO  03:22:14,856 - #39 void
+INFO  03:22:14,857 - #45 main
+INFO  03:22:14,857 - #16 (
+INFO  03:22:14,857 - #17 )
+INFO  03:22:14,858 - #45 IUtil
+INFO  03:22:14,858 - #45 u
+INFO  03:22:14,858 - #18 ;
+INFO  03:22:14,859 - #45 int
+INFO  03:22:14,859 - #45 c
+INFO  03:22:14,859 - #19 ,
+INFO  03:22:14,859 - #45 v
+INFO  03:22:14,859 - #18 ;
+INFO  03:22:14,859 - #12 {
+INFO  03:22:14,859 - #13 }
+INFO  03:22:14,860 - #13 }
+INFO  03:22:14,863 - Program(
+  ProgName(
+   Programcic123
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            VarDeclType(
+              TypeNode(
+               IUtil
+              ) [TypeNode]
+            ) [VarDeclType]
+            SingleVariable(
+              VariableNoBracket(
+               u
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      NoStatement(
+      ) [NoStatement]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:22:14,864 - ===================================
+INFO  03:22:14,867 - Definisana funkcija main na liniji 5
+ERROR 03:22:14,867 - Nije pronadjen tip IUtil u tabeli simbola! 
+INFO  03:22:14,867 - Deklarisana single promenljiva u na liniji 6
+INFO  03:22:14,867 - Deklarisana single promenljiva c na liniji 7
+INFO  03:22:14,867 - Deklarisana single promenljiva v na liniji 7
+INFO  03:22:14,867 - main funkcija je korektna.  na liniji 5
+INFO  03:22:14,867 - ===================================
+ERROR 03:22:14,868 - Parsiranje NIJE uspesno zavrseno!

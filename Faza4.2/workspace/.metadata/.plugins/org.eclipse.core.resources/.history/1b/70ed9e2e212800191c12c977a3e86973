@@ -1,0 +1,657 @@
+INFO  14:52:05,204 - Putanja iz argumenta: test/program.mj
+INFO  14:52:05,204 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  14:52:05,237 - #2 program
+INFO  14:52:05,237 - #45 Program
+INFO  14:52:05,237 - #45 int
+INFO  14:52:05,238 - #45 x
+INFO  14:52:05,238 - #19 ,
+INFO  14:52:05,238 - #45 y
+INFO  14:52:05,238 - #19 ,
+INFO  14:52:05,238 - #45 z
+INFO  14:52:05,238 - #19 ,
+INFO  14:52:05,239 - #45 arr
+INFO  14:52:05,239 - #14 [
+INFO  14:52:05,239 - #15 ]
+INFO  14:52:05,239 - #18 ;
+INFO  14:52:05,239 - #8 const
+INFO  14:52:05,239 - #45 int
+INFO  14:52:05,239 - #45 con
+INFO  14:52:05,239 - #26 =
+INFO  14:52:05,240 - #44 100
+INFO  14:52:05,240 - #18 ;
+INFO  14:52:05,240 - #12 {
+INFO  14:52:05,240 - #39 void
+INFO  14:52:05,241 - #45 allocate
+INFO  14:52:05,241 - #16 (
+INFO  14:52:05,241 - #45 char
+INFO  14:52:05,241 - #45 arr
+INFO  14:52:05,241 - #14 [
+INFO  14:52:05,241 - #15 ]
+INFO  14:52:05,241 - #17 )
+INFO  14:52:05,242 - #12 {
+INFO  14:52:05,242 - #45 arr
+INFO  14:52:05,242 - #26 =
+INFO  14:52:05,242 - #10 new
+INFO  14:52:05,243 - #45 char
+INFO  14:52:05,243 - #14 [
+INFO  14:52:05,243 - #44 4
+INFO  14:52:05,243 - #15 ]
+INFO  14:52:05,243 - #18 ;
+INFO  14:52:05,243 - #45 arr
+INFO  14:52:05,244 - #14 [
+INFO  14:52:05,244 - #44 0
+INFO  14:52:05,244 - #15 ]
+INFO  14:52:05,244 - #26 =
+INFO  14:52:05,244 - #46 H
+INFO  14:52:05,245 - #18 ;
+INFO  14:52:05,245 - #45 arr
+INFO  14:52:05,245 - #14 [
+INFO  14:52:05,245 - #44 1
+INFO  14:52:05,245 - #15 ]
+INFO  14:52:05,245 - #26 =
+INFO  14:52:05,245 - #46 U
+INFO  14:52:05,245 - #18 ;
+INFO  14:52:05,245 - #45 arr
+INFO  14:52:05,245 - #14 [
+INFO  14:52:05,245 - #44 2
+INFO  14:52:05,245 - #15 ]
+INFO  14:52:05,245 - #26 =
+INFO  14:52:05,245 - #46 D
+INFO  14:52:05,245 - #18 ;
+INFO  14:52:05,245 - #45 arr
+INFO  14:52:05,245 - #14 [
+INFO  14:52:05,245 - #44 3
+INFO  14:52:05,245 - #15 ]
+INFO  14:52:05,246 - #26 =
+INFO  14:52:05,246 - #46 I
+INFO  14:52:05,246 - #18 ;
+INFO  14:52:05,246 - #13 }
+INFO  14:52:05,246 - #39 void
+INFO  14:52:05,246 - #45 print4
+INFO  14:52:05,246 - #16 (
+INFO  14:52:05,246 - #45 char
+INFO  14:52:05,246 - #45 arr
+INFO  14:52:05,246 - #14 [
+INFO  14:52:05,246 - #15 ]
+INFO  14:52:05,246 - #17 )
+INFO  14:52:05,247 - #12 {
+INFO  14:52:05,247 - #11 print
+INFO  14:52:05,247 - #16 (
+INFO  14:52:05,247 - #45 arr
+INFO  14:52:05,247 - #14 [
+INFO  14:52:05,247 - #44 0
+INFO  14:52:05,247 - #15 ]
+INFO  14:52:05,247 - #19 ,
+INFO  14:52:05,247 - #44 2
+INFO  14:52:05,247 - #17 )
+INFO  14:52:05,247 - #18 ;
+INFO  14:52:05,247 - #11 print
+INFO  14:52:05,247 - #16 (
+INFO  14:52:05,247 - #45 arr
+INFO  14:52:05,248 - #14 [
+INFO  14:52:05,248 - #44 1
+INFO  14:52:05,248 - #15 ]
+INFO  14:52:05,248 - #19 ,
+INFO  14:52:05,248 - #44 2
+INFO  14:52:05,248 - #17 )
+INFO  14:52:05,248 - #18 ;
+INFO  14:52:05,248 - #11 print
+INFO  14:52:05,248 - #16 (
+INFO  14:52:05,248 - #45 arr
+INFO  14:52:05,248 - #14 [
+INFO  14:52:05,248 - #44 2
+INFO  14:52:05,248 - #15 ]
+INFO  14:52:05,248 - #19 ,
+INFO  14:52:05,248 - #44 2
+INFO  14:52:05,248 - #17 )
+INFO  14:52:05,249 - #18 ;
+INFO  14:52:05,249 - #11 print
+INFO  14:52:05,249 - #16 (
+INFO  14:52:05,249 - #45 arr
+INFO  14:52:05,249 - #14 [
+INFO  14:52:05,249 - #44 3
+INFO  14:52:05,249 - #15 ]
+INFO  14:52:05,249 - #19 ,
+INFO  14:52:05,249 - #44 2
+INFO  14:52:05,249 - #17 )
+INFO  14:52:05,249 - #18 ;
+INFO  14:52:05,249 - #13 }
+INFO  14:52:05,249 - #39 void
+INFO  14:52:05,249 - #45 main
+INFO  14:52:05,249 - #16 (
+INFO  14:52:05,249 - #17 )
+INFO  14:52:05,249 - #45 char
+INFO  14:52:05,250 - #45 arr
+INFO  14:52:05,250 - #14 [
+INFO  14:52:05,250 - #15 ]
+INFO  14:52:05,250 - #18 ;
+INFO  14:52:05,250 - #12 {
+INFO  14:52:05,250 - #45 arr
+INFO  14:52:05,250 - #26 =
+INFO  14:52:05,250 - #10 new
+INFO  14:52:05,250 - #45 char
+INFO  14:52:05,250 - #14 [
+INFO  14:52:05,251 - #44 4
+INFO  14:52:05,251 - #15 ]
+INFO  14:52:05,251 - #18 ;
+INFO  14:52:05,251 - #45 allocate
+INFO  14:52:05,251 - #16 (
+INFO  14:52:05,252 - #45 arr
+INFO  14:52:05,252 - #17 )
+INFO  14:52:05,252 - #18 ;
+INFO  14:52:05,252 - #45 print4
+INFO  14:52:05,252 - #16 (
+INFO  14:52:05,252 - #45 arr
+INFO  14:52:05,252 - #17 )
+INFO  14:52:05,252 - #18 ;
+INFO  14:52:05,252 - #13 }
+INFO  14:52:05,252 - #13 }
+INFO  14:52:05,257 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      VarDeclaration(
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            Variables(
+              Variables(
+                SingleVariable(
+                  VariableNoBracket(
+                   x
+                  ) [VariableNoBracket]
+                ) [SingleVariable]
+                VariableNoBracket(
+                 y
+                ) [VariableNoBracket]
+              ) [Variables]
+              VariableNoBracket(
+               z
+              ) [VariableNoBracket]
+            ) [Variables]
+            VariableBracket(
+             arr
+            ) [VariableBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclaration]
+    ) [Declarations]
+    ConstDeclaration(
+      ConstDeclNode(
+        ConstDeclType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [ConstDeclType]
+        SingleConstant(
+          IdentEqualConstantNode(
+           con
+            NumberNode(
+             100
+            ) [NumberNode]
+          ) [IdentEqualConstantNode]
+        ) [SingleConstant]
+      ) [ConstDeclNode]
+    ) [ConstDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            VoidType(
+            ) [VoidType]
+           allocate
+          ) [MethodTypeName]
+          FormalParams(
+            SingleFormalParamDecl(
+              FormalParamDeclarationBrackets(
+                TypeNode(
+                 char
+                ) [TypeNode]
+               arr
+              ) [FormalParamDeclarationBrackets]
+            ) [SingleFormalParamDecl]
+          ) [FormalParams]
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStatement(
+                    ) [NoStatement]
+                    DesignatorStatementOnly(
+                      DesignatorStatementAssignop(
+                        DesignatorNode(
+                          SingleIdentExpr(
+                           arr
+                          ) [SingleIdentExpr]
+                        ) [DesignatorNode]
+                        Assignop(
+                        ) [Assignop]
+                        SingleExpression(
+                          TermFactor(
+                            NewArray(
+                              NewArrayType(
+                                TypeNode(
+                                 char
+                                ) [TypeNode]
+                              ) [NewArrayType]
+                              SingleExpression(
+                                TermFactor(
+                                  ConstantNumber(
+                                   4
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                            ) [NewArray]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [DesignatorStatementAssignop]
+                    ) [DesignatorStatementOnly]
+                  ) [Statements]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                        Exprs(
+                          IdentExprListArray(
+                            SingleIdentExpr(
+                             arr
+                            ) [SingleIdentExpr]
+                          ) [IdentExprListArray]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantNumber(
+                               0
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [Exprs]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantCharacter(
+                           H
+                          ) [ConstantCharacter]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      Exprs(
+                        IdentExprListArray(
+                          SingleIdentExpr(
+                           arr
+                          ) [SingleIdentExpr]
+                        ) [IdentExprListArray]
+                        SingleExpression(
+                          TermFactor(
+                            ConstantNumber(
+                             1
+                            ) [ConstantNumber]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [Exprs]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantCharacter(
+                         U
+                        ) [ConstantCharacter]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [Statements]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                    Exprs(
+                      IdentExprListArray(
+                        SingleIdentExpr(
+                         arr
+                        ) [SingleIdentExpr]
+                      ) [IdentExprListArray]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           2
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [Exprs]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    TermFactor(
+                      ConstantCharacter(
+                       D
+                      ) [ConstantCharacter]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  Exprs(
+                    IdentExprListArray(
+                      SingleIdentExpr(
+                       arr
+                      ) [SingleIdentExpr]
+                    ) [IdentExprListArray]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantNumber(
+                         3
+                        ) [ConstantNumber]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [Exprs]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    ConstantCharacter(
+                     I
+                    ) [ConstantCharacter]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+      MethodDecl(
+        MethodTypeName(
+          VoidType(
+          ) [VoidType]
+         print4
+        ) [MethodTypeName]
+        FormalParams(
+          SingleFormalParamDecl(
+            FormalParamDeclarationBrackets(
+              TypeNode(
+               char
+              ) [TypeNode]
+             arr
+            ) [FormalParamDeclarationBrackets]
+          ) [SingleFormalParamDecl]
+        ) [FormalParams]
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStatement(
+                ) [NoStatement]
+                PrintWithNumConstStatement(
+                  SingleExpression(
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                          Exprs(
+                            IdentExprListArray(
+                              SingleIdentExpr(
+                               arr
+                              ) [SingleIdentExpr]
+                            ) [IdentExprListArray]
+                            SingleExpression(
+                              TermFactor(
+                                ConstantNumber(
+                                 0
+                                ) [ConstantNumber]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [Exprs]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                 2
+                ) [PrintWithNumConstStatement]
+              ) [Statements]
+              PrintWithNumConstStatement(
+                SingleExpression(
+                  TermFactor(
+                    DesignatorEmpty(
+                      DesignatorNode(
+                        Exprs(
+                          IdentExprListArray(
+                            SingleIdentExpr(
+                             arr
+                            ) [SingleIdentExpr]
+                          ) [IdentExprListArray]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantNumber(
+                               1
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [Exprs]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermFactor]
+                ) [SingleExpression]
+               2
+              ) [PrintWithNumConstStatement]
+            ) [Statements]
+            PrintWithNumConstStatement(
+              SingleExpression(
+                TermFactor(
+                  DesignatorEmpty(
+                    DesignatorNode(
+                      Exprs(
+                        IdentExprListArray(
+                          SingleIdentExpr(
+                           arr
+                          ) [SingleIdentExpr]
+                        ) [IdentExprListArray]
+                        SingleExpression(
+                          TermFactor(
+                            ConstantNumber(
+                             2
+                            ) [ConstantNumber]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [Exprs]
+                    ) [DesignatorNode]
+                  ) [DesignatorEmpty]
+                ) [TermFactor]
+              ) [SingleExpression]
+             2
+            ) [PrintWithNumConstStatement]
+          ) [Statements]
+          PrintWithNumConstStatement(
+            SingleExpression(
+              TermFactor(
+                DesignatorEmpty(
+                  DesignatorNode(
+                    Exprs(
+                      IdentExprListArray(
+                        SingleIdentExpr(
+                         arr
+                        ) [SingleIdentExpr]
+                      ) [IdentExprListArray]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           3
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [Exprs]
+                  ) [DesignatorNode]
+                ) [DesignatorEmpty]
+              ) [TermFactor]
+            ) [SingleExpression]
+           2
+          ) [PrintWithNumConstStatement]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             char
+            ) [TypeNode]
+          ) [VarDeclType]
+          SingleVariable(
+            VariableBracket(
+             arr
+            ) [VariableBracket]
+          ) [SingleVariable]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          Statements(
+            NoStatement(
+            ) [NoStatement]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  SingleIdentExpr(
+                   arr
+                  ) [SingleIdentExpr]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    NewArray(
+                      NewArrayType(
+                        TypeNode(
+                         char
+                        ) [TypeNode]
+                      ) [NewArrayType]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           4
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [NewArray]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          DesignatorStatementOnly(
+            DesignatorStatementActPars(
+              DesignatorNode(
+                SingleIdentExpr(
+                 allocate
+                ) [SingleIdentExpr]
+              ) [DesignatorNode]
+              ActParsNode(
+                SingleActualParam(
+                  SingleExpression(
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                          SingleIdentExpr(
+                           arr
+                          ) [SingleIdentExpr]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [SingleActualParam]
+              ) [ActParsNode]
+            ) [DesignatorStatementActPars]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementActPars(
+            DesignatorNode(
+              SingleIdentExpr(
+               print4
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+            ActParsNode(
+              SingleActualParam(
+                SingleExpression(
+                  TermFactor(
+                    DesignatorEmpty(
+                      DesignatorNode(
+                        SingleIdentExpr(
+                         arr
+                        ) [SingleIdentExpr]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [SingleActualParam]
+            ) [ActParsNode]
+          ) [DesignatorStatementActPars]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:52:05,258 - ===================================
+INFO  14:52:05,261 - Deklarisana single promenljiva x na liniji 3
+INFO  14:52:05,261 - Deklarisana single promenljiva y na liniji 3
+INFO  14:52:05,261 - Deklarisana single promenljiva z na liniji 3
+INFO  14:52:05,261 - Deklarisana array promenljiva arr na liniji 3
+INFO  14:52:05,261 - Definisana konstanta (100)con na liniji 4
+INFO  14:52:05,261 - Definisana funkcija allocate na liniji 8
+INFO  14:52:05,262 - Deklarisan array argument arr na liniji 8
+INFO  14:52:05,262 - Dodela vrednosti za arr na liniji 10
+INFO  14:52:05,262 - Dodela vrednosti za $elem na liniji 11
+INFO  14:52:05,262 - Dodela vrednosti za $elem na liniji 12
+INFO  14:52:05,262 - Dodela vrednosti za $elem na liniji 13
+INFO  14:52:05,262 - Dodela vrednosti za $elem na liniji 14
+INFO  14:52:05,262 - Definisana funkcija print4 na liniji 17
+INFO  14:52:05,262 - Deklarisan array argument arr na liniji 17
+INFO  14:52:05,262 - Pronadjen poziv promenljive $elem na liniji 19
+INFO  14:52:05,262 - Pronadjen poziv promenljive $elem na liniji 20
+INFO  14:52:05,262 - Pronadjen poziv promenljive $elem na liniji 21
+INFO  14:52:05,262 - Pronadjen poziv promenljive $elem na liniji 22
+INFO  14:52:05,262 - Definisana funkcija main na liniji 25
+INFO  14:52:05,262 - Deklarisana array promenljiva arr na liniji 27
+INFO  14:52:05,262 - Dodela vrednosti za arr na liniji 29
+INFO  14:52:05,262 - Pronadjen poziv promenljive arr na liniji 30
+INFO  14:52:05,262 - Pronadjen poziv funkcije allocate sa 1/1 argumenta na liniji 30
+INFO  14:52:05,263 - Pronadjen poziv promenljive arr na liniji 31
+INFO  14:52:05,263 - Pronadjen poziv funkcije print4 sa 1/1 argumenta na liniji 31
+INFO  14:52:05,263 - main funkcija je korektna.  na liniji 25
+INFO  14:52:05,263 - ===================================
+INFO  14:52:05,270 - Parsiranje uspesno zavrseno!

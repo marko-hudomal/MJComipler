@@ -1,0 +1,131 @@
+program MojProgram
+
+
+const int size = 10, const1=1, const2=2;
+const bool b1=true, b2=false;
+const char x='a';
+const bool bb=true;
+
+int niz[],d;
+
+enum Num { ZERO=0, ONE, TEN = 10, ELEVEN=11 }
+
+int a,b,c;
+ 
+bool bo;
+const bool b_const=false;
+
+int xx,aa[];
+
+	class Klasa{
+		char a;
+		{
+			int sqr(int x){
+			
+			
+				return x*x;
+			}
+		
+		}
+	}
+{
+
+	void f1(char ch1, int a1, int arg1, bool b1)
+		int x;
+		bool c;
+		Num broj, broj2;
+		{
+			x=Num.ZERO;
+			broj=Num.ZERO;
+			broj2=10;
+			x = a+1;
+			c=false;
+ 			bo=true;
+ 
+ 			ch1='1';
+ 	 
+		}
+	int f2(char ch2, int a, int arg)
+		int ff;
+		int i;
+		Num broj;
+		{
+	
+ 			f1(ch2,b,broj,bo);
+ 			niz = new int[20];
+			ff=niz[1];
+			niz[-niz[niz[broj]]+5*9]=Num.ZERO*2-broj;
+		 
+			ff=0;
+			i=10;
+		 
+			for(i=0;niz!=niz;i++){
+			
+				break; 	
+			}
+ 
+			return ff;
+		}
+	int fa(char arr[], char arr2[], bool a[])
+	{
+		return 2;
+	}
+	int putp(char ch)
+		int x;
+		{
+			x = 5;
+			bo=false;
+			x=f2('a',Num.ZERO,3);
+			return x;
+		}	
+	char getp(char ch)
+		int x;
+		{
+			x = -2*a+5*(x/2);
+			a = 1;
+			b = 1*a;
+			c=2;
+			return 'x';
+		}	
+	void main()
+	int x, i; char c; int val;
+	char l[];
+	bool bbb[];
+	Num test1, test2;
+	{
+		 l = new char[2];
+		 bbb=new bool[-4*2+2];
+	 	 niz = new int[x];
+	
+		// Initialize val
+		val = 5;
+	 
+		for (i = 0; i<size; i++)
+		{
+			x=putp('a');
+			putp(c);
+		}
+		f1(c, Num.ZERO, size/2, false);
+		
+		print(d);
+		
+		// Read values
+		read(x);
+		for ( i=1+test1; x>1; )
+		{
+			if (0 <= x && x < size)
+			{
+				putp(getp(c));
+			} else
+			if (-size < x && x < 0)
+			{
+				putp(getp('#'));
+			}
+			read(x);
+		}
+		
+		 xx=aa[aa[2+3]];
+		 fa(l,l,null);
+		 return;
+	}
+}

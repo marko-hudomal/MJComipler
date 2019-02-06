@@ -1,0 +1,439 @@
+INFO  02:30:43,604 - Putanja iz argumenta: test/program.mj
+INFO  02:30:43,604 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  02:30:43,638 - #2 program
+INFO  02:30:43,638 - #45 MojProgram
+INFO  02:30:43,638 - #8 const
+INFO  02:30:43,638 - #45 int
+INFO  02:30:43,638 - #45 g
+INFO  02:30:43,639 - #26 =
+INFO  02:30:43,639 - #44 1
+INFO  02:30:43,639 - #21 +
+ERROR 02:30:43,639 - 
+Sintaksna greska na liniji 4
+INFO  02:30:43,639 - #18 ;
+INFO  02:30:43,639 - #4 class
+INFO  02:30:43,639 - #45 Klasa1
+INFO  02:30:43,640 - #44 1
+ERROR 02:30:43,640 - [Globalna prom.] Izvrsen oporavak do sledeceg ','/';' u liniji 4
+ERROR 02:30:43,640 - 
+Sintaksna greska na liniji 7
+INFO  02:30:43,640 - #42 implements
+INFO  02:30:43,640 - #45 I
+INFO  02:30:43,641 - #12 {
+INFO  02:30:43,641 - #45 int
+INFO  02:30:43,641 - #45 x
+INFO  02:30:43,641 - #19 ,
+INFO  02:30:43,641 - #45 a
+INFO  02:30:43,641 - #18 ;
+INFO  02:30:43,641 - #45 int
+INFO  02:30:43,641 - #45 x1
+INFO  02:30:43,641 - #26 =
+ERROR 02:30:43,641 - [Globalna prom.] Izvrsen oporavak do sledeceg ';' u liniji 7
+ERROR 02:30:43,642 - 
+Sintaksna greska na liniji 10
+INFO  02:30:43,642 - #44 1
+INFO  02:30:43,642 - #18 ;
+INFO  02:30:43,642 - #12 {
+INFO  02:30:43,642 - #39 void
+INFO  02:30:43,642 - #45 putp
+ERROR 02:30:43,642 - [Globalna prom.] Izvrsen oporavak do sledeceg ';' u liniji 10
+INFO  02:30:43,643 - #16 (
+INFO  02:30:43,643 - #45 int
+INFO  02:30:43,643 - #45 a
+INFO  02:30:43,643 - #19 ,
+INFO  02:30:43,643 - #45 int
+INFO  02:30:43,643 - #45 idx
+INFO  02:30:43,643 - #17 )
+INFO  02:30:43,644 - #12 {
+INFO  02:30:43,644 - #45 this
+INFO  02:30:43,645 - #20 .
+INFO  02:30:43,645 - #45 pos
+INFO  02:30:43,645 - #14 [
+INFO  02:30:43,645 - #45 idx
+INFO  02:30:43,645 - #15 ]
+INFO  02:30:43,646 - #26 =
+INFO  02:30:43,646 - #45 a
+INFO  02:30:43,646 - #18 ;
+INFO  02:30:43,646 - #13 }
+INFO  02:30:43,646 - #13 }
+INFO  02:30:43,647 - #13 }
+ERROR 02:30:43,647 - 
+Sintaksna greska na liniji 16
+INFO  02:30:43,647 - #45 int
+INFO  02:30:43,647 - #45 p
+INFO  02:30:43,647 - #18 ;
+INFO  02:30:43,647 - #4 class
+INFO  02:30:43,647 - #45 Klasa2
+INFO  02:30:43,647 - #41 extends
+ERROR 02:30:43,647 - [Globalna prom.] Izvrsen oporavak do sledeceg ';' u liniji 12
+INFO  02:30:43,648 - #45 A
+INFO  02:30:43,648 - #23 *
+ERROR 02:30:43,648 - 
+Sintaksna greska na liniji 21
+INFO  02:30:43,648 - #45 B
+INFO  02:30:43,648 - #12 {
+INFO  02:30:43,648 - #45 int
+INFO  02:30:43,648 - #45 x
+INFO  02:30:43,648 - #18 ;
+ERROR 02:30:43,648 - [Extends] Izvrsen oporavak do sledeceg 'implements'/'{' u liniji 21
+INFO  02:30:43,650 - #12 {
+INFO  02:30:43,650 - #13 }
+INFO  02:30:43,650 - #13 }
+INFO  02:30:43,650 - #12 {
+INFO  02:30:43,651 - #45 int
+INFO  02:30:43,651 - #45 funkc
+INFO  02:30:43,651 - #16 (
+INFO  02:30:43,651 - #45 int
+INFO  02:30:43,651 - #45 x
+INFO  02:30:43,651 - #19 ,
+INFO  02:30:43,651 - #45 char
+INFO  02:30:43,651 - #45 c
+INFO  02:30:43,651 - #14 [
+INFO  02:30:43,651 - #19 ,
+ERROR 02:30:43,651 - 
+Sintaksna greska na liniji 32
+INFO  02:30:43,651 - #45 bool
+INFO  02:30:43,651 - #45 e
+INFO  02:30:43,651 - #17 )
+ERROR 02:30:43,651 - [Formalni parametar] Izvrsen oporavak do sledeceg ',')' u liniji 32
+INFO  02:30:43,651 - #45 bool
+INFO  02:30:43,651 - #45 f
+INFO  02:30:43,652 - #18 ;
+INFO  02:30:43,652 - #12 {
+INFO  02:30:43,652 - #45 A
+INFO  02:30:43,652 - #26 =
+INFO  02:30:43,652 - #45 a
+INFO  02:30:43,652 - #27 ++
+ERROR 02:30:43,652 - 
+Sintaksna greska na liniji 36
+INFO  02:30:43,652 - #44 1
+INFO  02:30:43,652 - #18 ;
+INFO  02:30:43,652 - #13 }
+INFO  02:30:43,652 - #39 void
+INFO  02:30:43,652 - #45 main
+ERROR 02:30:43,652 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 36
+INFO  02:30:43,653 - #16 (
+INFO  02:30:43,653 - #17 )
+INFO  02:30:43,653 - #12 {
+INFO  02:30:43,653 - #45 x
+INFO  02:30:43,653 - #26 =
+INFO  02:30:43,653 - #44 1
+INFO  02:30:43,653 - #21 +
+INFO  02:30:43,653 - #44 1
+INFO  02:30:43,654 - #18 ;
+INFO  02:30:43,654 - #9 if
+INFO  02:30:43,654 - #16 (
+INFO  02:30:43,654 - #45 a
+INFO  02:30:43,654 - #23 *
+INFO  02:30:43,654 - #44 2
+INFO  02:30:43,654 - #33 <
+INFO  02:30:43,655 - #17 )
+ERROR 02:30:43,655 - 
+Sintaksna greska na liniji 44
+INFO  02:30:43,655 - #45 x
+INFO  02:30:43,655 - #26 =
+INFO  02:30:43,655 - #44 0
+ERROR 02:30:43,655 - [IfElse Condition] Izvrsen oporavak do sledeceg ')' u liniji 44
+INFO  02:30:43,655 - #18 ;
+INFO  02:30:43,655 - #7 else
+INFO  02:30:43,655 - #9 if
+INFO  02:30:43,655 - #16 (
+INFO  02:30:43,656 - #47 1
+INFO  02:30:43,657 - #17 )
+INFO  02:30:43,657 - #45 x
+INFO  02:30:43,657 - #26 =
+INFO  02:30:43,657 - #44 1
+INFO  02:30:43,657 - #18 ;
+INFO  02:30:43,657 - #7 else
+INFO  02:30:43,657 - #45 x
+INFO  02:30:43,657 - #26 =
+INFO  02:30:43,657 - #44 2
+INFO  02:30:43,657 - #18 ;
+INFO  02:30:43,658 - #13 }
+INFO  02:30:43,658 - #13 }
+INFO  02:30:43,664 - Program(
+  ProgName(
+   MojProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declarations(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDeclNode(
+                ConstDeclType(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                ) [ConstDeclType]
+                SingleConstant(
+                  ErrorConstant(
+                  ) [ErrorConstant]
+                ) [SingleConstant]
+              ) [ConstDeclNode]
+            ) [ConstDeclaration]
+          ) [Declarations]
+          VarDeclaration(
+            ErrorVar(
+            ) [ErrorVar]
+          ) [VarDeclaration]
+        ) [Declarations]
+        VarDeclaration(
+          ErrorVar(
+          ) [ErrorVar]
+        ) [VarDeclaration]
+      ) [Declarations]
+      VarDeclaration(
+        ErrorVar(
+        ) [ErrorVar]
+      ) [VarDeclaration]
+    ) [Declarations]
+    ClassDeclaration(
+      ClassDeclarationWithMethods(
+        ClassDeclIdent(
+         Klasa2
+        ) [ClassDeclIdent]
+        ErrorExtension(
+        ) [ErrorExtension]
+        NoImplementation(
+        ) [NoImplementation]
+        ClassVarDeclarationList(
+          NoClassVarDeclaration(
+          ) [NoClassVarDeclaration]
+          ClassVarDeclNode(
+            ClassVarDeclType(
+              TypeNode(
+               int
+              ) [TypeNode]
+            ) [ClassVarDeclType]
+            SingleClassVariable(
+              VariableNoBracket(
+               x
+              ) [VariableNoBracket]
+            ) [SingleClassVariable]
+          ) [ClassVarDeclNode]
+        ) [ClassVarDeclarationList]
+        NoClassMethodDecl(
+        ) [NoClassMethodDecl]
+      ) [ClassDeclarationWithMethods]
+    ) [ClassDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          NoVoidType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [NoVoidType]
+         funkc
+        ) [MethodTypeName]
+        FormalParams(
+          FormalParamDecls(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDeclarationNoBrackets(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                 x
+                ) [FormalParamDeclarationNoBrackets]
+              ) [SingleFormalParamDecl]
+              ErrorFormParam(
+              ) [ErrorFormParam]
+            ) [FormalParamDecls]
+            FormalParamDeclarationNoBrackets(
+              TypeNode(
+               bool
+              ) [TypeNode]
+             e
+            ) [FormalParamDeclarationNoBrackets]
+          ) [FormalParamDecls]
+        ) [FormalParams]
+        VarDeclarationList(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclNode(
+            VarDeclType(
+              TypeNode(
+               bool
+              ) [TypeNode]
+            ) [VarDeclType]
+            SingleVariable(
+              VariableNoBracket(
+               f
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        MethodLBRACE(
+        ) [MethodLBRACE]
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          ErrorAssign(
+          ) [ErrorAssign]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+                SingleIdentExpr(
+                 x
+                ) [SingleIdentExpr]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              ExpressionNode(
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     1
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+                AddopPlus(
+                ) [AddopPlus]
+                TermFactor(
+                  ConstantNumber(
+                   1
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [ExpressionNode]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        IfElseStatement(
+          ErrorIfElseStatement(
+          ) [ErrorIfElseStatement]
+          IfStatementThen(
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  SingleIdentExpr(
+                   x
+                  ) [SingleIdentExpr]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     0
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [IfStatementThen]
+          IfStatementElse(
+            IfElseStatement(
+              IfConditionNode(
+                ConditionNode(
+                  SingleConditionTerm(
+                    ConditionTermNode(
+                      SingleConditionFact(
+                        CondFactExpression(
+                          SingleExpression(
+                            TermFactor(
+                              ConstantBoolean(
+                               1
+                              ) [ConstantBoolean]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [CondFactExpression]
+                      ) [SingleConditionFact]
+                    ) [ConditionTermNode]
+                  ) [SingleConditionTerm]
+                ) [ConditionNode]
+              ) [IfConditionNode]
+              IfStatementThen(
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      SingleIdentExpr(
+                       x
+                      ) [SingleIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantNumber(
+                         1
+                        ) [ConstantNumber]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [IfStatementThen]
+              IfStatementElse(
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      SingleIdentExpr(
+                       x
+                      ) [SingleIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantNumber(
+                         2
+                        ) [ConstantNumber]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [IfStatementElse]
+            ) [IfElseStatement]
+          ) [IfStatementElse]
+        ) [IfElseStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  02:30:43,665 - ===================================
+INFO  02:30:43,668 - Deklarisano single polje x na liniji 22
+INFO  02:30:43,668 - Deklarisana nova klasa: Klasa2 na liniji 21
+INFO  02:30:43,668 - Definisana funkcija funkc na liniji 32
+INFO  02:30:43,668 - Deklarisan single argument x na liniji 32
+INFO  02:30:43,668 - Deklarisan single argument e na liniji 32
+INFO  02:30:43,668 - Deklarisana single promenljiva f na liniji 33
+ERROR 02:30:43,668 - Greska na liniji 32: funkcija retValue[1]funkc nema return iskaz!
+INFO  02:30:43,668 - Definisana funkcija main na liniji 38
+ERROR 02:30:43,668 - Greska na liniji 41 : ime x nije deklarisano! 
+ERROR 02:30:43,668 - Greska na liniji 41 : nekompatibilni tipovi u dodeli vrednosti! 
+ERROR 02:30:43,668 - Greska na liniji 44 : ime x nije deklarisano! 
+ERROR 02:30:43,668 - Greska na liniji 44 : nekompatibilni tipovi u dodeli vrednosti! 
+ERROR 02:30:43,669 - Greska na liniji 44 : ime x nije deklarisano! 
+ERROR 02:30:43,669 - Greska na liniji 44 : nekompatibilni tipovi u dodeli vrednosti! 
+ERROR 02:30:43,669 - Greska na liniji 44 : ime x nije deklarisano! 
+ERROR 02:30:43,669 - Greska na liniji 44 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  02:30:43,669 - main funkcija je korektna.  na liniji 38
+INFO  02:30:43,669 - ===================================
+ERROR 02:30:43,669 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,348 @@
+INFO  03:35:10,469 - Putanja iz argumenta: test/program.mj
+INFO  03:35:10,469 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  03:35:10,505 - #2 program
+INFO  03:35:10,505 - #45 Programcic123
+INFO  03:35:10,506 - #5 interface
+INFO  03:35:10,506 - #45 I
+INFO  03:35:10,507 - #12 {
+INFO  03:35:10,507 - #45 int
+INFO  03:35:10,507 - #45 x
+INFO  03:35:10,508 - #16 (
+INFO  03:35:10,508 - #45 int
+INFO  03:35:10,508 - #45 a
+INFO  03:35:10,508 - #19 ,
+INFO  03:35:10,508 - #45 int
+INFO  03:35:10,508 - #45 b
+INFO  03:35:10,508 - #17 )
+INFO  03:35:10,508 - #18 ;
+INFO  03:35:10,508 - #13 }
+INFO  03:35:10,509 - #4 class
+INFO  03:35:10,509 - #45 IUtil
+INFO  03:35:10,509 - #12 {
+INFO  03:35:10,510 - #12 {
+INFO  03:35:10,510 - #39 void
+INFO  03:35:10,510 - #45 sprint
+INFO  03:35:10,511 - #16 (
+INFO  03:35:10,511 - #45 char
+INFO  03:35:10,511 - #45 str
+INFO  03:35:10,511 - #14 [
+INFO  03:35:10,511 - #15 ]
+INFO  03:35:10,511 - #17 )
+INFO  03:35:10,511 - #12 {
+INFO  03:35:10,512 - #11 print
+INFO  03:35:10,512 - #16 (
+INFO  03:35:10,512 - #46 a
+INFO  03:35:10,512 - #17 )
+INFO  03:35:10,513 - #18 ;
+INFO  03:35:10,513 - #13 }
+INFO  03:35:10,513 - #13 }
+INFO  03:35:10,513 - #13 }
+INFO  03:35:10,513 - #45 int
+INFO  03:35:10,514 - #45 x
+INFO  03:35:10,514 - #18 ;
+INFO  03:35:10,514 - #12 {
+INFO  03:35:10,514 - #39 void
+INFO  03:35:10,514 - #45 main
+INFO  03:35:10,515 - #16 (
+INFO  03:35:10,515 - #17 )
+INFO  03:35:10,515 - #45 IUtil
+INFO  03:35:10,515 - #45 u
+INFO  03:35:10,515 - #18 ;
+INFO  03:35:10,515 - #45 I
+INFO  03:35:10,515 - #45 i
+INFO  03:35:10,515 - #18 ;
+INFO  03:35:10,515 - #45 int
+INFO  03:35:10,515 - #45 c
+INFO  03:35:10,516 - #19 ,
+INFO  03:35:10,516 - #45 v
+INFO  03:35:10,516 - #18 ;
+INFO  03:35:10,516 - #12 {
+INFO  03:35:10,516 - #45 u
+INFO  03:35:10,516 - #20 .
+INFO  03:35:10,516 - #45 sprint
+INFO  03:35:10,516 - #16 (
+INFO  03:35:10,516 - #45 null
+INFO  03:35:10,516 - #17 )
+INFO  03:35:10,516 - #18 ;
+INFO  03:35:10,517 - #45 i
+INFO  03:35:10,517 - #20 .
+INFO  03:35:10,517 - #45 x
+INFO  03:35:10,517 - #16 (
+INFO  03:35:10,517 - #44 1
+INFO  03:35:10,517 - #19 ,
+INFO  03:35:10,517 - #44 1
+INFO  03:35:10,517 - #17 )
+INFO  03:35:10,517 - #18 ;
+INFO  03:35:10,517 - #13 }
+INFO  03:35:10,517 - #13 }
+INFO  03:35:10,521 - Program(
+  ProgName(
+   Programcic123
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        NoDecl(
+        ) [NoDecl]
+        InterfaceDeclaration(
+          InterfaceDeclarationNode(
+            InterfaceIdent(
+             I
+            ) [InterfaceIdent]
+            InterfaceMethodDeclarations(
+              NoInterfaceMethodDeclaration(
+              ) [NoInterfaceMethodDeclaration]
+              InterfaceMethodDeclarationWithParams(
+                InterfaceMethodIdent(
+                  NoVoidType(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                  ) [NoVoidType]
+                 x
+                ) [InterfaceMethodIdent]
+                FormalParams(
+                  FormalParamDecls(
+                    SingleFormalParamDecl(
+                      FormalParamDeclarationNoBrackets(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                       a
+                      ) [FormalParamDeclarationNoBrackets]
+                    ) [SingleFormalParamDecl]
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     b
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [FormalParamDecls]
+                ) [FormalParams]
+              ) [InterfaceMethodDeclarationWithParams]
+            ) [InterfaceMethodDeclarations]
+          ) [InterfaceDeclarationNode]
+        ) [InterfaceDeclaration]
+      ) [Declarations]
+      ClassDeclaration(
+        ClassDeclarationWithMethods(
+          ClassDeclIdent(
+           IUtil
+          ) [ClassDeclIdent]
+          NoExtension(
+          ) [NoExtension]
+          NoImplementation(
+          ) [NoImplementation]
+          NoClassVarDeclaration(
+          ) [NoClassVarDeclaration]
+          ClassMethodDeclarations(
+            NoClassMethodDecl(
+            ) [NoClassMethodDecl]
+            MethodDecl(
+              MethodTypeName(
+                VoidType(
+                ) [VoidType]
+               sprint
+              ) [MethodTypeName]
+              FormalParams(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationBrackets(
+                    TypeNode(
+                     char
+                    ) [TypeNode]
+                   str
+                  ) [FormalParamDeclarationBrackets]
+                ) [SingleFormalParamDecl]
+              ) [FormalParams]
+              NoVarDeclaration(
+              ) [NoVarDeclaration]
+              MethodLBRACE(
+              ) [MethodLBRACE]
+              Statements(
+                NoStatement(
+                ) [NoStatement]
+                PrintStatement(
+                  SingleExpression(
+                    TermFactor(
+                      ConstantCharacter(
+                       a
+                      ) [ConstantCharacter]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [PrintStatement]
+              ) [Statements]
+            ) [MethodDecl]
+          ) [ClassMethodDeclarations]
+        ) [ClassDeclarationWithMethods]
+      ) [ClassDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      GlobalVarDeclNode(
+        VarDeclType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           x
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [GlobalVarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        VarDeclarationList(
+          VarDeclarationList(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclNode(
+              VarDeclType(
+                TypeNode(
+                 IUtil
+                ) [TypeNode]
+              ) [VarDeclType]
+              SingleVariable(
+                VariableNoBracket(
+                 u
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+            ) [VarDeclNode]
+          ) [VarDeclarationList]
+          VarDeclNode(
+            VarDeclType(
+              TypeNode(
+               I
+              ) [TypeNode]
+            ) [VarDeclType]
+            SingleVariable(
+              VariableNoBracket(
+               i
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+          ) [VarDeclNode]
+        ) [VarDeclarationList]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               c
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             v
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DesignatorStatementOnly(
+            DesignatorStatementActPars(
+              DesignatorNode(
+                Idents(
+                  SingleIdentExpr(
+                   u
+                  ) [SingleIdentExpr]
+                 sprint
+                ) [Idents]
+              ) [DesignatorNode]
+              ActParsNode(
+                SingleActualParam(
+                  SingleExpression(
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                          SingleIdentExpr(
+                           null
+                          ) [SingleIdentExpr]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [SingleActualParam]
+              ) [ActParsNode]
+            ) [DesignatorStatementActPars]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementActPars(
+            DesignatorNode(
+              Idents(
+                SingleIdentExpr(
+                 i
+                ) [SingleIdentExpr]
+               x
+              ) [Idents]
+            ) [DesignatorNode]
+            ActParsNode(
+              ActualParametres(
+                SingleActualParam(
+                  SingleExpression(
+                    TermFactor(
+                      ConstantNumber(
+                       1
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [SingleActualParam]
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     1
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [ActualParametres]
+            ) [ActParsNode]
+          ) [DesignatorStatementActPars]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:35:10,521 - ===================================
+INFO  03:35:10,525 - Deklarisana metoda x u okviru interfejsa I na liniji 4
+INFO  03:35:10,525 - Deklarisan single argument a na liniji 4
+INFO  03:35:10,525 - Deklarisan single argument b na liniji 4
+INFO  03:35:10,525 - Deklarisan novi interfejs: I na liniji 3
+INFO  03:35:10,525 - Deklarisana metoda sprint u okviru klase IUtil na liniji 9
+INFO  03:35:10,525 - Deklarisan array argument str na liniji 9
+INFO  03:35:10,525 - Deklarisana nova klasa: IUtil na liniji 6
+INFO  03:35:10,525 - Deklarisana single promenljiva x na liniji 15
+INFO  03:35:10,525 - Definisana funkcija main na liniji 17
+INFO  03:35:10,525 - Deklarisana single promenljiva u na liniji 18
+INFO  03:35:10,525 - Deklarisana single promenljiva i na liniji 19
+INFO  03:35:10,525 - Deklarisana single promenljiva c na liniji 20
+INFO  03:35:10,525 - Deklarisana single promenljiva v na liniji 20
+INFO  03:35:10,526 - >>>>>>>>TEST NUM | u.sprint| lvl: 1 | size: 1
+INFO  03:35:10,526 - >>>>>>>>Moguce .dot prom/funkc | sprint
+INFO  03:35:10,526 - Izabrano polje : .sprint
+INFO  03:35:10,526 - Pronadjen poziv promenljive [Con null: Class [], 0, 0 ] na liniji 22
+INFO  03:35:10,526 - Pronadjen poziv funkcije sprint sa 1/1 argumenta na liniji 22
+INFO  03:35:10,526 - >>>>>>>>TEST NUM | i.x| lvl: 1 | size: 0
+ERROR 03:35:10,526 - Greska na liniji 23 : polje x nije deklarisano! (u okviru:i)
+ERROR 03:35:10,526 - Greska na liniji 23 : ime noObj nije funkcija!
+INFO  03:35:10,526 - main funkcija je korektna.  na liniji 17
+INFO  03:35:10,527 - ===================================
+ERROR 03:35:10,527 - Parsiranje NIJE uspesno zavrseno!

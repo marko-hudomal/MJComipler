@@ -1,0 +1,235 @@
+INFO  00:25:53,673 - Putanja iz argumenta: test/program.mj
+INFO  00:25:53,673 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  00:25:53,706 - #2 program
+INFO  00:25:53,706 - #45 Program
+INFO  00:25:53,706 - #45 int
+INFO  00:25:53,707 - #45 x
+INFO  00:25:53,707 - #19 ,
+INFO  00:25:53,707 - #45 y
+INFO  00:25:53,708 - #19 ,
+INFO  00:25:53,708 - #45 z
+INFO  00:25:53,708 - #19 ,
+INFO  00:25:53,708 - #45 arr
+INFO  00:25:53,708 - #14 [
+INFO  00:25:53,708 - #15 ]
+INFO  00:25:53,708 - #18 ;
+INFO  00:25:53,708 - #12 {
+INFO  00:25:53,708 - #39 void
+INFO  00:25:53,709 - #45 main
+INFO  00:25:53,709 - #16 (
+INFO  00:25:53,709 - #17 )
+INFO  00:25:53,710 - #45 int
+INFO  00:25:53,710 - #45 a
+INFO  00:25:53,710 - #19 ,
+INFO  00:25:53,710 - #45 b
+INFO  00:25:53,710 - #18 ;
+INFO  00:25:53,710 - #12 {
+INFO  00:25:53,710 - #45 a
+INFO  00:25:53,711 - #26 =
+INFO  00:25:53,711 - #44 2
+INFO  00:25:53,711 - #18 ;
+INFO  00:25:53,712 - #45 b
+INFO  00:25:53,712 - #26 =
+INFO  00:25:53,712 - #44 2
+INFO  00:25:53,712 - #18 ;
+INFO  00:25:53,712 - #9 if
+INFO  00:25:53,712 - #16 (
+INFO  00:25:53,712 - #45 a
+INFO  00:25:53,712 - #30 !=
+INFO  00:25:53,712 - #45 b
+INFO  00:25:53,713 - #17 )
+INFO  00:25:53,713 - #12 {
+INFO  00:25:53,713 - #13 }
+INFO  00:25:53,713 - #11 print
+INFO  00:25:53,714 - #16 (
+INFO  00:25:53,714 - #44 1
+INFO  00:25:53,714 - #17 )
+INFO  00:25:53,714 - #18 ;
+INFO  00:25:53,714 - #13 }
+INFO  00:25:53,714 - #13 }
+INFO  00:25:53,719 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  Declarations(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclNode(
+        VarDeclType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [VarDeclType]
+        Variables(
+          Variables(
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 x
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               y
+              ) [VariableNoBracket]
+            ) [Variables]
+            VariableNoBracket(
+             z
+            ) [VariableNoBracket]
+          ) [Variables]
+          VariableBracket(
+           arr
+          ) [VariableBracket]
+        ) [Variables]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               a
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             b
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStatement(
+              ) [NoStatement]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                    SingleIdentExpr(
+                     a
+                    ) [SingleIdentExpr]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    TermFactor(
+                      ConstantNumber(
+                       2
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  SingleIdentExpr(
+                   b
+                  ) [SingleIdentExpr]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     2
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          IfStatement(
+            IfConditionNode(
+              ConditionNode(
+                SingleConditionTerm(
+                  ConditionTermNode(
+                    SingleConditionFact(
+                      CondFactExpressionRelopExpression(
+                        SingleExpression(
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                                SingleIdentExpr(
+                                 a
+                                ) [SingleIdentExpr]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                        RelopNotEqual(
+                        ) [RelopNotEqual]
+                        SingleExpression(
+                          TermFactor(
+                            DesignatorEmpty(
+                              DesignatorNode(
+                                SingleIdentExpr(
+                                 b
+                                ) [SingleIdentExpr]
+                              ) [DesignatorNode]
+                            ) [DesignatorEmpty]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [CondFactExpressionRelopExpression]
+                    ) [SingleConditionFact]
+                  ) [ConditionTermNode]
+                ) [SingleConditionTerm]
+              ) [ConditionNode]
+            ) [IfConditionNode]
+            IfStatementThen(
+              InBraceStatement(
+                NoStatement(
+                ) [NoStatement]
+              ) [InBraceStatement]
+            ) [IfStatementThen]
+          ) [IfStatement]
+        ) [Statements]
+        PrintStatement(
+          SingleExpression(
+            TermFactor(
+              ConstantNumber(
+               1
+              ) [ConstantNumber]
+            ) [TermFactor]
+          ) [SingleExpression]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:25:53,719 - ===================================
+INFO  00:25:53,722 - Deklarisana single promenljiva x na liniji 3
+INFO  00:25:53,722 - Deklarisana single promenljiva y na liniji 3
+INFO  00:25:53,722 - Deklarisana single promenljiva z na liniji 3
+INFO  00:25:53,722 - Deklarisana array promenljiva arr na liniji 3
+INFO  00:25:53,722 - Definisana funkcija main na liniji 7
+INFO  00:25:53,722 - Deklarisana single promenljiva a na liniji 9
+INFO  00:25:53,723 - Deklarisana single promenljiva b na liniji 9
+INFO  00:25:53,723 - Dodela vrednosti za a na liniji 11
+INFO  00:25:53,723 - Dodela vrednosti za b na liniji 12
+INFO  00:25:53,723 - Pronadjen poziv promenljive a na liniji 14
+INFO  00:25:53,723 - Pronadjen poziv promenljive b na liniji 14
+INFO  00:25:53,723 - main funkcija je korektna.  na liniji 7
+INFO  00:25:53,723 - ===================================
+INFO  00:25:53,733 - Parsiranje uspesno zavrseno!

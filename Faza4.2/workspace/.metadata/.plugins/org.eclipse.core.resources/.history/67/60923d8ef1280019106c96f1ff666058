@@ -1,0 +1,35 @@
+package rs.ac.bg.etf.pp1.util;
+
+import rs.etf.pp1.symboltable.concepts.Obj;
+
+public class MyPrint {
+	protected StringBuilder output = new StringBuilder();
+	
+	public void visitObjNode(Obj objToVisit) {
+		output.append("[");
+		switch (objToVisit.getKind()) {
+		case Obj.Con:  output.append("Con "); break;
+		case Obj.Var:  output.append("Var "); break;
+		case Obj.Type: output.append("Type "); break;
+		case Obj.Meth: output.append("Meth "); break;
+		case Obj.Fld:  output.append("Fld "); break;
+		case Obj.Prog: output.append("Prog "); break;
+		}
+		
+		output.append(objToVisit.getName());
+		output.append(": ");
+		
+	 
+		
+		output.append(", ");
+		output.append(objToVisit.getAdr());
+		output.append(", ");
+		output.append(objToVisit.getLevel() + " ");
+ 
+
+ 
+ 
+		output.append("]");
+		
+	}
+}

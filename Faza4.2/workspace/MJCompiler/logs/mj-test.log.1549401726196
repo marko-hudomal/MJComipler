@@ -1,0 +1,498 @@
+INFO  22:21:49,583 - Putanja iz argumenta: test/program.mj
+INFO  22:21:49,584 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  22:21:49,619 - #2 program
+INFO  22:21:49,619 - #45 MJProgram
+INFO  22:21:49,619 - #45 int
+INFO  22:21:49,620 - #45 g
+INFO  22:21:49,620 - #18 ;
+INFO  22:21:49,620 - #4 class
+INFO  22:21:49,621 - #45 U
+INFO  22:21:49,621 - #12 {
+INFO  22:21:49,621 - #45 int
+INFO  22:21:49,622 - #45 m1
+INFO  22:21:49,622 - #19 ,
+INFO  22:21:49,622 - #45 m2
+INFO  22:21:49,622 - #18 ;
+INFO  22:21:49,623 - #13 }
+INFO  22:21:49,623 - #4 class
+INFO  22:21:49,623 - #45 Klasa
+INFO  22:21:49,623 - #12 {
+INFO  22:21:49,623 - #45 U
+INFO  22:21:49,623 - #45 u
+INFO  22:21:49,623 - #18 ;
+INFO  22:21:49,624 - #45 int
+INFO  22:21:49,624 - #45 k1
+INFO  22:21:49,624 - #19 ,
+INFO  22:21:49,624 - #45 k2
+INFO  22:21:49,624 - #19 ,
+INFO  22:21:49,624 - #45 k3
+INFO  22:21:49,624 - #18 ;
+INFO  22:21:49,624 - #45 bool
+INFO  22:21:49,624 - #45 b1
+INFO  22:21:49,624 - #19 ,
+INFO  22:21:49,624 - #45 b2
+INFO  22:21:49,624 - #18 ;
+INFO  22:21:49,624 - #45 char
+INFO  22:21:49,624 - #45 x
+INFO  22:21:49,624 - #18 ;
+INFO  22:21:49,624 - #12 {
+INFO  22:21:49,624 - #39 void
+INFO  22:21:49,625 - #45 f
+INFO  22:21:49,625 - #16 (
+INFO  22:21:49,625 - #45 int
+INFO  22:21:49,625 - #45 x
+INFO  22:21:49,625 - #17 )
+INFO  22:21:49,626 - #12 {
+INFO  22:21:49,626 - #13 }
+INFO  22:21:49,626 - #39 void
+INFO  22:21:49,627 - #45 f2
+INFO  22:21:49,627 - #16 (
+INFO  22:21:49,627 - #45 int
+INFO  22:21:49,627 - #45 x
+INFO  22:21:49,627 - #17 )
+INFO  22:21:49,627 - #12 {
+INFO  22:21:49,627 - #13 }
+INFO  22:21:49,627 - #13 }
+INFO  22:21:49,627 - #13 }
+INFO  22:21:49,627 - #45 Klasa
+INFO  22:21:49,627 - #45 a
+INFO  22:21:49,627 - #18 ;
+INFO  22:21:49,628 - #12 {
+INFO  22:21:49,628 - #39 void
+INFO  22:21:49,628 - #45 main
+INFO  22:21:49,628 - #16 (
+INFO  22:21:49,628 - #17 )
+INFO  22:21:49,628 - #12 {
+INFO  22:21:49,628 - #45 a
+INFO  22:21:49,628 - #26 =
+INFO  22:21:49,629 - #10 new
+INFO  22:21:49,629 - #45 Klasa
+INFO  22:21:49,630 - #18 ;
+INFO  22:21:49,630 - #45 a
+INFO  22:21:49,631 - #20 .
+INFO  22:21:49,631 - #45 u
+INFO  22:21:49,631 - #26 =
+INFO  22:21:49,631 - #10 new
+INFO  22:21:49,631 - #45 U
+INFO  22:21:49,631 - #18 ;
+INFO  22:21:49,631 - #45 a
+INFO  22:21:49,631 - #20 .
+INFO  22:21:49,631 - #45 k2
+INFO  22:21:49,631 - #26 =
+INFO  22:21:49,631 - #44 23
+INFO  22:21:49,631 - #18 ;
+INFO  22:21:49,631 - #45 a
+INFO  22:21:49,631 - #20 .
+INFO  22:21:49,631 - #45 u
+INFO  22:21:49,631 - #20 .
+INFO  22:21:49,631 - #45 m1
+INFO  22:21:49,632 - #26 =
+INFO  22:21:49,632 - #45 a
+INFO  22:21:49,632 - #20 .
+INFO  22:21:49,632 - #45 k2
+INFO  22:21:49,632 - #21 +
+INFO  22:21:49,632 - #44 1
+INFO  22:21:49,632 - #18 ;
+INFO  22:21:49,632 - #11 print
+INFO  22:21:49,633 - #16 (
+INFO  22:21:49,633 - #45 a
+INFO  22:21:49,633 - #20 .
+INFO  22:21:49,633 - #45 k2
+INFO  22:21:49,633 - #17 )
+INFO  22:21:49,633 - #18 ;
+INFO  22:21:49,633 - #13 }
+INFO  22:21:49,633 - #13 }
+INFO  22:21:49,638 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          NoDecl(
+          ) [NoDecl]
+          VarDeclaration(
+            GlobalVarDeclNode(
+              VarDeclType(
+                TypeNode(
+                 int
+                ) [TypeNode]
+              ) [VarDeclType]
+              SingleVariable(
+                VariableNoBracket(
+                 g
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+            ) [GlobalVarDeclNode]
+          ) [VarDeclaration]
+        ) [Declarations]
+        ClassDeclaration(
+          ClassDeclarationWithoutMethods(
+            ClassDeclIdent(
+             U
+            ) [ClassDeclIdent]
+            NoExtension(
+            ) [NoExtension]
+            NoImplementation(
+            ) [NoImplementation]
+            ClassVarDeclarationList(
+              NoClassVarDeclaration(
+              ) [NoClassVarDeclaration]
+              ClassVarDeclNode(
+                ClassVarDeclType(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                ) [ClassVarDeclType]
+                ClassVariables(
+                  SingleClassVariable(
+                    VariableNoBracket(
+                     m1
+                    ) [VariableNoBracket]
+                  ) [SingleClassVariable]
+                  VariableNoBracket(
+                   m2
+                  ) [VariableNoBracket]
+                ) [ClassVariables]
+              ) [ClassVarDeclNode]
+            ) [ClassVarDeclarationList]
+          ) [ClassDeclarationWithoutMethods]
+        ) [ClassDeclaration]
+      ) [Declarations]
+      ClassDeclaration(
+        ClassDeclarationWithMethods(
+          ClassDeclIdent(
+           Klasa
+          ) [ClassDeclIdent]
+          NoExtension(
+          ) [NoExtension]
+          NoImplementation(
+          ) [NoImplementation]
+          ClassVarDeclarationList(
+            ClassVarDeclarationList(
+              ClassVarDeclarationList(
+                ClassVarDeclarationList(
+                  NoClassVarDeclaration(
+                  ) [NoClassVarDeclaration]
+                  ClassVarDeclNode(
+                    ClassVarDeclType(
+                      TypeNode(
+                       U
+                      ) [TypeNode]
+                    ) [ClassVarDeclType]
+                    SingleClassVariable(
+                      VariableNoBracket(
+                       u
+                      ) [VariableNoBracket]
+                    ) [SingleClassVariable]
+                  ) [ClassVarDeclNode]
+                ) [ClassVarDeclarationList]
+                ClassVarDeclNode(
+                  ClassVarDeclType(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                  ) [ClassVarDeclType]
+                  ClassVariables(
+                    ClassVariables(
+                      SingleClassVariable(
+                        VariableNoBracket(
+                         k1
+                        ) [VariableNoBracket]
+                      ) [SingleClassVariable]
+                      VariableNoBracket(
+                       k2
+                      ) [VariableNoBracket]
+                    ) [ClassVariables]
+                    VariableNoBracket(
+                     k3
+                    ) [VariableNoBracket]
+                  ) [ClassVariables]
+                ) [ClassVarDeclNode]
+              ) [ClassVarDeclarationList]
+              ClassVarDeclNode(
+                ClassVarDeclType(
+                  TypeNode(
+                   bool
+                  ) [TypeNode]
+                ) [ClassVarDeclType]
+                ClassVariables(
+                  SingleClassVariable(
+                    VariableNoBracket(
+                     b1
+                    ) [VariableNoBracket]
+                  ) [SingleClassVariable]
+                  VariableNoBracket(
+                   b2
+                  ) [VariableNoBracket]
+                ) [ClassVariables]
+              ) [ClassVarDeclNode]
+            ) [ClassVarDeclarationList]
+            ClassVarDeclNode(
+              ClassVarDeclType(
+                TypeNode(
+                 char
+                ) [TypeNode]
+              ) [ClassVarDeclType]
+              SingleClassVariable(
+                VariableNoBracket(
+                 x
+                ) [VariableNoBracket]
+              ) [SingleClassVariable]
+            ) [ClassVarDeclNode]
+          ) [ClassVarDeclarationList]
+          ClassMethodDeclarations(
+            ClassMethodDeclarations(
+              NoClassMethodDecl(
+              ) [NoClassMethodDecl]
+              MethodDecl(
+                MethodTypeName(
+                  VoidType(
+                  ) [VoidType]
+                 f
+                ) [MethodTypeName]
+                FormalParams(
+                  SingleFormalParamDecl(
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     x
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [SingleFormalParamDecl]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                MethodLBRACE(
+                ) [MethodLBRACE]
+                NoStatement(
+                ) [NoStatement]
+              ) [MethodDecl]
+            ) [ClassMethodDeclarations]
+            MethodDecl(
+              MethodTypeName(
+                VoidType(
+                ) [VoidType]
+               f2
+              ) [MethodTypeName]
+              FormalParams(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationNoBrackets(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                   x
+                  ) [FormalParamDeclarationNoBrackets]
+                ) [SingleFormalParamDecl]
+              ) [FormalParams]
+              NoVarDeclaration(
+              ) [NoVarDeclaration]
+              MethodLBRACE(
+              ) [MethodLBRACE]
+              NoStatement(
+              ) [NoStatement]
+            ) [MethodDecl]
+          ) [ClassMethodDeclarations]
+        ) [ClassDeclarationWithMethods]
+      ) [ClassDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      GlobalVarDeclNode(
+        VarDeclType(
+          TypeNode(
+           Klasa
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           a
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [GlobalVarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStatement(
+                ) [NoStatement]
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      SingleIdentExpr(
+                       a
+                      ) [SingleIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        NewType(
+                          TypeNode(
+                           Klasa
+                          ) [TypeNode]
+                        ) [NewType]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [Statements]
+              DesignatorStatementOnly(
+                DesignatorStatementAssignop(
+                  DesignatorNode(
+                    Idents(
+                      SingleIdentExpr(
+                       a
+                      ) [SingleIdentExpr]
+                     u
+                    ) [Idents]
+                  ) [DesignatorNode]
+                  Assignop(
+                  ) [Assignop]
+                  SingleExpression(
+                    TermFactor(
+                      NewType(
+                        TypeNode(
+                         U
+                        ) [TypeNode]
+                      ) [NewType]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [DesignatorStatementAssignop]
+              ) [DesignatorStatementOnly]
+            ) [Statements]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  Idents(
+                    SingleIdentExpr(
+                     a
+                    ) [SingleIdentExpr]
+                   k2
+                  ) [Idents]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    ConstantNumber(
+                     23
+                    ) [ConstantNumber]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          DesignatorStatementOnly(
+            DesignatorStatementAssignop(
+              DesignatorNode(
+                Idents(
+                  Idents(
+                    SingleIdentExpr(
+                     a
+                    ) [SingleIdentExpr]
+                   u
+                  ) [Idents]
+                 m1
+                ) [Idents]
+              ) [DesignatorNode]
+              Assignop(
+              ) [Assignop]
+              ExpressionNode(
+                SingleExpression(
+                  TermFactor(
+                    DesignatorEmpty(
+                      DesignatorNode(
+                        Idents(
+                          SingleIdentExpr(
+                           a
+                          ) [SingleIdentExpr]
+                         k2
+                        ) [Idents]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermFactor]
+                ) [SingleExpression]
+                AddopPlus(
+                ) [AddopPlus]
+                TermFactor(
+                  ConstantNumber(
+                   1
+                  ) [ConstantNumber]
+                ) [TermFactor]
+              ) [ExpressionNode]
+            ) [DesignatorStatementAssignop]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        PrintStatement(
+          SingleExpression(
+            TermFactor(
+              DesignatorEmpty(
+                DesignatorNode(
+                  Idents(
+                    SingleIdentExpr(
+                     a
+                    ) [SingleIdentExpr]
+                   k2
+                  ) [Idents]
+                ) [DesignatorNode]
+              ) [DesignatorEmpty]
+            ) [TermFactor]
+          ) [SingleExpression]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:21:49,638 - ===================================
+INFO  22:21:49,642 - Deklarisana single promenljiva g na liniji 5
+INFO  22:21:49,642 - Deklarisano single polje m1 na liniji 7
+INFO  22:21:49,642 - Deklarisano single polje m2 na liniji 7
+INFO  22:21:49,642 - Deklarisana nova klasa: U na liniji 6
+INFO  22:21:49,642 - Deklarisano single polje u na liniji 10
+INFO  22:21:49,642 - Deklarisano single polje k1 na liniji 11
+INFO  22:21:49,642 - Deklarisano single polje k2 na liniji 11
+INFO  22:21:49,642 - Deklarisano single polje k3 na liniji 11
+INFO  22:21:49,642 - Deklarisano single polje b1 na liniji 12
+INFO  22:21:49,642 - Deklarisano single polje b2 na liniji 12
+INFO  22:21:49,642 - Deklarisano single polje x na liniji 13
+INFO  22:21:49,643 - Deklarisana metoda f u okviru klase Klasa na liniji 15
+INFO  22:21:49,643 - Deklarisan single argument x na liniji 15
+INFO  22:21:49,643 - Deklarisana metoda f2 u okviru klase Klasa na liniji 18
+INFO  22:21:49,643 - Deklarisan single argument x na liniji 18
+INFO  22:21:49,643 - Deklarisana nova klasa: Klasa na liniji 9
+INFO  22:21:49,643 - Deklarisana single promenljiva a na liniji 24
+INFO  22:21:49,643 - Definisana funkcija main na liniji 27
+INFO  22:21:49,643 - Dodela vrednosti za a na liniji 28
+INFO  22:21:49,643 - Izabrano polje : .u
+INFO  22:21:49,643 - Dodela vrednosti za u na liniji 29
+INFO  22:21:49,643 - Izabrano polje : .k2
+INFO  22:21:49,643 - Dodela vrednosti za k2 na liniji 30
+INFO  22:21:49,643 - Izabrano polje : .u
+INFO  22:21:49,643 - Izabrano polje : .m1
+INFO  22:21:49,643 - Izabrano polje : .k2
+INFO  22:21:49,644 - Pronadjen poziv promenljive [Fld k2: int, 2, 1 ] na liniji 31
+INFO  22:21:49,644 - Dodela vrednosti za m1 na liniji 31
+INFO  22:21:49,644 - Izabrano polje : .k2
+INFO  22:21:49,644 - Pronadjen poziv promenljive [Fld k2: int, 2, 1 ] na liniji 32
+INFO  22:21:49,644 - main funkcija je korektna.  na liniji 27
+INFO  22:21:49,644 - ===================================
+INFO  22:21:49,654 - Parsiranje uspesno zavrseno!

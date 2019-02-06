@@ -1,0 +1,245 @@
+INFO  21:58:39,277 - Putanja iz argumenta: test/program.mj
+INFO  21:58:39,278 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  21:58:39,311 - #2 program
+INFO  21:58:39,311 - #45 MJProgram
+INFO  21:58:39,312 - #4 class
+INFO  21:58:39,312 - #45 Klasa
+INFO  21:58:39,312 - #12 {
+INFO  21:58:39,313 - #45 int
+INFO  21:58:39,313 - #45 k1
+INFO  21:58:39,314 - #19 ,
+INFO  21:58:39,314 - #45 k2
+INFO  21:58:39,314 - #19 ,
+INFO  21:58:39,314 - #45 k3
+INFO  21:58:39,314 - #18 ;
+INFO  21:58:39,314 - #45 bool
+INFO  21:58:39,315 - #45 b1
+INFO  21:58:39,315 - #19 ,
+INFO  21:58:39,315 - #45 b2
+INFO  21:58:39,315 - #18 ;
+INFO  21:58:39,315 - #12 {
+INFO  21:58:39,315 - #39 void
+INFO  21:58:39,315 - #45 f
+INFO  21:58:39,316 - #16 (
+INFO  21:58:39,316 - #45 int
+INFO  21:58:39,316 - #45 x
+INFO  21:58:39,316 - #17 )
+INFO  21:58:39,317 - #12 {
+INFO  21:58:39,317 - #13 }
+INFO  21:58:39,317 - #39 void
+INFO  21:58:39,318 - #45 f2
+INFO  21:58:39,318 - #16 (
+INFO  21:58:39,318 - #45 int
+INFO  21:58:39,318 - #45 x
+INFO  21:58:39,318 - #17 )
+INFO  21:58:39,318 - #12 {
+INFO  21:58:39,318 - #13 }
+INFO  21:58:39,318 - #13 }
+INFO  21:58:39,318 - #13 }
+INFO  21:58:39,318 - #45 Klasa
+INFO  21:58:39,319 - #45 a
+INFO  21:58:39,319 - #18 ;
+INFO  21:58:39,319 - #12 {
+INFO  21:58:39,319 - #39 void
+INFO  21:58:39,320 - #45 main
+INFO  21:58:39,320 - #16 (
+INFO  21:58:39,320 - #17 )
+INFO  21:58:39,320 - #12 {
+INFO  21:58:39,320 - #45 a
+INFO  21:58:39,320 - #26 =
+INFO  21:58:39,320 - #10 new
+INFO  21:58:39,321 - #45 Klasa
+INFO  21:58:39,321 - #18 ;
+INFO  21:58:39,321 - #13 }
+INFO  21:58:39,321 - #13 }
+INFO  21:58:39,326 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ClassDeclaration(
+        ClassDeclarationWithMethods(
+          ClassDeclIdent(
+           Klasa
+          ) [ClassDeclIdent]
+          NoExtension(
+          ) [NoExtension]
+          NoImplementation(
+          ) [NoImplementation]
+          ClassVarDeclarationList(
+            ClassVarDeclarationList(
+              NoClassVarDeclaration(
+              ) [NoClassVarDeclaration]
+              ClassVarDeclNode(
+                ClassVarDeclType(
+                  TypeNode(
+                   int
+                  ) [TypeNode]
+                ) [ClassVarDeclType]
+                ClassVariables(
+                  ClassVariables(
+                    SingleClassVariable(
+                      VariableNoBracket(
+                       k1
+                      ) [VariableNoBracket]
+                    ) [SingleClassVariable]
+                    VariableNoBracket(
+                     k2
+                    ) [VariableNoBracket]
+                  ) [ClassVariables]
+                  VariableNoBracket(
+                   k3
+                  ) [VariableNoBracket]
+                ) [ClassVariables]
+              ) [ClassVarDeclNode]
+            ) [ClassVarDeclarationList]
+            ClassVarDeclNode(
+              ClassVarDeclType(
+                TypeNode(
+                 bool
+                ) [TypeNode]
+              ) [ClassVarDeclType]
+              ClassVariables(
+                SingleClassVariable(
+                  VariableNoBracket(
+                   b1
+                  ) [VariableNoBracket]
+                ) [SingleClassVariable]
+                VariableNoBracket(
+                 b2
+                ) [VariableNoBracket]
+              ) [ClassVariables]
+            ) [ClassVarDeclNode]
+          ) [ClassVarDeclarationList]
+          ClassMethodDeclarations(
+            ClassMethodDeclarations(
+              NoClassMethodDecl(
+              ) [NoClassMethodDecl]
+              MethodDecl(
+                MethodTypeName(
+                  VoidType(
+                  ) [VoidType]
+                 f
+                ) [MethodTypeName]
+                FormalParams(
+                  SingleFormalParamDecl(
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     x
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [SingleFormalParamDecl]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                MethodLBRACE(
+                ) [MethodLBRACE]
+                NoStatement(
+                ) [NoStatement]
+              ) [MethodDecl]
+            ) [ClassMethodDeclarations]
+            MethodDecl(
+              MethodTypeName(
+                VoidType(
+                ) [VoidType]
+               f2
+              ) [MethodTypeName]
+              FormalParams(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationNoBrackets(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                   x
+                  ) [FormalParamDeclarationNoBrackets]
+                ) [SingleFormalParamDecl]
+              ) [FormalParams]
+              NoVarDeclaration(
+              ) [NoVarDeclaration]
+              MethodLBRACE(
+              ) [MethodLBRACE]
+              NoStatement(
+              ) [NoStatement]
+            ) [MethodDecl]
+          ) [ClassMethodDeclarations]
+        ) [ClassDeclarationWithMethods]
+      ) [ClassDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      GlobalVarDeclNode(
+        VarDeclType(
+          TypeNode(
+           Klasa
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           a
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [GlobalVarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        NoStatement(
+        ) [NoStatement]
+        DesignatorStatementOnly(
+          DesignatorStatementAssignop(
+            DesignatorNode(
+              SingleIdentExpr(
+               a
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+            Assignop(
+            ) [Assignop]
+            SingleExpression(
+              TermFactor(
+                NewType(
+                  TypeNode(
+                   Klasa
+                  ) [TypeNode]
+                ) [NewType]
+              ) [TermFactor]
+            ) [SingleExpression]
+          ) [DesignatorStatementAssignop]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:58:39,326 - ===================================
+INFO  21:58:39,329 - Deklarisano single polje k1 na liniji 7
+INFO  21:58:39,329 - Deklarisano single polje k2 na liniji 7
+INFO  21:58:39,329 - Deklarisano single polje k3 na liniji 7
+INFO  21:58:39,329 - Deklarisano single polje b1 na liniji 8
+INFO  21:58:39,329 - Deklarisano single polje b2 na liniji 8
+INFO  21:58:39,329 - Deklarisana metoda f u okviru klase Klasa na liniji 10
+INFO  21:58:39,329 - Deklarisan single argument x na liniji 10
+INFO  21:58:39,330 - Deklarisana metoda f2 u okviru klase Klasa na liniji 13
+INFO  21:58:39,330 - Deklarisan single argument x na liniji 13
+INFO  21:58:39,330 - Deklarisana nova klasa: Klasa na liniji 6
+INFO  21:58:39,330 - Deklarisana single promenljiva a na liniji 19
+INFO  21:58:39,330 - Definisana funkcija main na liniji 22
+INFO  21:58:39,331 - Dodela vrednosti za a na liniji 23
+INFO  21:58:39,331 - main funkcija je korektna.  na liniji 22
+INFO  21:58:39,331 - ===================================
+INFO  21:58:39,341 - Parsiranje uspesno zavrseno!

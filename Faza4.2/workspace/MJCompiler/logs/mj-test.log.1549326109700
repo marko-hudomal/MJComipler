@@ -1,0 +1,145 @@
+INFO  01:21:36,406 - Putanja iz argumenta: test/program.mj
+INFO  01:21:36,406 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  01:21:36,438 - #2 program
+INFO  01:21:36,439 - #45 MyProgram
+INFO  01:21:36,439 - #8 const
+INFO  01:21:36,439 - #45 bool
+INFO  01:21:36,439 - #45 b1
+INFO  01:21:36,440 - #26 =
+INFO  01:21:36,440 - #47 0
+INFO  01:21:36,440 - #18 ;
+INFO  01:21:36,440 - #45 bool
+INFO  01:21:36,440 - #45 b2
+INFO  01:21:36,441 - #18 ;
+INFO  01:21:36,441 - #12 {
+INFO  01:21:36,441 - #39 void
+INFO  01:21:36,442 - #45 prnt
+INFO  01:21:36,442 - #16 (
+INFO  01:21:36,442 - #17 )
+INFO  01:21:36,443 - #12 {
+INFO  01:21:36,443 - #13 }
+INFO  01:21:36,444 - #39 void
+INFO  01:21:36,444 - #45 main
+INFO  01:21:36,444 - #16 (
+INFO  01:21:36,444 - #17 )
+INFO  01:21:36,444 - #12 {
+INFO  01:21:36,445 - #37 read
+INFO  01:21:36,445 - #16 (
+INFO  01:21:36,445 - #45 b2
+INFO  01:21:36,445 - #17 )
+INFO  01:21:36,445 - #18 ;
+INFO  01:21:36,445 - #45 prnt
+INFO  01:21:36,445 - #16 (
+INFO  01:21:36,445 - #17 )
+INFO  01:21:36,445 - #18 ;
+INFO  01:21:36,446 - #13 }
+INFO  01:21:36,446 - #13 }
+INFO  01:21:36,450 - Program(
+  ProgName(
+   MyProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          ConstDeclType(
+            TypeNode(
+             bool
+            ) [TypeNode]
+          ) [ConstDeclType]
+          SingleConstant(
+            IdentEqualConstantNode(
+             b1
+              BooleanNode(
+               0
+              ) [BooleanNode]
+            ) [IdentEqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclNode(
+        VarDeclType(
+          TypeNode(
+           bool
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           b2
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          VoidType(
+          ) [VoidType]
+         prnt
+        ) [MethodTypeName]
+        NoFormalParam(
+        ) [NoFormalParam]
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        MethodLBRACE(
+        ) [MethodLBRACE]
+        NoStatement(
+        ) [NoStatement]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          ReadStatement(
+            DesignatorNode(
+              SingleIdentExpr(
+               b2
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+          ) [ReadStatement]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementActPars(
+            DesignatorNode(
+              SingleIdentExpr(
+               prnt
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+            NoActAprsNode(
+            ) [NoActAprsNode]
+          ) [DesignatorStatementActPars]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:21:36,450 - ===================================
+INFO  01:21:36,454 - Definisana konstanta (0)b1 na liniji 3
+INFO  01:21:36,454 - Deklarisana single promenljiva b2 na liniji 4
+INFO  01:21:36,454 - Definisana funkcija prnt na liniji 8
+INFO  01:21:36,455 - Definisana funkcija main na liniji 12
+INFO  01:21:36,455 - Pronadjen poziv funkcije prnt sa 0/0 argumenta na liniji 16
+INFO  01:21:36,455 - main funkcija je korektna.  na liniji 12
+INFO  01:21:36,455 - ===================================
+INFO  01:21:36,464 - Parsiranje uspesno zavrseno!

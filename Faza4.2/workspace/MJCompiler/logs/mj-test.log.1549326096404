@@ -1,0 +1,141 @@
+INFO  01:19:21,339 - Putanja iz argumenta: test/program.mj
+INFO  01:19:21,339 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  01:19:21,371 - #2 program
+INFO  01:19:21,371 - #45 MyProgram
+INFO  01:19:21,371 - #8 const
+INFO  01:19:21,372 - #45 bool
+INFO  01:19:21,372 - #45 b1
+INFO  01:19:21,372 - #26 =
+INFO  01:19:21,372 - #47 0
+INFO  01:19:21,372 - #18 ;
+INFO  01:19:21,373 - #45 bool
+INFO  01:19:21,373 - #45 b2
+INFO  01:19:21,373 - #18 ;
+INFO  01:19:21,374 - #12 {
+INFO  01:19:21,374 - #39 void
+INFO  01:19:21,374 - #45 prnt
+INFO  01:19:21,374 - #16 (
+INFO  01:19:21,375 - #17 )
+INFO  01:19:21,375 - #12 {
+INFO  01:19:21,375 - #13 }
+INFO  01:19:21,376 - #39 void
+INFO  01:19:21,376 - #45 main
+INFO  01:19:21,377 - #16 (
+INFO  01:19:21,377 - #17 )
+INFO  01:19:21,377 - #12 {
+INFO  01:19:21,377 - #37 read
+INFO  01:19:21,377 - #16 (
+INFO  01:19:21,377 - #45 b2
+INFO  01:19:21,377 - #17 )
+INFO  01:19:21,377 - #18 ;
+INFO  01:19:21,377 - #45 prnt
+INFO  01:19:21,377 - #16 (
+INFO  01:19:21,377 - #17 )
+INFO  01:19:21,378 - #18 ;
+INFO  01:19:21,378 - #13 }
+INFO  01:19:21,378 - #13 }
+INFO  01:19:21,382 - Program(
+  ProgName(
+   MyProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDecl(
+      ) [NoDecl]
+      ConstDeclaration(
+        ConstDeclNode(
+          ConstDeclType(
+            TypeNode(
+             bool
+            ) [TypeNode]
+          ) [ConstDeclType]
+          SingleConstant(
+            IdentEqualConstantNode(
+             b1
+              BooleanNode(
+               0
+              ) [BooleanNode]
+            ) [IdentEqualConstantNode]
+          ) [SingleConstant]
+        ) [ConstDeclNode]
+      ) [ConstDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDeclNode(
+        VarDeclType(
+          TypeNode(
+           bool
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           b2
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          VoidType(
+          ) [VoidType]
+         prnt
+        ) [MethodTypeName]
+        NoFormalParam(
+        ) [NoFormalParam]
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        MethodLBRACE(
+        ) [MethodLBRACE]
+        NoStatement(
+        ) [NoStatement]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          ReadStatement(
+            DesignatorNode(
+              SingleIdentExpr(
+               b2
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+          ) [ReadStatement]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementActPars(
+            DesignatorNode(
+              SingleIdentExpr(
+               prnt
+              ) [SingleIdentExpr]
+            ) [DesignatorNode]
+            NoActAprsNode(
+            ) [NoActAprsNode]
+          ) [DesignatorStatementActPars]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:19:21,382 - ===================================
+INFO  01:19:21,385 - Definisana konstanta (0)b1 na liniji 3
+INFO  01:19:21,385 - Deklarisana single promenljiva b2 na liniji 4
+INFO  01:19:21,385 - Definisana funkcija prnt na liniji 8
+INFO  01:19:21,385 - Definisana funkcija main na liniji 12

@@ -1,0 +1,56 @@
+INFO  17:16:42,578 - Putanja iz argumenta: test/program.mj
+INFO  17:16:42,578 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  17:16:42,610 - #2 program
+INFO  17:16:42,610 - #45 Program
+INFO  17:16:42,610 - #12 {
+INFO  17:16:42,611 - #39 void
+INFO  17:16:42,611 - #45 main
+INFO  17:16:42,611 - #16 (
+INFO  17:16:42,612 - #17 )
+INFO  17:16:42,612 - #12 {
+INFO  17:16:42,612 - #11 print
+INFO  17:16:42,612 - #16 (
+INFO  17:16:42,612 - #44 1
+INFO  17:16:42,613 - #17 )
+INFO  17:16:42,613 - #18 ;
+INFO  17:16:42,613 - #13 }
+INFO  17:16:42,613 - #13 }
+INFO  17:16:42,617 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      Statements(
+        NoStatement(
+        ) [NoStatement]
+        PrintStatement(
+          SingleExpression(
+            TermFactor(
+              ConstantNumber(
+               1
+              ) [ConstantNumber]
+            ) [TermFactor]
+          ) [SingleExpression]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:16:42,617 - ===================================
+INFO  17:16:42,620 - Definisana funkcija main na liniji 5
+INFO  17:16:42,620 - main funkcija je korektna.  na liniji 5
+INFO  17:16:42,620 - ===================================

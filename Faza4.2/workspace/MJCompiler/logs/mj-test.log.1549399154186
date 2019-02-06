@@ -1,0 +1,771 @@
+INFO  21:38:38,773 - Putanja iz argumenta: test/program.mj
+INFO  21:38:38,774 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  21:38:38,808 - #2 program
+INFO  21:38:38,808 - #45 MJProgram
+INFO  21:38:38,808 - #45 int
+INFO  21:38:38,809 - #45 x
+INFO  21:38:38,809 - #18 ;
+INFO  21:38:38,809 - #45 int
+INFO  21:38:38,810 - #45 y
+INFO  21:38:38,810 - #19 ,
+INFO  21:38:38,810 - #45 z
+INFO  21:38:38,810 - #18 ;
+INFO  21:38:38,810 - #45 int
+INFO  21:38:38,810 - #45 arr
+INFO  21:38:38,810 - #14 [
+INFO  21:38:38,810 - #15 ]
+INFO  21:38:38,810 - #18 ;
+INFO  21:38:38,810 - #8 const
+INFO  21:38:38,810 - #45 int
+INFO  21:38:38,810 - #45 X
+INFO  21:38:38,811 - #26 =
+INFO  21:38:38,811 - #44 2
+INFO  21:38:38,811 - #19 ,
+INFO  21:38:38,811 - #45 Y
+INFO  21:38:38,811 - #26 =
+INFO  21:38:38,811 - #44 4
+INFO  21:38:38,811 - #18 ;
+INFO  21:38:38,812 - #8 const
+INFO  21:38:38,812 - #45 char
+INFO  21:38:38,812 - #45 C
+INFO  21:38:38,812 - #26 =
+INFO  21:38:38,812 - #46 _
+INFO  21:38:38,812 - #18 ;
+INFO  21:38:38,812 - #8 const
+INFO  21:38:38,812 - #45 bool
+INFO  21:38:38,812 - #45 B
+INFO  21:38:38,812 - #26 =
+INFO  21:38:38,812 - #47 0
+INFO  21:38:38,812 - #18 ;
+INFO  21:38:38,812 - #6 enum
+INFO  21:38:38,813 - #45 ThingA
+INFO  21:38:38,813 - #12 {
+INFO  21:38:38,813 - #45 FirstThing
+INFO  21:38:38,813 - #19 ,
+INFO  21:38:38,813 - #45 SecondThing
+INFO  21:38:38,813 - #26 =
+INFO  21:38:38,813 - #44 4
+INFO  21:38:38,813 - #19 ,
+INFO  21:38:38,813 - #45 ThirdThing
+INFO  21:38:38,813 - #19 ,
+INFO  21:38:38,813 - #45 FourthThing
+INFO  21:38:38,814 - #26 =
+INFO  21:38:38,814 - #44 7
+INFO  21:38:38,814 - #13 }
+INFO  21:38:38,814 - #6 enum
+INFO  21:38:38,814 - #45 ThingB
+INFO  21:38:38,814 - #12 {
+INFO  21:38:38,814 - #45 OneThing
+INFO  21:38:38,814 - #26 =
+INFO  21:38:38,814 - #44 2
+INFO  21:38:38,814 - #19 ,
+INFO  21:38:38,814 - #45 SecondThing
+INFO  21:38:38,814 - #19 ,
+INFO  21:38:38,814 - #45 ThreeThing
+INFO  21:38:38,814 - #19 ,
+INFO  21:38:38,814 - #45 FourThing
+INFO  21:38:38,814 - #13 }
+INFO  21:38:38,814 - #5 interface
+INFO  21:38:38,814 - #45 Fejs
+INFO  21:38:38,814 - #12 {
+INFO  21:38:38,815 - #39 void
+INFO  21:38:38,815 - #45 k
+INFO  21:38:38,815 - #16 (
+INFO  21:38:38,815 - #17 )
+INFO  21:38:38,816 - #18 ;
+INFO  21:38:38,816 - #13 }
+INFO  21:38:38,816 - #4 class
+INFO  21:38:38,816 - #45 Klasa
+INFO  21:38:38,816 - #42 implements
+INFO  21:38:38,817 - #45 Fejs
+INFO  21:38:38,817 - #12 {
+INFO  21:38:38,817 - #45 int
+INFO  21:38:38,817 - #45 k1
+INFO  21:38:38,818 - #19 ,
+INFO  21:38:38,818 - #45 k2
+INFO  21:38:38,818 - #19 ,
+INFO  21:38:38,818 - #45 k3
+INFO  21:38:38,818 - #18 ;
+INFO  21:38:38,818 - #45 bool
+INFO  21:38:38,818 - #45 b1
+INFO  21:38:38,818 - #19 ,
+INFO  21:38:38,818 - #45 b2
+INFO  21:38:38,818 - #18 ;
+INFO  21:38:38,818 - #12 {
+INFO  21:38:38,818 - #39 void
+INFO  21:38:38,819 - #45 f
+INFO  21:38:38,819 - #16 (
+INFO  21:38:38,819 - #45 int
+INFO  21:38:38,819 - #45 x
+INFO  21:38:38,819 - #17 )
+INFO  21:38:38,819 - #12 {
+INFO  21:38:38,820 - #13 }
+INFO  21:38:38,820 - #39 void
+INFO  21:38:38,821 - #45 f2
+INFO  21:38:38,821 - #16 (
+INFO  21:38:38,821 - #45 int
+INFO  21:38:38,821 - #45 x
+INFO  21:38:38,821 - #17 )
+INFO  21:38:38,821 - #12 {
+INFO  21:38:38,821 - #13 }
+INFO  21:38:38,821 - #13 }
+INFO  21:38:38,821 - #13 }
+INFO  21:38:38,821 - #4 class
+INFO  21:38:38,821 - #45 Klasa2
+INFO  21:38:38,821 - #42 implements
+INFO  21:38:38,821 - #45 Fejs
+INFO  21:38:38,821 - #12 {
+INFO  21:38:38,821 - #45 Klasa
+INFO  21:38:38,821 - #45 k
+INFO  21:38:38,822 - #18 ;
+INFO  21:38:38,822 - #45 bool
+INFO  21:38:38,822 - #45 b1
+INFO  21:38:38,822 - #19 ,
+INFO  21:38:38,822 - #45 b2
+INFO  21:38:38,822 - #18 ;
+INFO  21:38:38,822 - #12 {
+INFO  21:38:38,822 - #39 void
+INFO  21:38:38,822 - #45 f
+INFO  21:38:38,822 - #16 (
+INFO  21:38:38,822 - #45 int
+INFO  21:38:38,822 - #45 x
+INFO  21:38:38,822 - #17 )
+INFO  21:38:38,822 - #12 {
+INFO  21:38:38,823 - #13 }
+INFO  21:38:38,823 - #39 void
+INFO  21:38:38,823 - #45 f2
+INFO  21:38:38,823 - #16 (
+INFO  21:38:38,823 - #45 int
+INFO  21:38:38,823 - #45 x
+INFO  21:38:38,823 - #17 )
+INFO  21:38:38,823 - #12 {
+INFO  21:38:38,823 - #13 }
+INFO  21:38:38,823 - #13 }
+INFO  21:38:38,824 - #13 }
+INFO  21:38:38,824 - #45 Klasa2
+INFO  21:38:38,824 - #45 a
+INFO  21:38:38,824 - #18 ;
+INFO  21:38:38,824 - #12 {
+INFO  21:38:38,824 - #39 void
+INFO  21:38:38,824 - #45 main
+INFO  21:38:38,824 - #16 (
+INFO  21:38:38,824 - #17 )
+INFO  21:38:38,824 - #12 {
+INFO  21:38:38,824 - #45 a
+INFO  21:38:38,824 - #20 .
+INFO  21:38:38,824 - #45 k
+INFO  21:38:38,824 - #20 .
+INFO  21:38:38,824 - #45 k2
+INFO  21:38:38,824 - #26 =
+INFO  21:38:38,824 - #45 ThingA
+INFO  21:38:38,825 - #20 .
+INFO  21:38:38,825 - #45 FirstThing
+INFO  21:38:38,825 - #18 ;
+INFO  21:38:38,825 - #45 a
+INFO  21:38:38,825 - #20 .
+INFO  21:38:38,825 - #45 f
+INFO  21:38:38,825 - #16 (
+INFO  21:38:38,825 - #45 x
+INFO  21:38:38,825 - #17 )
+INFO  21:38:38,826 - #18 ;
+INFO  21:38:38,826 - #45 Fejs
+INFO  21:38:38,826 - #20 .
+INFO  21:38:38,826 - #45 k
+INFO  21:38:38,826 - #16 (
+INFO  21:38:38,826 - #17 )
+INFO  21:38:38,826 - #18 ;
+INFO  21:38:38,826 - #13 }
+INFO  21:38:38,826 - #13 }
+INFO  21:38:38,833 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      Declarations(
+        Declarations(
+          Declarations(
+            Declarations(
+              Declarations(
+                Declarations(
+                  Declarations(
+                    Declarations(
+                      Declarations(
+                        Declarations(
+                          NoDecl(
+                          ) [NoDecl]
+                          VarDeclaration(
+                            GlobalVarDeclNode(
+                              VarDeclType(
+                                TypeNode(
+                                 int
+                                ) [TypeNode]
+                              ) [VarDeclType]
+                              SingleVariable(
+                                VariableNoBracket(
+                                 x
+                                ) [VariableNoBracket]
+                              ) [SingleVariable]
+                            ) [GlobalVarDeclNode]
+                          ) [VarDeclaration]
+                        ) [Declarations]
+                        VarDeclaration(
+                          GlobalVarDeclNode(
+                            VarDeclType(
+                              TypeNode(
+                               int
+                              ) [TypeNode]
+                            ) [VarDeclType]
+                            Variables(
+                              SingleVariable(
+                                VariableNoBracket(
+                                 y
+                                ) [VariableNoBracket]
+                              ) [SingleVariable]
+                              VariableNoBracket(
+                               z
+                              ) [VariableNoBracket]
+                            ) [Variables]
+                          ) [GlobalVarDeclNode]
+                        ) [VarDeclaration]
+                      ) [Declarations]
+                      VarDeclaration(
+                        GlobalVarDeclNode(
+                          VarDeclType(
+                            TypeNode(
+                             int
+                            ) [TypeNode]
+                          ) [VarDeclType]
+                          SingleVariable(
+                            VariableBracket(
+                             arr
+                            ) [VariableBracket]
+                          ) [SingleVariable]
+                        ) [GlobalVarDeclNode]
+                      ) [VarDeclaration]
+                    ) [Declarations]
+                    ConstDeclaration(
+                      ConstDeclNode(
+                        ConstDeclType(
+                          TypeNode(
+                           int
+                          ) [TypeNode]
+                        ) [ConstDeclType]
+                        Constants(
+                          SingleConstant(
+                            IdentEqualConstantNode(
+                             X
+                              NumberNode(
+                               2
+                              ) [NumberNode]
+                            ) [IdentEqualConstantNode]
+                          ) [SingleConstant]
+                          IdentEqualConstantNode(
+                           Y
+                            NumberNode(
+                             4
+                            ) [NumberNode]
+                          ) [IdentEqualConstantNode]
+                        ) [Constants]
+                      ) [ConstDeclNode]
+                    ) [ConstDeclaration]
+                  ) [Declarations]
+                  ConstDeclaration(
+                    ConstDeclNode(
+                      ConstDeclType(
+                        TypeNode(
+                         char
+                        ) [TypeNode]
+                      ) [ConstDeclType]
+                      SingleConstant(
+                        IdentEqualConstantNode(
+                         C
+                          CharNode(
+                           _
+                          ) [CharNode]
+                        ) [IdentEqualConstantNode]
+                      ) [SingleConstant]
+                    ) [ConstDeclNode]
+                  ) [ConstDeclaration]
+                ) [Declarations]
+                ConstDeclaration(
+                  ConstDeclNode(
+                    ConstDeclType(
+                      TypeNode(
+                       bool
+                      ) [TypeNode]
+                    ) [ConstDeclType]
+                    SingleConstant(
+                      IdentEqualConstantNode(
+                       B
+                        BooleanNode(
+                         0
+                        ) [BooleanNode]
+                      ) [IdentEqualConstantNode]
+                    ) [SingleConstant]
+                  ) [ConstDeclNode]
+                ) [ConstDeclaration]
+              ) [Declarations]
+              EnumDeclaration(
+                EnumDeclarationNode(
+                  EnumIdent(
+                   ThingA
+                  ) [EnumIdent]
+                  Enumerations(
+                    Enumerations(
+                      Enumerations(
+                        SingleEnumeration(
+                          EnumerationNoVal(
+                           FirstThing
+                          ) [EnumerationNoVal]
+                        ) [SingleEnumeration]
+                        EnumerationVal(
+                         SecondThing
+                         4
+                        ) [EnumerationVal]
+                      ) [Enumerations]
+                      EnumerationNoVal(
+                       ThirdThing
+                      ) [EnumerationNoVal]
+                    ) [Enumerations]
+                    EnumerationVal(
+                     FourthThing
+                     7
+                    ) [EnumerationVal]
+                  ) [Enumerations]
+                ) [EnumDeclarationNode]
+              ) [EnumDeclaration]
+            ) [Declarations]
+            EnumDeclaration(
+              EnumDeclarationNode(
+                EnumIdent(
+                 ThingB
+                ) [EnumIdent]
+                Enumerations(
+                  Enumerations(
+                    Enumerations(
+                      SingleEnumeration(
+                        EnumerationVal(
+                         OneThing
+                         2
+                        ) [EnumerationVal]
+                      ) [SingleEnumeration]
+                      EnumerationNoVal(
+                       SecondThing
+                      ) [EnumerationNoVal]
+                    ) [Enumerations]
+                    EnumerationNoVal(
+                     ThreeThing
+                    ) [EnumerationNoVal]
+                  ) [Enumerations]
+                  EnumerationNoVal(
+                   FourThing
+                  ) [EnumerationNoVal]
+                ) [Enumerations]
+              ) [EnumDeclarationNode]
+            ) [EnumDeclaration]
+          ) [Declarations]
+          InterfaceDeclaration(
+            InterfaceDeclarationNode(
+              InterfaceIdent(
+               Fejs
+              ) [InterfaceIdent]
+              InterfaceMethodDeclarations(
+                NoInterfaceMethodDeclaration(
+                ) [NoInterfaceMethodDeclaration]
+                InterfaceMethodDeclarationWithParams(
+                  VoidType(
+                  ) [VoidType]
+                 k
+                  NoFormalParam(
+                  ) [NoFormalParam]
+                ) [InterfaceMethodDeclarationWithParams]
+              ) [InterfaceMethodDeclarations]
+            ) [InterfaceDeclarationNode]
+          ) [InterfaceDeclaration]
+        ) [Declarations]
+        ClassDeclaration(
+          ClassDeclarationWithMethods(
+            ClassDeclIdent(
+             Klasa
+            ) [ClassDeclIdent]
+            NoExtension(
+            ) [NoExtension]
+            Implementation(
+              SinglType(
+                TypeNode(
+                 Fejs
+                ) [TypeNode]
+              ) [SinglType]
+            ) [Implementation]
+            ClassVarDeclarationList(
+              ClassVarDeclarationList(
+                NoClassVarDeclaration(
+                ) [NoClassVarDeclaration]
+                ClassVarDeclNode(
+                  ClassVarDeclType(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                  ) [ClassVarDeclType]
+                  ClassVariables(
+                    ClassVariables(
+                      SingleClassVariable(
+                        VariableNoBracket(
+                         k1
+                        ) [VariableNoBracket]
+                      ) [SingleClassVariable]
+                      VariableNoBracket(
+                       k2
+                      ) [VariableNoBracket]
+                    ) [ClassVariables]
+                    VariableNoBracket(
+                     k3
+                    ) [VariableNoBracket]
+                  ) [ClassVariables]
+                ) [ClassVarDeclNode]
+              ) [ClassVarDeclarationList]
+              ClassVarDeclNode(
+                ClassVarDeclType(
+                  TypeNode(
+                   bool
+                  ) [TypeNode]
+                ) [ClassVarDeclType]
+                ClassVariables(
+                  SingleClassVariable(
+                    VariableNoBracket(
+                     b1
+                    ) [VariableNoBracket]
+                  ) [SingleClassVariable]
+                  VariableNoBracket(
+                   b2
+                  ) [VariableNoBracket]
+                ) [ClassVariables]
+              ) [ClassVarDeclNode]
+            ) [ClassVarDeclarationList]
+            ClassMethodDeclarations(
+              ClassMethodDeclarations(
+                NoClassMethodDecl(
+                ) [NoClassMethodDecl]
+                MethodDecl(
+                  MethodTypeName(
+                    VoidType(
+                    ) [VoidType]
+                   f
+                  ) [MethodTypeName]
+                  FormalParams(
+                    SingleFormalParamDecl(
+                      FormalParamDeclarationNoBrackets(
+                        TypeNode(
+                         int
+                        ) [TypeNode]
+                       x
+                      ) [FormalParamDeclarationNoBrackets]
+                    ) [SingleFormalParamDecl]
+                  ) [FormalParams]
+                  NoVarDeclaration(
+                  ) [NoVarDeclaration]
+                  MethodLBRACE(
+                  ) [MethodLBRACE]
+                  NoStatement(
+                  ) [NoStatement]
+                ) [MethodDecl]
+              ) [ClassMethodDeclarations]
+              MethodDecl(
+                MethodTypeName(
+                  VoidType(
+                  ) [VoidType]
+                 f2
+                ) [MethodTypeName]
+                FormalParams(
+                  SingleFormalParamDecl(
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     x
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [SingleFormalParamDecl]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                MethodLBRACE(
+                ) [MethodLBRACE]
+                NoStatement(
+                ) [NoStatement]
+              ) [MethodDecl]
+            ) [ClassMethodDeclarations]
+          ) [ClassDeclarationWithMethods]
+        ) [ClassDeclaration]
+      ) [Declarations]
+      ClassDeclaration(
+        ClassDeclarationWithMethods(
+          ClassDeclIdent(
+           Klasa2
+          ) [ClassDeclIdent]
+          NoExtension(
+          ) [NoExtension]
+          Implementation(
+            SinglType(
+              TypeNode(
+               Fejs
+              ) [TypeNode]
+            ) [SinglType]
+          ) [Implementation]
+          ClassVarDeclarationList(
+            ClassVarDeclarationList(
+              NoClassVarDeclaration(
+              ) [NoClassVarDeclaration]
+              ClassVarDeclNode(
+                ClassVarDeclType(
+                  TypeNode(
+                   Klasa
+                  ) [TypeNode]
+                ) [ClassVarDeclType]
+                SingleClassVariable(
+                  VariableNoBracket(
+                   k
+                  ) [VariableNoBracket]
+                ) [SingleClassVariable]
+              ) [ClassVarDeclNode]
+            ) [ClassVarDeclarationList]
+            ClassVarDeclNode(
+              ClassVarDeclType(
+                TypeNode(
+                 bool
+                ) [TypeNode]
+              ) [ClassVarDeclType]
+              ClassVariables(
+                SingleClassVariable(
+                  VariableNoBracket(
+                   b1
+                  ) [VariableNoBracket]
+                ) [SingleClassVariable]
+                VariableNoBracket(
+                 b2
+                ) [VariableNoBracket]
+              ) [ClassVariables]
+            ) [ClassVarDeclNode]
+          ) [ClassVarDeclarationList]
+          ClassMethodDeclarations(
+            ClassMethodDeclarations(
+              NoClassMethodDecl(
+              ) [NoClassMethodDecl]
+              MethodDecl(
+                MethodTypeName(
+                  VoidType(
+                  ) [VoidType]
+                 f
+                ) [MethodTypeName]
+                FormalParams(
+                  SingleFormalParamDecl(
+                    FormalParamDeclarationNoBrackets(
+                      TypeNode(
+                       int
+                      ) [TypeNode]
+                     x
+                    ) [FormalParamDeclarationNoBrackets]
+                  ) [SingleFormalParamDecl]
+                ) [FormalParams]
+                NoVarDeclaration(
+                ) [NoVarDeclaration]
+                MethodLBRACE(
+                ) [MethodLBRACE]
+                NoStatement(
+                ) [NoStatement]
+              ) [MethodDecl]
+            ) [ClassMethodDeclarations]
+            MethodDecl(
+              MethodTypeName(
+                VoidType(
+                ) [VoidType]
+               f2
+              ) [MethodTypeName]
+              FormalParams(
+                SingleFormalParamDecl(
+                  FormalParamDeclarationNoBrackets(
+                    TypeNode(
+                     int
+                    ) [TypeNode]
+                   x
+                  ) [FormalParamDeclarationNoBrackets]
+                ) [SingleFormalParamDecl]
+              ) [FormalParams]
+              NoVarDeclaration(
+              ) [NoVarDeclaration]
+              MethodLBRACE(
+              ) [MethodLBRACE]
+              NoStatement(
+              ) [NoStatement]
+            ) [MethodDecl]
+          ) [ClassMethodDeclarations]
+        ) [ClassDeclarationWithMethods]
+      ) [ClassDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      GlobalVarDeclNode(
+        VarDeclType(
+          TypeNode(
+           Klasa2
+          ) [TypeNode]
+        ) [VarDeclType]
+        SingleVariable(
+          VariableNoBracket(
+           a
+          ) [VariableNoBracket]
+        ) [SingleVariable]
+      ) [GlobalVarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      NoVarDeclaration(
+      ) [NoVarDeclaration]
+      MethodLBRACE(
+      ) [MethodLBRACE]
+      Statements(
+        Statements(
+          Statements(
+            NoStatement(
+            ) [NoStatement]
+            DesignatorStatementOnly(
+              DesignatorStatementAssignop(
+                DesignatorNode(
+                  Idents(
+                    Idents(
+                      SingleIdentExpr(
+                       a
+                      ) [SingleIdentExpr]
+                     k
+                    ) [Idents]
+                   k2
+                  ) [Idents]
+                ) [DesignatorNode]
+                Assignop(
+                ) [Assignop]
+                SingleExpression(
+                  TermFactor(
+                    DesignatorEmpty(
+                      DesignatorNode(
+                        Idents(
+                          SingleIdentExpr(
+                           ThingA
+                          ) [SingleIdentExpr]
+                         FirstThing
+                        ) [Idents]
+                      ) [DesignatorNode]
+                    ) [DesignatorEmpty]
+                  ) [TermFactor]
+                ) [SingleExpression]
+              ) [DesignatorStatementAssignop]
+            ) [DesignatorStatementOnly]
+          ) [Statements]
+          DesignatorStatementOnly(
+            DesignatorStatementActPars(
+              DesignatorNode(
+                Idents(
+                  SingleIdentExpr(
+                   a
+                  ) [SingleIdentExpr]
+                 f
+                ) [Idents]
+              ) [DesignatorNode]
+              ActParsNode(
+                SingleActualParam(
+                  SingleExpression(
+                    TermFactor(
+                      DesignatorEmpty(
+                        DesignatorNode(
+                          SingleIdentExpr(
+                           x
+                          ) [SingleIdentExpr]
+                        ) [DesignatorNode]
+                      ) [DesignatorEmpty]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [SingleActualParam]
+              ) [ActParsNode]
+            ) [DesignatorStatementActPars]
+          ) [DesignatorStatementOnly]
+        ) [Statements]
+        DesignatorStatementOnly(
+          DesignatorStatementActPars(
+            DesignatorNode(
+              Idents(
+                SingleIdentExpr(
+                 Fejs
+                ) [SingleIdentExpr]
+               k
+              ) [Idents]
+            ) [DesignatorNode]
+            NoActAprsNode(
+            ) [NoActAprsNode]
+          ) [DesignatorStatementActPars]
+        ) [DesignatorStatementOnly]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:38:38,833 - ===================================
+INFO  21:38:38,837 - Deklarisana single promenljiva x na liniji 5
+INFO  21:38:38,837 - Deklarisana single promenljiva y na liniji 5
+INFO  21:38:38,837 - Deklarisana single promenljiva z na liniji 5
+INFO  21:38:38,837 - Deklarisana array promenljiva arr na liniji 6
+INFO  21:38:38,837 - Definisana konstanta (2)X na liniji 7
+INFO  21:38:38,837 - Definisana konstanta (4)Y na liniji 7
+INFO  21:38:38,837 - Definisana konstanta (95)C na liniji 8
+INFO  21:38:38,837 - Definisana konstanta (0)B na liniji 9
+INFO  21:38:38,837 - Deklarisan novi enum tip: ThingA na liniji 11
+INFO  21:38:38,838 - Definisana enum konstanta FirstThing sa vrednoscu 0 na liniji 11
+INFO  21:38:38,838 - Definisana enum konstanta SecondThing sa vrednoscu 4 na liniji 11
+INFO  21:38:38,838 - Definisana enum konstanta ThirdThing sa vrednoscu 5 na liniji 11
+INFO  21:38:38,838 - Definisana enum konstanta FourthThing sa vrednoscu 7 na liniji 11
+INFO  21:38:38,838 - Deklarisan novi enum tip: ThingB na liniji 12
+INFO  21:38:38,838 - Definisana enum konstanta OneThing sa vrednoscu 2 na liniji 12
+INFO  21:38:38,838 - Definisana enum konstanta SecondThing sa vrednoscu 3 na liniji 12
+INFO  21:38:38,838 - Definisana enum konstanta ThreeThing sa vrednoscu 4 na liniji 12
+INFO  21:38:38,838 - Definisana enum konstanta FourThing sa vrednoscu 5 na liniji 12
+INFO  21:38:38,838 - Deklarisana metoda k u okviru interfejsa Fejs na liniji 15
+INFO  21:38:38,838 - Deklarisan novi interfejs: Fejs na liniji 14
+INFO  21:38:38,838 - Deklarisano single polje k1 na liniji 19
+INFO  21:38:38,838 - Deklarisano single polje k2 na liniji 19
+INFO  21:38:38,838 - Deklarisano single polje k3 na liniji 19
+INFO  21:38:38,838 - Deklarisano single polje b1 na liniji 20
+INFO  21:38:38,838 - Deklarisano single polje b2 na liniji 20
+INFO  21:38:38,838 - Deklarisana metoda f u okviru klase Klasa na liniji 22
+INFO  21:38:38,838 - Deklarisan single argument x na liniji 22
+INFO  21:38:38,838 - Deklarisana metoda f2 u okviru klase Klasa na liniji 25
+INFO  21:38:38,838 - Deklarisan single argument x na liniji 25
+INFO  21:38:38,838 - Deklarisana nova klasa: Klasa na liniji 18
+INFO  21:38:38,839 - Deklarisano single polje k na liniji 31
+INFO  21:38:38,839 - Deklarisano single polje b1 na liniji 32
+INFO  21:38:38,839 - Deklarisano single polje b2 na liniji 32
+INFO  21:38:38,839 - Deklarisana metoda f u okviru klase Klasa2 na liniji 34
+INFO  21:38:38,839 - Deklarisan single argument x na liniji 34
+INFO  21:38:38,839 - Deklarisana metoda f2 u okviru klase Klasa2 na liniji 37
+INFO  21:38:38,839 - Deklarisan single argument x na liniji 37
+INFO  21:38:38,839 - Deklarisana nova klasa: Klasa2 na liniji 30
+INFO  21:38:38,839 - Deklarisana single promenljiva a na liniji 42
+INFO  21:38:38,839 - Definisana funkcija main na liniji 44
+INFO  21:38:38,839 - Izabrano polje : .k
+INFO  21:38:38,839 - Izabrano polje : .k2
+INFO  21:38:38,839 - Izabrano polje : .FirstThing
+INFO  21:38:38,839 - Pronadjen poziv promenljive [Con FirstThing: int, 0, 1 ] na liniji 45
+INFO  21:38:38,840 - Dodela vrednosti za k2 na liniji 45
+INFO  21:38:38,840 - Izabrano polje : .f
+INFO  21:38:38,840 - Pronadjen poziv promenljive [Var x: int, 0, 0 ] na liniji 46
+INFO  21:38:38,840 - Pronadjen poziv funkcije f sa 1/1 argumenta na liniji 46
+ERROR 21:38:38,840 - Greska na liniji 47 : podrzani samo Enum i Class tipovi. 
+ERROR 21:38:38,840 - Greska na liniji 47 : ime noObj nije funkcija!
+INFO  21:38:38,840 - main funkcija je korektna.  na liniji 44
+INFO  21:38:38,840 - ===================================
+ERROR 21:38:38,840 - Parsiranje NIJE uspesno zavrseno!

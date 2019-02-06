@@ -1,0 +1,116 @@
+INFO  04:22:09,394 - Putanja iz argumenta: test/program.mj
+INFO  04:22:09,394 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  04:22:09,428 - #2 program
+INFO  04:22:09,429 - #45 MyProgram
+INFO  04:22:09,429 - #4 class
+INFO  04:22:09,429 - #45 P
+INFO  04:22:09,429 - #8 const
+ERROR 04:22:09,429 - 
+Sintaksna greska na liniji 4
+INFO  04:22:09,429 - #45 int
+INFO  04:22:09,429 - #45 size
+INFO  04:22:09,429 - #26 =
+INFO  04:22:09,430 - #44 10
+INFO  04:22:09,430 - #18 ;
+INFO  04:22:09,430 - #45 int
+INFO  04:22:09,430 - #45 pos
+INFO  04:22:09,430 - #14 [
+ERROR 04:22:09,430 - [Globalna prom.] Izvrsen oporavak do sledeceg ';' u liniji 3
+INFO  04:22:09,431 - #15 ]
+INFO  04:22:09,431 - #18 ;
+INFO  04:22:09,431 - #12 {
+INFO  04:22:09,432 - #39 void
+INFO  04:22:09,432 - #45 main
+INFO  04:22:09,432 - #16 (
+INFO  04:22:09,433 - #17 )
+INFO  04:22:09,433 - #45 int
+INFO  04:22:09,433 - #45 x
+INFO  04:22:09,433 - #19 ,
+INFO  04:22:09,433 - #45 i
+INFO  04:22:09,433 - #18 ;
+INFO  04:22:09,434 - #45 char
+INFO  04:22:09,434 - #45 x
+INFO  04:22:09,434 - #18 ;
+INFO  04:22:09,434 - #12 {
+INFO  04:22:09,434 - #45 x
+INFO  04:22:09,434 - #20 .
+INFO  04:22:09,434 - #45 i
+INFO  04:22:09,435 - #26 =
+INFO  04:22:09,435 - #44 1
+INFO  04:22:09,435 - #18 ;
+INFO  04:22:09,435 - #45 pos
+INFO  04:22:09,436 - #26 =
+INFO  04:22:09,436 - #10 new
+INFO  04:22:09,436 - #45 int
+INFO  04:22:09,436 - #14 [
+INFO  04:22:09,436 - #45 size
+INFO  04:22:09,436 - #15 ]
+INFO  04:22:09,436 - #18 ;
+INFO  04:22:09,436 - #45 i
+INFO  04:22:09,437 - #26 =
+INFO  04:22:09,437 - #44 0
+INFO  04:22:09,437 - #18 ;
+INFO  04:22:09,437 - #45 while
+INFO  04:22:09,437 - #16 (
+INFO  04:22:09,437 - #45 i
+INFO  04:22:09,437 - #33 <
+ERROR 04:22:09,437 - 
+Sintaksna greska na liniji 14
+INFO  04:22:09,437 - #45 size
+INFO  04:22:09,437 - #17 )
+INFO  04:22:09,437 - #12 {
+INFO  04:22:09,437 - #45 pos
+INFO  04:22:09,437 - #14 [
+INFO  04:22:09,437 - #45 i
+INFO  04:22:09,437 - #15 ]
+INFO  04:22:09,438 - #26 =
+INFO  04:22:09,438 - #44 0
+INFO  04:22:09,438 - #18 ;
+INFO  04:22:09,438 - #45 i
+INFO  04:22:09,438 - #27 ++
+INFO  04:22:09,438 - #18 ;
+ERROR 04:22:09,438 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 14
+INFO  04:22:09,438 - #13 }
+INFO  04:22:09,438 - #37 read
+ERROR 04:22:09,438 - 
+Sintaksna greska na liniji 19
+INFO  04:22:09,439 - #16 (
+INFO  04:22:09,439 - #45 x
+INFO  04:22:09,439 - #17 )
+INFO  04:22:09,439 - #18 ;
+INFO  04:22:09,439 - #45 while
+INFO  04:22:09,439 - #16 (
+INFO  04:22:09,439 - #45 x
+ERROR 04:22:09,439 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 17
+INFO  04:22:09,439 - #32 >=
+ERROR 04:22:09,439 - 
+Sintaksna greska na liniji 20
+INFO  04:22:09,439 - #44 0
+INFO  04:22:09,439 - #17 )
+INFO  04:22:09,439 - #12 {
+INFO  04:22:09,439 - #9 if
+INFO  04:22:09,439 - #16 (
+INFO  04:22:09,439 - #45 x
+INFO  04:22:09,440 - #33 <
+INFO  04:22:09,440 - #45 size
+INFO  04:22:09,440 - #17 )
+INFO  04:22:09,440 - #12 {
+INFO  04:22:09,440 - #45 pos
+INFO  04:22:09,440 - #14 [
+INFO  04:22:09,440 - #45 x
+INFO  04:22:09,440 - #15 ]
+INFO  04:22:09,440 - #27 ++
+INFO  04:22:09,440 - #18 ;
+INFO  04:22:09,440 - #13 }
+INFO  04:22:09,440 - #37 read
+INFO  04:22:09,440 - #16 (
+INFO  04:22:09,440 - #45 x
+INFO  04:22:09,440 - #17 )
+INFO  04:22:09,440 - #18 ;
+INFO  04:22:09,440 - #13 }
+INFO  04:22:09,440 - #13 }
+INFO  04:22:09,440 - #13 }
+ERROR 04:22:09,441 - [Dodela vrednosti] Izvrsen oporavak do sledeceg ';' u liniji 20
+ERROR 04:22:09,441 - 
+Sintaksna greska na liniji 27
+ERROR 04:22:09,441 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 27

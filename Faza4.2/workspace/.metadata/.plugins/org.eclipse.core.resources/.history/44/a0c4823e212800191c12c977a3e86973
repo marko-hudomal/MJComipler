@@ -1,0 +1,1099 @@
+INFO  01:45:57,052 - Putanja iz argumenta: test/program.mj
+INFO  01:45:57,052 - Compiling source file: D:\ETF\PP1\Projekat\workspace\MJCompiler\test\program.mj
+INFO  01:45:57,084 - #2 program
+INFO  01:45:57,084 - #45 Program
+INFO  01:45:57,085 - #45 int
+INFO  01:45:57,085 - #45 x
+INFO  01:45:57,086 - #19 ,
+INFO  01:45:57,086 - #45 y
+INFO  01:45:57,086 - #19 ,
+INFO  01:45:57,086 - #45 z
+INFO  01:45:57,086 - #19 ,
+INFO  01:45:57,086 - #45 arr
+INFO  01:45:57,086 - #14 [
+INFO  01:45:57,086 - #15 ]
+INFO  01:45:57,086 - #18 ;
+INFO  01:45:57,086 - #12 {
+INFO  01:45:57,087 - #39 void
+INFO  01:45:57,087 - #45 main
+INFO  01:45:57,087 - #16 (
+INFO  01:45:57,088 - #17 )
+INFO  01:45:57,088 - #45 int
+INFO  01:45:57,088 - #45 a
+INFO  01:45:57,089 - #19 ,
+INFO  01:45:57,089 - #45 b
+INFO  01:45:57,089 - #18 ;
+INFO  01:45:57,089 - #12 {
+INFO  01:45:57,089 - #45 a
+INFO  01:45:57,089 - #26 =
+INFO  01:45:57,089 - #44 3
+INFO  01:45:57,090 - #18 ;
+INFO  01:45:57,090 - #45 b
+INFO  01:45:57,090 - #26 =
+INFO  01:45:57,090 - #44 3
+INFO  01:45:57,090 - #18 ;
+INFO  01:45:57,090 - #9 if
+INFO  01:45:57,090 - #16 (
+INFO  01:45:57,091 - #45 a
+INFO  01:45:57,091 - #29 ==
+INFO  01:45:57,091 - #45 b
+INFO  01:45:57,091 - #17 )
+INFO  01:45:57,092 - #12 {
+INFO  01:45:57,092 - #9 if
+INFO  01:45:57,092 - #16 (
+INFO  01:45:57,092 - #45 a
+INFO  01:45:57,092 - #29 ==
+INFO  01:45:57,092 - #44 2
+INFO  01:45:57,092 - #17 )
+INFO  01:45:57,092 - #12 {
+INFO  01:45:57,092 - #11 print
+INFO  01:45:57,092 - #16 (
+INFO  01:45:57,092 - #44 1
+INFO  01:45:57,092 - #17 )
+INFO  01:45:57,092 - #18 ;
+INFO  01:45:57,092 - #13 }
+INFO  01:45:57,092 - #7 else
+INFO  01:45:57,093 - #12 {
+INFO  01:45:57,093 - #11 print
+INFO  01:45:57,093 - #16 (
+INFO  01:45:57,093 - #44 2
+INFO  01:45:57,093 - #17 )
+INFO  01:45:57,093 - #18 ;
+INFO  01:45:57,093 - #13 }
+INFO  01:45:57,093 - #11 print
+INFO  01:45:57,094 - #16 (
+INFO  01:45:57,094 - #44 3
+INFO  01:45:57,094 - #17 )
+INFO  01:45:57,094 - #18 ;
+INFO  01:45:57,094 - #13 }
+INFO  01:45:57,094 - #7 else
+INFO  01:45:57,094 - #12 {
+INFO  01:45:57,095 - #11 print
+INFO  01:45:57,095 - #16 (
+INFO  01:45:57,095 - #44 4
+INFO  01:45:57,095 - #17 )
+INFO  01:45:57,095 - #18 ;
+INFO  01:45:57,095 - #13 }
+INFO  01:45:57,095 - #9 if
+INFO  01:45:57,095 - #16 (
+INFO  01:45:57,095 - #45 b
+INFO  01:45:57,095 - #21 +
+INFO  01:45:57,095 - #44 1
+INFO  01:45:57,096 - #30 !=
+INFO  01:45:57,096 - #44 4
+INFO  01:45:57,096 - #17 )
+INFO  01:45:57,097 - #11 print
+INFO  01:45:57,097 - #16 (
+INFO  01:45:57,097 - #44 5
+INFO  01:45:57,097 - #17 )
+INFO  01:45:57,097 - #18 ;
+INFO  01:45:57,097 - #7 else
+INFO  01:45:57,097 - #9 if
+INFO  01:45:57,097 - #16 (
+INFO  01:45:57,097 - #45 b
+INFO  01:45:57,097 - #21 +
+INFO  01:45:57,097 - #44 2
+INFO  01:45:57,097 - #29 ==
+INFO  01:45:57,097 - #44 6
+INFO  01:45:57,097 - #22 -
+INFO  01:45:57,097 - #44 1
+INFO  01:45:57,097 - #23 *
+INFO  01:45:57,097 - #44 1
+INFO  01:45:57,098 - #17 )
+INFO  01:45:57,098 - #11 print
+INFO  01:45:57,098 - #16 (
+INFO  01:45:57,098 - #44 6
+INFO  01:45:57,099 - #17 )
+INFO  01:45:57,099 - #18 ;
+INFO  01:45:57,099 - #7 else
+INFO  01:45:57,099 - #12 {
+INFO  01:45:57,099 - #9 if
+INFO  01:45:57,099 - #16 (
+INFO  01:45:57,099 - #44 2
+INFO  01:45:57,099 - #29 ==
+INFO  01:45:57,099 - #44 0
+INFO  01:45:57,099 - #21 +
+INFO  01:45:57,099 - #44 2
+INFO  01:45:57,099 - #17 )
+INFO  01:45:57,099 - #9 if
+INFO  01:45:57,099 - #16 (
+INFO  01:45:57,099 - #44 2
+INFO  01:45:57,099 - #21 +
+INFO  01:45:57,099 - #44 1
+INFO  01:45:57,100 - #29 ==
+INFO  01:45:57,100 - #44 4
+INFO  01:45:57,100 - #22 -
+INFO  01:45:57,100 - #44 1
+INFO  01:45:57,100 - #17 )
+INFO  01:45:57,100 - #11 print
+INFO  01:45:57,100 - #16 (
+INFO  01:45:57,100 - #44 7
+INFO  01:45:57,100 - #17 )
+INFO  01:45:57,100 - #18 ;
+INFO  01:45:57,100 - #13 }
+INFO  01:45:57,101 - #9 if
+INFO  01:45:57,101 - #16 (
+INFO  01:45:57,101 - #47 1
+INFO  01:45:57,101 - #36 ||
+INFO  01:45:57,102 - #47 0
+INFO  01:45:57,102 - #36 ||
+INFO  01:45:57,102 - #47 1
+INFO  01:45:57,102 - #17 )
+INFO  01:45:57,102 - #12 {
+INFO  01:45:57,102 - #9 if
+INFO  01:45:57,102 - #16 (
+INFO  01:45:57,102 - #47 0
+INFO  01:45:57,102 - #36 ||
+INFO  01:45:57,102 - #47 0
+INFO  01:45:57,102 - #36 ||
+INFO  01:45:57,102 - #47 0
+INFO  01:45:57,102 - #36 ||
+INFO  01:45:57,103 - #44 3
+INFO  01:45:57,103 - #31 >
+INFO  01:45:57,103 - #44 2
+INFO  01:45:57,103 - #22 -
+INFO  01:45:57,103 - #44 1
+INFO  01:45:57,103 - #36 ||
+INFO  01:45:57,103 - #44 1
+INFO  01:45:57,103 - #29 ==
+INFO  01:45:57,103 - #44 2
+INFO  01:45:57,103 - #17 )
+INFO  01:45:57,103 - #11 print
+INFO  01:45:57,103 - #16 (
+INFO  01:45:57,104 - #46 Y
+INFO  01:45:57,104 - #17 )
+INFO  01:45:57,104 - #18 ;
+INFO  01:45:57,104 - #13 }
+INFO  01:45:57,104 - #7 else
+INFO  01:45:57,104 - #9 if
+INFO  01:45:57,104 - #16 (
+INFO  01:45:57,104 - #47 0
+INFO  01:45:57,104 - #36 ||
+INFO  01:45:57,104 - #47 0
+INFO  01:45:57,104 - #36 ||
+INFO  01:45:57,104 - #47 0
+INFO  01:45:57,104 - #36 ||
+INFO  01:45:57,104 - #45 a
+INFO  01:45:57,104 - #33 <
+INFO  01:45:57,104 - #44 2
+INFO  01:45:57,104 - #22 -
+INFO  01:45:57,104 - #44 1
+INFO  01:45:57,105 - #36 ||
+INFO  01:45:57,105 - #45 a
+INFO  01:45:57,105 - #23 *
+INFO  01:45:57,105 - #44 2
+INFO  01:45:57,105 - #22 -
+INFO  01:45:57,105 - #44 2
+INFO  01:45:57,105 - #29 ==
+INFO  01:45:57,105 - #45 b
+INFO  01:45:57,105 - #21 +
+INFO  01:45:57,105 - #44 2
+INFO  01:45:57,105 - #17 )
+INFO  01:45:57,105 - #11 print
+INFO  01:45:57,105 - #16 (
+INFO  01:45:57,105 - #46 U
+INFO  01:45:57,105 - #17 )
+INFO  01:45:57,105 - #18 ;
+INFO  01:45:57,105 - #9 if
+INFO  01:45:57,105 - #16 (
+INFO  01:45:57,105 - #44 1
+INFO  01:45:57,105 - #35 &&
+INFO  01:45:57,105 - #44 1
+INFO  01:45:57,105 - #17 )
+INFO  01:45:57,105 - #12 {
+INFO  01:45:57,105 - #13 }
+INFO  01:45:57,105 - #13 }
+INFO  01:45:57,105 - #13 }
+INFO  01:45:57,113 - Program(
+  ProgName(
+   Program
+  ) [ProgName]
+  Declarations(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclNode(
+        VarDeclType(
+          TypeNode(
+           int
+          ) [TypeNode]
+        ) [VarDeclType]
+        Variables(
+          Variables(
+            Variables(
+              SingleVariable(
+                VariableNoBracket(
+                 x
+                ) [VariableNoBracket]
+              ) [SingleVariable]
+              VariableNoBracket(
+               y
+              ) [VariableNoBracket]
+            ) [Variables]
+            VariableNoBracket(
+             z
+            ) [VariableNoBracket]
+          ) [Variables]
+          VariableBracket(
+           arr
+          ) [VariableBracket]
+        ) [Variables]
+      ) [VarDeclNode]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        VoidType(
+        ) [VoidType]
+       main
+      ) [MethodTypeName]
+      NoFormalParam(
+      ) [NoFormalParam]
+      VarDeclarationList(
+        NoVarDeclaration(
+        ) [NoVarDeclaration]
+        VarDeclNode(
+          VarDeclType(
+            TypeNode(
+             int
+            ) [TypeNode]
+          ) [VarDeclType]
+          Variables(
+            SingleVariable(
+              VariableNoBracket(
+               a
+              ) [VariableNoBracket]
+            ) [SingleVariable]
+            VariableNoBracket(
+             b
+            ) [VariableNoBracket]
+          ) [Variables]
+        ) [VarDeclNode]
+      ) [VarDeclarationList]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  DesignatorStatementOnly(
+                    DesignatorStatementAssignop(
+                      DesignatorNode(
+                        SingleIdentExpr(
+                         a
+                        ) [SingleIdentExpr]
+                      ) [DesignatorNode]
+                      Assignop(
+                      ) [Assignop]
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           3
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [DesignatorStatementAssignop]
+                  ) [DesignatorStatementOnly]
+                ) [Statements]
+                DesignatorStatementOnly(
+                  DesignatorStatementAssignop(
+                    DesignatorNode(
+                      SingleIdentExpr(
+                       b
+                      ) [SingleIdentExpr]
+                    ) [DesignatorNode]
+                    Assignop(
+                    ) [Assignop]
+                    SingleExpression(
+                      TermFactor(
+                        ConstantNumber(
+                         3
+                        ) [ConstantNumber]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [DesignatorStatementAssignop]
+                ) [DesignatorStatementOnly]
+              ) [Statements]
+              IfElseStatement(
+                IfConditionNode(
+                  ConditionNode(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpressionRelopExpression(
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    SingleIdentExpr(
+                                     a
+                                    ) [SingleIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                            RelopEqualEqual(
+                            ) [RelopEqualEqual]
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    SingleIdentExpr(
+                                     b
+                                    ) [SingleIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpressionRelopExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                  ) [ConditionNode]
+                ) [IfConditionNode]
+                IfStatementThen(
+                  InBraceStatement(
+                    Statements(
+                      Statements(
+                        NoStatement(
+                        ) [NoStatement]
+                        IfElseStatement(
+                          IfConditionNode(
+                            ConditionNode(
+                              SingleConditionTerm(
+                                ConditionTermNode(
+                                  SingleConditionFact(
+                                    CondFactExpressionRelopExpression(
+                                      SingleExpression(
+                                        TermFactor(
+                                          DesignatorEmpty(
+                                            DesignatorNode(
+                                              SingleIdentExpr(
+                                               a
+                                              ) [SingleIdentExpr]
+                                            ) [DesignatorNode]
+                                          ) [DesignatorEmpty]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                      RelopEqualEqual(
+                                      ) [RelopEqualEqual]
+                                      SingleExpression(
+                                        TermFactor(
+                                          ConstantNumber(
+                                           2
+                                          ) [ConstantNumber]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                    ) [CondFactExpressionRelopExpression]
+                                  ) [SingleConditionFact]
+                                ) [ConditionTermNode]
+                              ) [SingleConditionTerm]
+                            ) [ConditionNode]
+                          ) [IfConditionNode]
+                          IfStatementThen(
+                            InBraceStatement(
+                              Statements(
+                                NoStatement(
+                                ) [NoStatement]
+                                PrintStatement(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantNumber(
+                                       1
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [PrintStatement]
+                              ) [Statements]
+                            ) [InBraceStatement]
+                          ) [IfStatementThen]
+                          IfStatementElse(
+                            InBraceStatement(
+                              Statements(
+                                NoStatement(
+                                ) [NoStatement]
+                                PrintStatement(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantNumber(
+                                       2
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [PrintStatement]
+                              ) [Statements]
+                            ) [InBraceStatement]
+                          ) [IfStatementElse]
+                        ) [IfElseStatement]
+                      ) [Statements]
+                      PrintStatement(
+                        SingleExpression(
+                          TermFactor(
+                            ConstantNumber(
+                             3
+                            ) [ConstantNumber]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [PrintStatement]
+                    ) [Statements]
+                  ) [InBraceStatement]
+                ) [IfStatementThen]
+                IfStatementElse(
+                  InBraceStatement(
+                    Statements(
+                      NoStatement(
+                      ) [NoStatement]
+                      PrintStatement(
+                        SingleExpression(
+                          TermFactor(
+                            ConstantNumber(
+                             4
+                            ) [ConstantNumber]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [PrintStatement]
+                    ) [Statements]
+                  ) [InBraceStatement]
+                ) [IfStatementElse]
+              ) [IfElseStatement]
+            ) [Statements]
+            IfElseStatement(
+              IfConditionNode(
+                ConditionNode(
+                  SingleConditionTerm(
+                    ConditionTermNode(
+                      SingleConditionFact(
+                        CondFactExpressionRelopExpression(
+                          ExpressionNode(
+                            SingleExpression(
+                              TermFactor(
+                                DesignatorEmpty(
+                                  DesignatorNode(
+                                    SingleIdentExpr(
+                                     b
+                                    ) [SingleIdentExpr]
+                                  ) [DesignatorNode]
+                                ) [DesignatorEmpty]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                            AddopPlus(
+                            ) [AddopPlus]
+                            TermFactor(
+                              ConstantNumber(
+                               1
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [ExpressionNode]
+                          RelopNotEqual(
+                          ) [RelopNotEqual]
+                          SingleExpression(
+                            TermFactor(
+                              ConstantNumber(
+                               4
+                              ) [ConstantNumber]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [CondFactExpressionRelopExpression]
+                      ) [SingleConditionFact]
+                    ) [ConditionTermNode]
+                  ) [SingleConditionTerm]
+                ) [ConditionNode]
+              ) [IfConditionNode]
+              IfStatementThen(
+                PrintStatement(
+                  SingleExpression(
+                    TermFactor(
+                      ConstantNumber(
+                       5
+                      ) [ConstantNumber]
+                    ) [TermFactor]
+                  ) [SingleExpression]
+                ) [PrintStatement]
+              ) [IfStatementThen]
+              IfStatementElse(
+                IfElseStatement(
+                  IfConditionNode(
+                    ConditionNode(
+                      SingleConditionTerm(
+                        ConditionTermNode(
+                          SingleConditionFact(
+                            CondFactExpressionRelopExpression(
+                              ExpressionNode(
+                                SingleExpression(
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                        SingleIdentExpr(
+                                         b
+                                        ) [SingleIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                AddopPlus(
+                                ) [AddopPlus]
+                                TermFactor(
+                                  ConstantNumber(
+                                   2
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [ExpressionNode]
+                              RelopEqualEqual(
+                              ) [RelopEqualEqual]
+                              ExpressionNode(
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     6
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                AddopMinus(
+                                ) [AddopMinus]
+                                TermNode(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     1
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                  MulopMul(
+                                  ) [MulopMul]
+                                  ConstantNumber(
+                                   1
+                                  ) [ConstantNumber]
+                                ) [TermNode]
+                              ) [ExpressionNode]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [SingleConditionFact]
+                        ) [ConditionTermNode]
+                      ) [SingleConditionTerm]
+                    ) [ConditionNode]
+                  ) [IfConditionNode]
+                  IfStatementThen(
+                    PrintStatement(
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           6
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [PrintStatement]
+                  ) [IfStatementThen]
+                  IfStatementElse(
+                    InBraceStatement(
+                      Statements(
+                        NoStatement(
+                        ) [NoStatement]
+                        IfStatement(
+                          IfConditionNode(
+                            ConditionNode(
+                              SingleConditionTerm(
+                                ConditionTermNode(
+                                  SingleConditionFact(
+                                    CondFactExpressionRelopExpression(
+                                      SingleExpression(
+                                        TermFactor(
+                                          ConstantNumber(
+                                           2
+                                          ) [ConstantNumber]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                      RelopEqualEqual(
+                                      ) [RelopEqualEqual]
+                                      ExpressionNode(
+                                        SingleExpression(
+                                          TermFactor(
+                                            ConstantNumber(
+                                             0
+                                            ) [ConstantNumber]
+                                          ) [TermFactor]
+                                        ) [SingleExpression]
+                                        AddopPlus(
+                                        ) [AddopPlus]
+                                        TermFactor(
+                                          ConstantNumber(
+                                           2
+                                          ) [ConstantNumber]
+                                        ) [TermFactor]
+                                      ) [ExpressionNode]
+                                    ) [CondFactExpressionRelopExpression]
+                                  ) [SingleConditionFact]
+                                ) [ConditionTermNode]
+                              ) [SingleConditionTerm]
+                            ) [ConditionNode]
+                          ) [IfConditionNode]
+                          IfStatementThen(
+                            IfStatement(
+                              IfConditionNode(
+                                ConditionNode(
+                                  SingleConditionTerm(
+                                    ConditionTermNode(
+                                      SingleConditionFact(
+                                        CondFactExpressionRelopExpression(
+                                          ExpressionNode(
+                                            SingleExpression(
+                                              TermFactor(
+                                                ConstantNumber(
+                                                 2
+                                                ) [ConstantNumber]
+                                              ) [TermFactor]
+                                            ) [SingleExpression]
+                                            AddopPlus(
+                                            ) [AddopPlus]
+                                            TermFactor(
+                                              ConstantNumber(
+                                               1
+                                              ) [ConstantNumber]
+                                            ) [TermFactor]
+                                          ) [ExpressionNode]
+                                          RelopEqualEqual(
+                                          ) [RelopEqualEqual]
+                                          ExpressionNode(
+                                            SingleExpression(
+                                              TermFactor(
+                                                ConstantNumber(
+                                                 4
+                                                ) [ConstantNumber]
+                                              ) [TermFactor]
+                                            ) [SingleExpression]
+                                            AddopMinus(
+                                            ) [AddopMinus]
+                                            TermFactor(
+                                              ConstantNumber(
+                                               1
+                                              ) [ConstantNumber]
+                                            ) [TermFactor]
+                                          ) [ExpressionNode]
+                                        ) [CondFactExpressionRelopExpression]
+                                      ) [SingleConditionFact]
+                                    ) [ConditionTermNode]
+                                  ) [SingleConditionTerm]
+                                ) [ConditionNode]
+                              ) [IfConditionNode]
+                              IfStatementThen(
+                                PrintStatement(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantNumber(
+                                       7
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [PrintStatement]
+                              ) [IfStatementThen]
+                            ) [IfStatement]
+                          ) [IfStatementThen]
+                        ) [IfStatement]
+                      ) [Statements]
+                    ) [InBraceStatement]
+                  ) [IfStatementElse]
+                ) [IfElseStatement]
+              ) [IfStatementElse]
+            ) [IfElseStatement]
+          ) [Statements]
+          IfElseStatement(
+            IfConditionNode(
+              ConditionNode(
+                ConditionTerms(
+                  ConditionTerms(
+                    SingleConditionTerm(
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpression(
+                            SingleExpression(
+                              TermFactor(
+                                ConstantBoolean(
+                                 1
+                                ) [ConstantBoolean]
+                              ) [TermFactor]
+                            ) [SingleExpression]
+                          ) [CondFactExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [SingleConditionTerm]
+                    ConditionTermNode(
+                      SingleConditionFact(
+                        CondFactExpression(
+                          SingleExpression(
+                            TermFactor(
+                              ConstantBoolean(
+                               0
+                              ) [ConstantBoolean]
+                            ) [TermFactor]
+                          ) [SingleExpression]
+                        ) [CondFactExpression]
+                      ) [SingleConditionFact]
+                    ) [ConditionTermNode]
+                  ) [ConditionTerms]
+                  ConditionTermNode(
+                    SingleConditionFact(
+                      CondFactExpression(
+                        SingleExpression(
+                          TermFactor(
+                            ConstantBoolean(
+                             1
+                            ) [ConstantBoolean]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [CondFactExpression]
+                    ) [SingleConditionFact]
+                  ) [ConditionTermNode]
+                ) [ConditionTerms]
+              ) [ConditionNode]
+            ) [IfConditionNode]
+            IfStatementThen(
+              InBraceStatement(
+                Statements(
+                  NoStatement(
+                  ) [NoStatement]
+                  IfStatement(
+                    IfConditionNode(
+                      ConditionNode(
+                        ConditionTerms(
+                          ConditionTerms(
+                            ConditionTerms(
+                              ConditionTerms(
+                                SingleConditionTerm(
+                                  ConditionTermNode(
+                                    SingleConditionFact(
+                                      CondFactExpression(
+                                        SingleExpression(
+                                          TermFactor(
+                                            ConstantBoolean(
+                                             0
+                                            ) [ConstantBoolean]
+                                          ) [TermFactor]
+                                        ) [SingleExpression]
+                                      ) [CondFactExpression]
+                                    ) [SingleConditionFact]
+                                  ) [ConditionTermNode]
+                                ) [SingleConditionTerm]
+                                ConditionTermNode(
+                                  SingleConditionFact(
+                                    CondFactExpression(
+                                      SingleExpression(
+                                        TermFactor(
+                                          ConstantBoolean(
+                                           0
+                                          ) [ConstantBoolean]
+                                        ) [TermFactor]
+                                      ) [SingleExpression]
+                                    ) [CondFactExpression]
+                                  ) [SingleConditionFact]
+                                ) [ConditionTermNode]
+                              ) [ConditionTerms]
+                              ConditionTermNode(
+                                SingleConditionFact(
+                                  CondFactExpression(
+                                    SingleExpression(
+                                      TermFactor(
+                                        ConstantBoolean(
+                                         0
+                                        ) [ConstantBoolean]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [CondFactExpression]
+                                ) [SingleConditionFact]
+                              ) [ConditionTermNode]
+                            ) [ConditionTerms]
+                            ConditionTermNode(
+                              SingleConditionFact(
+                                CondFactExpressionRelopExpression(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantNumber(
+                                       3
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                  RelopGreater(
+                                  ) [RelopGreater]
+                                  ExpressionNode(
+                                    SingleExpression(
+                                      TermFactor(
+                                        ConstantNumber(
+                                         2
+                                        ) [ConstantNumber]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                    AddopMinus(
+                                    ) [AddopMinus]
+                                    TermFactor(
+                                      ConstantNumber(
+                                       1
+                                      ) [ConstantNumber]
+                                    ) [TermFactor]
+                                  ) [ExpressionNode]
+                                ) [CondFactExpressionRelopExpression]
+                              ) [SingleConditionFact]
+                            ) [ConditionTermNode]
+                          ) [ConditionTerms]
+                          ConditionTermNode(
+                            SingleConditionFact(
+                              CondFactExpressionRelopExpression(
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     1
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                RelopEqualEqual(
+                                ) [RelopEqualEqual]
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     2
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [CondFactExpressionRelopExpression]
+                            ) [SingleConditionFact]
+                          ) [ConditionTermNode]
+                        ) [ConditionTerms]
+                      ) [ConditionNode]
+                    ) [IfConditionNode]
+                    IfStatementThen(
+                      PrintStatement(
+                        SingleExpression(
+                          TermFactor(
+                            ConstantCharacter(
+                             Y
+                            ) [ConstantCharacter]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [PrintStatement]
+                    ) [IfStatementThen]
+                  ) [IfStatement]
+                ) [Statements]
+              ) [InBraceStatement]
+            ) [IfStatementThen]
+            IfStatementElse(
+              IfStatement(
+                IfConditionNode(
+                  ConditionNode(
+                    ConditionTerms(
+                      ConditionTerms(
+                        ConditionTerms(
+                          ConditionTerms(
+                            SingleConditionTerm(
+                              ConditionTermNode(
+                                SingleConditionFact(
+                                  CondFactExpression(
+                                    SingleExpression(
+                                      TermFactor(
+                                        ConstantBoolean(
+                                         0
+                                        ) [ConstantBoolean]
+                                      ) [TermFactor]
+                                    ) [SingleExpression]
+                                  ) [CondFactExpression]
+                                ) [SingleConditionFact]
+                              ) [ConditionTermNode]
+                            ) [SingleConditionTerm]
+                            ConditionTermNode(
+                              SingleConditionFact(
+                                CondFactExpression(
+                                  SingleExpression(
+                                    TermFactor(
+                                      ConstantBoolean(
+                                       0
+                                      ) [ConstantBoolean]
+                                    ) [TermFactor]
+                                  ) [SingleExpression]
+                                ) [CondFactExpression]
+                              ) [SingleConditionFact]
+                            ) [ConditionTermNode]
+                          ) [ConditionTerms]
+                          ConditionTermNode(
+                            SingleConditionFact(
+                              CondFactExpression(
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantBoolean(
+                                     0
+                                    ) [ConstantBoolean]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                              ) [CondFactExpression]
+                            ) [SingleConditionFact]
+                          ) [ConditionTermNode]
+                        ) [ConditionTerms]
+                        ConditionTermNode(
+                          SingleConditionFact(
+                            CondFactExpressionRelopExpression(
+                              SingleExpression(
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                      SingleIdentExpr(
+                                       a
+                                      ) [SingleIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                              RelopLess(
+                              ) [RelopLess]
+                              ExpressionNode(
+                                SingleExpression(
+                                  TermFactor(
+                                    ConstantNumber(
+                                     2
+                                    ) [ConstantNumber]
+                                  ) [TermFactor]
+                                ) [SingleExpression]
+                                AddopMinus(
+                                ) [AddopMinus]
+                                TermFactor(
+                                  ConstantNumber(
+                                   1
+                                  ) [ConstantNumber]
+                                ) [TermFactor]
+                              ) [ExpressionNode]
+                            ) [CondFactExpressionRelopExpression]
+                          ) [SingleConditionFact]
+                        ) [ConditionTermNode]
+                      ) [ConditionTerms]
+                      ConditionTermNode(
+                        SingleConditionFact(
+                          CondFactExpressionRelopExpression(
+                            ExpressionNode(
+                              SingleExpression(
+                                TermNode(
+                                  TermFactor(
+                                    DesignatorEmpty(
+                                      DesignatorNode(
+                                        SingleIdentExpr(
+                                         a
+                                        ) [SingleIdentExpr]
+                                      ) [DesignatorNode]
+                                    ) [DesignatorEmpty]
+                                  ) [TermFactor]
+                                  MulopMul(
+                                  ) [MulopMul]
+                                  ConstantNumber(
+                                   2
+                                  ) [ConstantNumber]
+                                ) [TermNode]
+                              ) [SingleExpression]
+                              AddopMinus(
+                              ) [AddopMinus]
+                              TermFactor(
+                                ConstantNumber(
+                                 2
+                                ) [ConstantNumber]
+                              ) [TermFactor]
+                            ) [ExpressionNode]
+                            RelopEqualEqual(
+                            ) [RelopEqualEqual]
+                            ExpressionNode(
+                              SingleExpression(
+                                TermFactor(
+                                  DesignatorEmpty(
+                                    DesignatorNode(
+                                      SingleIdentExpr(
+                                       b
+                                      ) [SingleIdentExpr]
+                                    ) [DesignatorNode]
+                                  ) [DesignatorEmpty]
+                                ) [TermFactor]
+                              ) [SingleExpression]
+                              AddopPlus(
+                              ) [AddopPlus]
+                              TermFactor(
+                                ConstantNumber(
+                                 2
+                                ) [ConstantNumber]
+                              ) [TermFactor]
+                            ) [ExpressionNode]
+                          ) [CondFactExpressionRelopExpression]
+                        ) [SingleConditionFact]
+                      ) [ConditionTermNode]
+                    ) [ConditionTerms]
+                  ) [ConditionNode]
+                ) [IfConditionNode]
+                IfStatementThen(
+                  PrintStatement(
+                    SingleExpression(
+                      TermFactor(
+                        ConstantCharacter(
+                         U
+                        ) [ConstantCharacter]
+                      ) [TermFactor]
+                    ) [SingleExpression]
+                  ) [PrintStatement]
+                ) [IfStatementThen]
+              ) [IfStatement]
+            ) [IfStatementElse]
+          ) [IfElseStatement]
+        ) [Statements]
+        IfStatement(
+          IfConditionNode(
+            ConditionNode(
+              SingleConditionTerm(
+                ConditionTermNode(
+                  ConditionFacts(
+                    SingleConditionFact(
+                      CondFactExpression(
+                        SingleExpression(
+                          TermFactor(
+                            ConstantNumber(
+                             1
+                            ) [ConstantNumber]
+                          ) [TermFactor]
+                        ) [SingleExpression]
+                      ) [CondFactExpression]
+                    ) [SingleConditionFact]
+                    CondFactExpression(
+                      SingleExpression(
+                        TermFactor(
+                          ConstantNumber(
+                           1
+                          ) [ConstantNumber]
+                        ) [TermFactor]
+                      ) [SingleExpression]
+                    ) [CondFactExpression]
+                  ) [ConditionFacts]
+                ) [ConditionTermNode]
+              ) [SingleConditionTerm]
+            ) [ConditionNode]
+          ) [IfConditionNode]
+          IfStatementThen(
+            InBraceStatement(
+              NoStatement(
+              ) [NoStatement]
+            ) [InBraceStatement]
+          ) [IfStatementThen]
+        ) [IfStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:45:57,114 - ===================================
+INFO  01:45:57,117 - Deklarisana single promenljiva x na liniji 3
+INFO  01:45:57,118 - Deklarisana single promenljiva y na liniji 3
+INFO  01:45:57,118 - Deklarisana single promenljiva z na liniji 3
+INFO  01:45:57,118 - Deklarisana array promenljiva arr na liniji 3
+INFO  01:45:57,118 - Definisana funkcija main na liniji 7
+INFO  01:45:57,118 - Deklarisana single promenljiva a na liniji 9
+INFO  01:45:57,118 - Deklarisana single promenljiva b na liniji 9
+INFO  01:45:57,118 - Dodela vrednosti za a na liniji 11
+INFO  01:45:57,118 - Dodela vrednosti za b na liniji 12
+INFO  01:45:57,118 - Pronadjen poziv promenljive a na liniji 14
+INFO  01:45:57,118 - Pronadjen poziv promenljive b na liniji 14
+INFO  01:45:57,118 - Pronadjen poziv promenljive a na liniji 16
+INFO  01:45:57,118 - Pronadjen poziv promenljive b na liniji 28
+INFO  01:45:57,118 - Pronadjen poziv promenljive b na liniji 31
+INFO  01:45:57,119 - Pronadjen poziv promenljive a na liniji 47
+INFO  01:45:57,119 - Pronadjen poziv promenljive a na liniji 47
+INFO  01:45:57,119 - Pronadjen poziv promenljive b na liniji 47
+INFO  01:45:57,119 - main funkcija je korektna.  na liniji 7
+INFO  01:45:57,119 - ===================================
+INFO  01:45:57,129 - Parsiranje uspesno zavrseno!
